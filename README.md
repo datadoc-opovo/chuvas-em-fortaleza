@@ -10,7 +10,7 @@ Este repositório refere-se à análise e apuração realizadas para a reportage
 
 Foram utilizados dados da Fundação Cearense de Meteorologia e Recursos Hídricos (Funceme) e da Defesa Civil de Fortaleza. Também foi consultado o [documento “Fortaleza hoje”, do Projeto Fortaleza 2040](https://fortaleza2040.fortaleza.ce.gov.br/site/assets/revistas/i-mostra-virtual/index.html#page/58), produzido pelo Instituto de Planejamento de Fortaleza (IPLANFOR).
 
-As bases utilizadas para as análises estão disponíveis em arquivo `.csv`, com exceção do documento "Fortaleza hoje", cuja consulta foi feita diretamente no arquivo PDF disponibilizado no link disponibilizado anteriormente. Os códigos produzidos estão no notebook `reportagem_chuvas_fortaleza.ipynb`. A análise é feita em Python.
+As bases utilizadas para as análises estão disponíveis em arquivo `.csv`, com exceção do documento "Fortaleza hoje", cuja consulta foi feita diretamente no arquivo PDF disponibilizado no link disponibilizado anteriormente. Os códigos produzidos estão no notebook `reportagem_grandes_chuvas_fortaleza.ipynb`. A análise é feita em Python.
 
 ![calendario_das_chuvas.png](imagem/calendario_das_chuvas.png)
 
