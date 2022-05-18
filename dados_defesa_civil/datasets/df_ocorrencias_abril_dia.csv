@@ -1,0 +1,3961 @@
+DATA,Tipologia de Ocorrência,Regional,Ocorrências
+01/04/2022,Alagamento,SR 1,0
+01/04/2022,Alagamento,SR 2,1
+01/04/2022,Alagamento,SR 3,2
+01/04/2022,Alagamento,SR 4,1
+01/04/2022,Alagamento,SR 5,0
+01/04/2022,Alagamento,SR 6,0
+01/04/2022,Alagamento,SR 7,0
+01/04/2022,Alagamento,SR 8,0
+01/04/2022,Alagamento,SR 9,1
+01/04/2022,Alagamento,SR 10,0
+01/04/2022,Alagamento,SR 11,0
+01/04/2022,Alagamento,SR 12,0
+01/04/2022,Incêndio,SR 1,0
+01/04/2022,Incêndio,SR 2,0
+01/04/2022,Incêndio,SR 3,0
+01/04/2022,Incêndio,SR 4,0
+01/04/2022,Incêndio,SR 5,0
+01/04/2022,Incêndio,SR 6,0
+01/04/2022,Incêndio,SR 7,0
+01/04/2022,Incêndio,SR 8,0
+01/04/2022,Incêndio,SR 9,0
+01/04/2022,Incêndio,SR 10,0
+01/04/2022,Incêndio,SR 11,0
+01/04/2022,Incêndio,SR 12,0
+01/04/2022,Desabamento,SR 1,0
+01/04/2022,Desabamento,SR 2,2
+01/04/2022,Desabamento,SR 3,1
+01/04/2022,Desabamento,SR 4,0
+01/04/2022,Desabamento,SR 5,0
+01/04/2022,Desabamento,SR 6,1
+01/04/2022,Desabamento,SR 7,0
+01/04/2022,Desabamento,SR 8,0
+01/04/2022,Desabamento,SR 9,0
+01/04/2022,Desabamento,SR 10,0
+01/04/2022,Desabamento,SR 11,0
+01/04/2022,Desabamento,SR 12,0
+01/04/2022,Deslizamento,SR 1,0
+01/04/2022,Deslizamento,SR 2,0
+01/04/2022,Deslizamento,SR 3,0
+01/04/2022,Deslizamento,SR 4,0
+01/04/2022,Deslizamento,SR 5,0
+01/04/2022,Deslizamento,SR 6,0
+01/04/2022,Deslizamento,SR 7,0
+01/04/2022,Deslizamento,SR 8,0
+01/04/2022,Deslizamento,SR 9,0
+01/04/2022,Deslizamento,SR 10,0
+01/04/2022,Deslizamento,SR 11,0
+01/04/2022,Deslizamento,SR 12,0
+01/04/2022,Risco de Alagamento,SR 1,0
+01/04/2022,Risco de Alagamento,SR 2,0
+01/04/2022,Risco de Alagamento,SR 3,0
+01/04/2022,Risco de Alagamento,SR 4,0
+01/04/2022,Risco de Alagamento,SR 5,0
+01/04/2022,Risco de Alagamento,SR 6,0
+01/04/2022,Risco de Alagamento,SR 7,0
+01/04/2022,Risco de Alagamento,SR 8,0
+01/04/2022,Risco de Alagamento,SR 9,0
+01/04/2022,Risco de Alagamento,SR 10,0
+01/04/2022,Risco de Alagamento,SR 11,0
+01/04/2022,Risco de Alagamento,SR 12,0
+01/04/2022,Risco de Desabamento,SR 1,1
+01/04/2022,Risco de Desabamento,SR 2,3
+01/04/2022,Risco de Desabamento,SR 3,4
+01/04/2022,Risco de Desabamento,SR 4,3
+01/04/2022,Risco de Desabamento,SR 5,1
+01/04/2022,Risco de Desabamento,SR 6,3
+01/04/2022,Risco de Desabamento,SR 7,1
+01/04/2022,Risco de Desabamento,SR 8,1
+01/04/2022,Risco de Desabamento,SR 9,0
+01/04/2022,Risco de Desabamento,SR 10,2
+01/04/2022,Risco de Desabamento,SR 11,0
+01/04/2022,Risco de Desabamento,SR 12,1
+01/04/2022,Risco de Deslizamento,SR 1,0
+01/04/2022,Risco de Deslizamento,SR 2,0
+01/04/2022,Risco de Deslizamento,SR 3,0
+01/04/2022,Risco de Deslizamento,SR 4,0
+01/04/2022,Risco de Deslizamento,SR 5,0
+01/04/2022,Risco de Deslizamento,SR 6,0
+01/04/2022,Risco de Deslizamento,SR 7,0
+01/04/2022,Risco de Deslizamento,SR 8,0
+01/04/2022,Risco de Deslizamento,SR 9,0
+01/04/2022,Risco de Deslizamento,SR 10,0
+01/04/2022,Risco de Deslizamento,SR 11,0
+01/04/2022,Risco de Deslizamento,SR 12,0
+01/04/2022,Risco de Inundação,SR 1,0
+01/04/2022,Risco de Inundação,SR 2,0
+01/04/2022,Risco de Inundação,SR 3,0
+01/04/2022,Risco de Inundação,SR 4,0
+01/04/2022,Risco de Inundação,SR 5,0
+01/04/2022,Risco de Inundação,SR 6,0
+01/04/2022,Risco de Inundação,SR 7,0
+01/04/2022,Risco de Inundação,SR 8,0
+01/04/2022,Risco de Inundação,SR 9,0
+01/04/2022,Risco de Inundação,SR 10,0
+01/04/2022,Risco de Inundação,SR 11,0
+01/04/2022,Risco de Inundação,SR 12,0
+01/04/2022,Inundação,SR 1,0
+01/04/2022,Inundação,SR 2,1
+01/04/2022,Inundação,SR 3,1
+01/04/2022,Inundação,SR 4,0
+01/04/2022,Inundação,SR 5,0
+01/04/2022,Inundação,SR 6,0
+01/04/2022,Inundação,SR 7,0
+01/04/2022,Inundação,SR 8,0
+01/04/2022,Inundação,SR 9,0
+01/04/2022,Inundação,SR 10,0
+01/04/2022,Inundação,SR 11,0
+01/04/2022,Inundação,SR 12,0
+01/04/2022,Solapamento,SR 1,0
+01/04/2022,Solapamento,SR 2,0
+01/04/2022,Solapamento,SR 3,0
+01/04/2022,Solapamento,SR 4,0
+01/04/2022,Solapamento,SR 5,0
+01/04/2022,Solapamento,SR 6,0
+01/04/2022,Solapamento,SR 7,0
+01/04/2022,Solapamento,SR 8,0
+01/04/2022,Solapamento,SR 9,0
+01/04/2022,Solapamento,SR 10,0
+01/04/2022,Solapamento,SR 11,0
+01/04/2022,Solapamento,SR 12,0
+01/04/2022,Outros,SR 1,0
+01/04/2022,Outros,SR 2,0
+01/04/2022,Outros,SR 3,0
+01/04/2022,Outros,SR 4,0
+01/04/2022,Outros,SR 5,0
+01/04/2022,Outros,SR 6,0
+01/04/2022,Outros,SR 7,0
+01/04/2022,Outros,SR 8,0
+01/04/2022,Outros,SR 9,0
+01/04/2022,Outros,SR 10,0
+01/04/2022,Outros,SR 11,0
+01/04/2022,Outros,SR 12,0
+02/04/2022,Alagamento,SR 1,0
+02/04/2022,Alagamento,SR 2,0
+02/04/2022,Alagamento,SR 3,0
+02/04/2022,Alagamento,SR 4,1
+02/04/2022,Alagamento,SR 5,0
+02/04/2022,Alagamento,SR 6,2
+02/04/2022,Alagamento,SR 7,0
+02/04/2022,Alagamento,SR 8,0
+02/04/2022,Alagamento,SR 9,0
+02/04/2022,Alagamento,SR 10,0
+02/04/2022,Alagamento,SR 11,0
+02/04/2022,Alagamento,SR 12,0
+02/04/2022,Incêndio,SR 1,0
+02/04/2022,Incêndio,SR 2,0
+02/04/2022,Incêndio,SR 3,0
+02/04/2022,Incêndio,SR 4,0
+02/04/2022,Incêndio,SR 5,0
+02/04/2022,Incêndio,SR 6,0
+02/04/2022,Incêndio,SR 7,0
+02/04/2022,Incêndio,SR 8,0
+02/04/2022,Incêndio,SR 9,0
+02/04/2022,Incêndio,SR 10,0
+02/04/2022,Incêndio,SR 11,0
+02/04/2022,Incêndio,SR 12,0
+02/04/2022,Desabamento,SR 1,1
+02/04/2022,Desabamento,SR 2,0
+02/04/2022,Desabamento,SR 3,0
+02/04/2022,Desabamento,SR 4,2
+02/04/2022,Desabamento,SR 5,0
+02/04/2022,Desabamento,SR 6,0
+02/04/2022,Desabamento,SR 7,0
+02/04/2022,Desabamento,SR 8,0
+02/04/2022,Desabamento,SR 9,0
+02/04/2022,Desabamento,SR 10,0
+02/04/2022,Desabamento,SR 11,0
+02/04/2022,Desabamento,SR 12,0
+02/04/2022,Deslizamento,SR 1,0
+02/04/2022,Deslizamento,SR 2,0
+02/04/2022,Deslizamento,SR 3,0
+02/04/2022,Deslizamento,SR 4,0
+02/04/2022,Deslizamento,SR 5,0
+02/04/2022,Deslizamento,SR 6,0
+02/04/2022,Deslizamento,SR 7,0
+02/04/2022,Deslizamento,SR 8,0
+02/04/2022,Deslizamento,SR 9,0
+02/04/2022,Deslizamento,SR 10,0
+02/04/2022,Deslizamento,SR 11,0
+02/04/2022,Deslizamento,SR 12,0
+02/04/2022,Risco de Alagamento,SR 1,0
+02/04/2022,Risco de Alagamento,SR 2,0
+02/04/2022,Risco de Alagamento,SR 3,0
+02/04/2022,Risco de Alagamento,SR 4,0
+02/04/2022,Risco de Alagamento,SR 5,0
+02/04/2022,Risco de Alagamento,SR 6,0
+02/04/2022,Risco de Alagamento,SR 7,0
+02/04/2022,Risco de Alagamento,SR 8,0
+02/04/2022,Risco de Alagamento,SR 9,0
+02/04/2022,Risco de Alagamento,SR 10,0
+02/04/2022,Risco de Alagamento,SR 11,0
+02/04/2022,Risco de Alagamento,SR 12,0
+02/04/2022,Risco de Desabamento,SR 1,3
+02/04/2022,Risco de Desabamento,SR 2,1
+02/04/2022,Risco de Desabamento,SR 3,2
+02/04/2022,Risco de Desabamento,SR 4,0
+02/04/2022,Risco de Desabamento,SR 5,0
+02/04/2022,Risco de Desabamento,SR 6,1
+02/04/2022,Risco de Desabamento,SR 7,0
+02/04/2022,Risco de Desabamento,SR 8,1
+02/04/2022,Risco de Desabamento,SR 9,0
+02/04/2022,Risco de Desabamento,SR 10,0
+02/04/2022,Risco de Desabamento,SR 11,0
+02/04/2022,Risco de Desabamento,SR 12,1
+02/04/2022,Risco de Deslizamento,SR 1,0
+02/04/2022,Risco de Deslizamento,SR 2,0
+02/04/2022,Risco de Deslizamento,SR 3,0
+02/04/2022,Risco de Deslizamento,SR 4,0
+02/04/2022,Risco de Deslizamento,SR 5,0
+02/04/2022,Risco de Deslizamento,SR 6,0
+02/04/2022,Risco de Deslizamento,SR 7,0
+02/04/2022,Risco de Deslizamento,SR 8,0
+02/04/2022,Risco de Deslizamento,SR 9,0
+02/04/2022,Risco de Deslizamento,SR 10,0
+02/04/2022,Risco de Deslizamento,SR 11,0
+02/04/2022,Risco de Deslizamento,SR 12,0
+02/04/2022,Risco de Inundação,SR 1,0
+02/04/2022,Risco de Inundação,SR 2,0
+02/04/2022,Risco de Inundação,SR 3,0
+02/04/2022,Risco de Inundação,SR 4,0
+02/04/2022,Risco de Inundação,SR 5,0
+02/04/2022,Risco de Inundação,SR 6,0
+02/04/2022,Risco de Inundação,SR 7,0
+02/04/2022,Risco de Inundação,SR 8,0
+02/04/2022,Risco de Inundação,SR 9,0
+02/04/2022,Risco de Inundação,SR 10,0
+02/04/2022,Risco de Inundação,SR 11,0
+02/04/2022,Risco de Inundação,SR 12,0
+02/04/2022,Inundação,SR 1,0
+02/04/2022,Inundação,SR 2,1
+02/04/2022,Inundação,SR 3,0
+02/04/2022,Inundação,SR 4,1
+02/04/2022,Inundação,SR 5,0
+02/04/2022,Inundação,SR 6,1
+02/04/2022,Inundação,SR 7,0
+02/04/2022,Inundação,SR 8,0
+02/04/2022,Inundação,SR 9,8
+02/04/2022,Inundação,SR 10,0
+02/04/2022,Inundação,SR 11,0
+02/04/2022,Inundação,SR 12,0
+02/04/2022,Solapamento,SR 1,0
+02/04/2022,Solapamento,SR 2,0
+02/04/2022,Solapamento,SR 3,0
+02/04/2022,Solapamento,SR 4,0
+02/04/2022,Solapamento,SR 5,0
+02/04/2022,Solapamento,SR 6,0
+02/04/2022,Solapamento,SR 7,0
+02/04/2022,Solapamento,SR 8,0
+02/04/2022,Solapamento,SR 9,0
+02/04/2022,Solapamento,SR 10,0
+02/04/2022,Solapamento,SR 11,0
+02/04/2022,Solapamento,SR 12,0
+02/04/2022,Outros,SR 1,0
+02/04/2022,Outros,SR 2,0
+02/04/2022,Outros,SR 3,0
+02/04/2022,Outros,SR 4,0
+02/04/2022,Outros,SR 5,0
+02/04/2022,Outros,SR 6,0
+02/04/2022,Outros,SR 7,0
+02/04/2022,Outros,SR 8,0
+02/04/2022,Outros,SR 9,0
+02/04/2022,Outros,SR 10,0
+02/04/2022,Outros,SR 11,0
+02/04/2022,Outros,SR 12,0
+03/04/2022,Alagamento,SR 1,0
+03/04/2022,Alagamento,SR 2,0
+03/04/2022,Alagamento,SR 3,0
+03/04/2022,Alagamento,SR 4,0
+03/04/2022,Alagamento,SR 5,0
+03/04/2022,Alagamento,SR 6,0
+03/04/2022,Alagamento,SR 7,0
+03/04/2022,Alagamento,SR 8,0
+03/04/2022,Alagamento,SR 9,0
+03/04/2022,Alagamento,SR 10,0
+03/04/2022,Alagamento,SR 11,0
+03/04/2022,Alagamento,SR 12,0
+03/04/2022,Incêndio,SR 1,0
+03/04/2022,Incêndio,SR 2,0
+03/04/2022,Incêndio,SR 3,0
+03/04/2022,Incêndio,SR 4,0
+03/04/2022,Incêndio,SR 5,0
+03/04/2022,Incêndio,SR 6,0
+03/04/2022,Incêndio,SR 7,0
+03/04/2022,Incêndio,SR 8,0
+03/04/2022,Incêndio,SR 9,0
+03/04/2022,Incêndio,SR 10,0
+03/04/2022,Incêndio,SR 11,0
+03/04/2022,Incêndio,SR 12,0
+03/04/2022,Desabamento,SR 1,0
+03/04/2022,Desabamento,SR 2,0
+03/04/2022,Desabamento,SR 3,1
+03/04/2022,Desabamento,SR 4,2
+03/04/2022,Desabamento,SR 5,0
+03/04/2022,Desabamento,SR 6,0
+03/04/2022,Desabamento,SR 7,1
+03/04/2022,Desabamento,SR 8,0
+03/04/2022,Desabamento,SR 9,0
+03/04/2022,Desabamento,SR 10,0
+03/04/2022,Desabamento,SR 11,1
+03/04/2022,Desabamento,SR 12,0
+03/04/2022,Deslizamento,SR 1,0
+03/04/2022,Deslizamento,SR 2,0
+03/04/2022,Deslizamento,SR 3,0
+03/04/2022,Deslizamento,SR 4,0
+03/04/2022,Deslizamento,SR 5,0
+03/04/2022,Deslizamento,SR 6,0
+03/04/2022,Deslizamento,SR 7,0
+03/04/2022,Deslizamento,SR 8,0
+03/04/2022,Deslizamento,SR 9,0
+03/04/2022,Deslizamento,SR 10,0
+03/04/2022,Deslizamento,SR 11,0
+03/04/2022,Deslizamento,SR 12,0
+03/04/2022,Risco de Alagamento,SR 1,0
+03/04/2022,Risco de Alagamento,SR 2,0
+03/04/2022,Risco de Alagamento,SR 3,0
+03/04/2022,Risco de Alagamento,SR 4,0
+03/04/2022,Risco de Alagamento,SR 5,0
+03/04/2022,Risco de Alagamento,SR 6,0
+03/04/2022,Risco de Alagamento,SR 7,0
+03/04/2022,Risco de Alagamento,SR 8,0
+03/04/2022,Risco de Alagamento,SR 9,0
+03/04/2022,Risco de Alagamento,SR 10,0
+03/04/2022,Risco de Alagamento,SR 11,0
+03/04/2022,Risco de Alagamento,SR 12,0
+03/04/2022,Risco de Desabamento,SR 1,0
+03/04/2022,Risco de Desabamento,SR 2,0
+03/04/2022,Risco de Desabamento,SR 3,0
+03/04/2022,Risco de Desabamento,SR 4,0
+03/04/2022,Risco de Desabamento,SR 5,0
+03/04/2022,Risco de Desabamento,SR 6,0
+03/04/2022,Risco de Desabamento,SR 7,1
+03/04/2022,Risco de Desabamento,SR 8,0
+03/04/2022,Risco de Desabamento,SR 9,0
+03/04/2022,Risco de Desabamento,SR 10,1
+03/04/2022,Risco de Desabamento,SR 11,0
+03/04/2022,Risco de Desabamento,SR 12,0
+03/04/2022,Risco de Deslizamento,SR 1,0
+03/04/2022,Risco de Deslizamento,SR 2,0
+03/04/2022,Risco de Deslizamento,SR 3,0
+03/04/2022,Risco de Deslizamento,SR 4,0
+03/04/2022,Risco de Deslizamento,SR 5,0
+03/04/2022,Risco de Deslizamento,SR 6,0
+03/04/2022,Risco de Deslizamento,SR 7,0
+03/04/2022,Risco de Deslizamento,SR 8,0
+03/04/2022,Risco de Deslizamento,SR 9,0
+03/04/2022,Risco de Deslizamento,SR 10,0
+03/04/2022,Risco de Deslizamento,SR 11,0
+03/04/2022,Risco de Deslizamento,SR 12,0
+03/04/2022,Risco de Inundação,SR 1,0
+03/04/2022,Risco de Inundação,SR 2,0
+03/04/2022,Risco de Inundação,SR 3,0
+03/04/2022,Risco de Inundação,SR 4,0
+03/04/2022,Risco de Inundação,SR 5,0
+03/04/2022,Risco de Inundação,SR 6,0
+03/04/2022,Risco de Inundação,SR 7,0
+03/04/2022,Risco de Inundação,SR 8,0
+03/04/2022,Risco de Inundação,SR 9,1
+03/04/2022,Risco de Inundação,SR 10,0
+03/04/2022,Risco de Inundação,SR 11,0
+03/04/2022,Risco de Inundação,SR 12,0
+03/04/2022,Inundação,SR 1,0
+03/04/2022,Inundação,SR 2,0
+03/04/2022,Inundação,SR 3,0
+03/04/2022,Inundação,SR 4,0
+03/04/2022,Inundação,SR 5,0
+03/04/2022,Inundação,SR 6,0
+03/04/2022,Inundação,SR 7,0
+03/04/2022,Inundação,SR 8,0
+03/04/2022,Inundação,SR 9,0
+03/04/2022,Inundação,SR 10,0
+03/04/2022,Inundação,SR 11,0
+03/04/2022,Inundação,SR 12,0
+03/04/2022,Solapamento,SR 1,0
+03/04/2022,Solapamento,SR 2,0
+03/04/2022,Solapamento,SR 3,0
+03/04/2022,Solapamento,SR 4,0
+03/04/2022,Solapamento,SR 5,0
+03/04/2022,Solapamento,SR 6,0
+03/04/2022,Solapamento,SR 7,0
+03/04/2022,Solapamento,SR 8,0
+03/04/2022,Solapamento,SR 9,0
+03/04/2022,Solapamento,SR 10,0
+03/04/2022,Solapamento,SR 11,0
+03/04/2022,Solapamento,SR 12,0
+03/04/2022,Outros,SR 1,0
+03/04/2022,Outros,SR 2,0
+03/04/2022,Outros,SR 3,0
+03/04/2022,Outros,SR 4,0
+03/04/2022,Outros,SR 5,0
+03/04/2022,Outros,SR 6,0
+03/04/2022,Outros,SR 7,0
+03/04/2022,Outros,SR 8,0
+03/04/2022,Outros,SR 9,0
+03/04/2022,Outros,SR 10,0
+03/04/2022,Outros,SR 11,0
+03/04/2022,Outros,SR 12,0
+04/04/2022,Alagamento,SR 1,1
+04/04/2022,Alagamento,SR 2,1
+04/04/2022,Alagamento,SR 3,0
+04/04/2022,Alagamento,SR 4,1
+04/04/2022,Alagamento,SR 5,0
+04/04/2022,Alagamento,SR 6,0
+04/04/2022,Alagamento,SR 7,3
+04/04/2022,Alagamento,SR 8,1
+04/04/2022,Alagamento,SR 9,0
+04/04/2022,Alagamento,SR 10,0
+04/04/2022,Alagamento,SR 11,0
+04/04/2022,Alagamento,SR 12,0
+04/04/2022,Incêndio,SR 1,0
+04/04/2022,Incêndio,SR 2,0
+04/04/2022,Incêndio,SR 3,0
+04/04/2022,Incêndio,SR 4,0
+04/04/2022,Incêndio,SR 5,0
+04/04/2022,Incêndio,SR 6,0
+04/04/2022,Incêndio,SR 7,0
+04/04/2022,Incêndio,SR 8,0
+04/04/2022,Incêndio,SR 9,0
+04/04/2022,Incêndio,SR 10,0
+04/04/2022,Incêndio,SR 11,0
+04/04/2022,Incêndio,SR 12,0
+04/04/2022,Desabamento,SR 1,0
+04/04/2022,Desabamento,SR 2,0
+04/04/2022,Desabamento,SR 3,2
+04/04/2022,Desabamento,SR 4,1
+04/04/2022,Desabamento,SR 5,0
+04/04/2022,Desabamento,SR 6,0
+04/04/2022,Desabamento,SR 7,0
+04/04/2022,Desabamento,SR 8,0
+04/04/2022,Desabamento,SR 9,0
+04/04/2022,Desabamento,SR 10,0
+04/04/2022,Desabamento,SR 11,0
+04/04/2022,Desabamento,SR 12,2
+04/04/2022,Deslizamento,SR 1,0
+04/04/2022,Deslizamento,SR 2,0
+04/04/2022,Deslizamento,SR 3,0
+04/04/2022,Deslizamento,SR 4,0
+04/04/2022,Deslizamento,SR 5,0
+04/04/2022,Deslizamento,SR 6,0
+04/04/2022,Deslizamento,SR 7,0
+04/04/2022,Deslizamento,SR 8,0
+04/04/2022,Deslizamento,SR 9,0
+04/04/2022,Deslizamento,SR 10,0
+04/04/2022,Deslizamento,SR 11,0
+04/04/2022,Deslizamento,SR 12,0
+04/04/2022,Risco de Alagamento,SR 1,0
+04/04/2022,Risco de Alagamento,SR 2,0
+04/04/2022,Risco de Alagamento,SR 3,0
+04/04/2022,Risco de Alagamento,SR 4,0
+04/04/2022,Risco de Alagamento,SR 5,0
+04/04/2022,Risco de Alagamento,SR 6,0
+04/04/2022,Risco de Alagamento,SR 7,0
+04/04/2022,Risco de Alagamento,SR 8,1
+04/04/2022,Risco de Alagamento,SR 9,0
+04/04/2022,Risco de Alagamento,SR 10,0
+04/04/2022,Risco de Alagamento,SR 11,0
+04/04/2022,Risco de Alagamento,SR 12,0
+04/04/2022,Risco de Desabamento,SR 1,5
+04/04/2022,Risco de Desabamento,SR 2,7
+04/04/2022,Risco de Desabamento,SR 3,1
+04/04/2022,Risco de Desabamento,SR 4,2
+04/04/2022,Risco de Desabamento,SR 5,1
+04/04/2022,Risco de Desabamento,SR 6,1
+04/04/2022,Risco de Desabamento,SR 7,0
+04/04/2022,Risco de Desabamento,SR 8,1
+04/04/2022,Risco de Desabamento,SR 9,1
+04/04/2022,Risco de Desabamento,SR 10,1
+04/04/2022,Risco de Desabamento,SR 11,4
+04/04/2022,Risco de Desabamento,SR 12,0
+04/04/2022,Risco de Deslizamento,SR 1,0
+04/04/2022,Risco de Deslizamento,SR 2,0
+04/04/2022,Risco de Deslizamento,SR 3,0
+04/04/2022,Risco de Deslizamento,SR 4,0
+04/04/2022,Risco de Deslizamento,SR 5,0
+04/04/2022,Risco de Deslizamento,SR 6,0
+04/04/2022,Risco de Deslizamento,SR 7,0
+04/04/2022,Risco de Deslizamento,SR 8,0
+04/04/2022,Risco de Deslizamento,SR 9,0
+04/04/2022,Risco de Deslizamento,SR 10,0
+04/04/2022,Risco de Deslizamento,SR 11,0
+04/04/2022,Risco de Deslizamento,SR 12,0
+04/04/2022,Risco de Inundação,SR 1,0
+04/04/2022,Risco de Inundação,SR 2,0
+04/04/2022,Risco de Inundação,SR 3,0
+04/04/2022,Risco de Inundação,SR 4,0
+04/04/2022,Risco de Inundação,SR 5,0
+04/04/2022,Risco de Inundação,SR 6,0
+04/04/2022,Risco de Inundação,SR 7,0
+04/04/2022,Risco de Inundação,SR 8,0
+04/04/2022,Risco de Inundação,SR 9,0
+04/04/2022,Risco de Inundação,SR 10,0
+04/04/2022,Risco de Inundação,SR 11,0
+04/04/2022,Risco de Inundação,SR 12,0
+04/04/2022,Inundação,SR 1,0
+04/04/2022,Inundação,SR 2,0
+04/04/2022,Inundação,SR 3,0
+04/04/2022,Inundação,SR 4,0
+04/04/2022,Inundação,SR 5,0
+04/04/2022,Inundação,SR 6,0
+04/04/2022,Inundação,SR 7,0
+04/04/2022,Inundação,SR 8,0
+04/04/2022,Inundação,SR 9,0
+04/04/2022,Inundação,SR 10,0
+04/04/2022,Inundação,SR 11,0
+04/04/2022,Inundação,SR 12,0
+04/04/2022,Solapamento,SR 1,0
+04/04/2022,Solapamento,SR 2,0
+04/04/2022,Solapamento,SR 3,0
+04/04/2022,Solapamento,SR 4,0
+04/04/2022,Solapamento,SR 5,0
+04/04/2022,Solapamento,SR 6,0
+04/04/2022,Solapamento,SR 7,0
+04/04/2022,Solapamento,SR 8,0
+04/04/2022,Solapamento,SR 9,0
+04/04/2022,Solapamento,SR 10,1
+04/04/2022,Solapamento,SR 11,0
+04/04/2022,Solapamento,SR 12,0
+04/04/2022,Outros,SR 1,0
+04/04/2022,Outros,SR 2,0
+04/04/2022,Outros,SR 3,0
+04/04/2022,Outros,SR 4,0
+04/04/2022,Outros,SR 5,0
+04/04/2022,Outros,SR 6,0
+04/04/2022,Outros,SR 7,0
+04/04/2022,Outros,SR 8,0
+04/04/2022,Outros,SR 9,0
+04/04/2022,Outros,SR 10,0
+04/04/2022,Outros,SR 11,0
+04/04/2022,Outros,SR 12,0
+05/04/2022,Alagamento,SR 1,1
+05/04/2022,Alagamento,SR 2,0
+05/04/2022,Alagamento,SR 3,0
+05/04/2022,Alagamento,SR 4,0
+05/04/2022,Alagamento,SR 5,0
+05/04/2022,Alagamento,SR 6,0
+05/04/2022,Alagamento,SR 7,0
+05/04/2022,Alagamento,SR 8,0
+05/04/2022,Alagamento,SR 9,0
+05/04/2022,Alagamento,SR 10,0
+05/04/2022,Alagamento,SR 11,0
+05/04/2022,Alagamento,SR 12,0
+05/04/2022,Incêndio,SR 1,0
+05/04/2022,Incêndio,SR 2,0
+05/04/2022,Incêndio,SR 3,0
+05/04/2022,Incêndio,SR 4,0
+05/04/2022,Incêndio,SR 5,0
+05/04/2022,Incêndio,SR 6,0
+05/04/2022,Incêndio,SR 7,0
+05/04/2022,Incêndio,SR 8,0
+05/04/2022,Incêndio,SR 9,0
+05/04/2022,Incêndio,SR 10,0
+05/04/2022,Incêndio,SR 11,0
+05/04/2022,Incêndio,SR 12,0
+05/04/2022,Desabamento,SR 1,0
+05/04/2022,Desabamento,SR 2,0
+05/04/2022,Desabamento,SR 3,2
+05/04/2022,Desabamento,SR 4,0
+05/04/2022,Desabamento,SR 5,0
+05/04/2022,Desabamento,SR 6,0
+05/04/2022,Desabamento,SR 7,0
+05/04/2022,Desabamento,SR 8,1
+05/04/2022,Desabamento,SR 9,0
+05/04/2022,Desabamento,SR 10,0
+05/04/2022,Desabamento,SR 11,0
+05/04/2022,Desabamento,SR 12,0
+05/04/2022,Deslizamento,SR 1,0
+05/04/2022,Deslizamento,SR 2,0
+05/04/2022,Deslizamento,SR 3,0
+05/04/2022,Deslizamento,SR 4,0
+05/04/2022,Deslizamento,SR 5,0
+05/04/2022,Deslizamento,SR 6,0
+05/04/2022,Deslizamento,SR 7,0
+05/04/2022,Deslizamento,SR 8,0
+05/04/2022,Deslizamento,SR 9,0
+05/04/2022,Deslizamento,SR 10,0
+05/04/2022,Deslizamento,SR 11,0
+05/04/2022,Deslizamento,SR 12,0
+05/04/2022,Risco de Alagamento,SR 1,0
+05/04/2022,Risco de Alagamento,SR 2,0
+05/04/2022,Risco de Alagamento,SR 3,0
+05/04/2022,Risco de Alagamento,SR 4,0
+05/04/2022,Risco de Alagamento,SR 5,0
+05/04/2022,Risco de Alagamento,SR 6,0
+05/04/2022,Risco de Alagamento,SR 7,0
+05/04/2022,Risco de Alagamento,SR 8,0
+05/04/2022,Risco de Alagamento,SR 9,0
+05/04/2022,Risco de Alagamento,SR 10,0
+05/04/2022,Risco de Alagamento,SR 11,0
+05/04/2022,Risco de Alagamento,SR 12,0
+05/04/2022,Risco de Desabamento,SR 1,1
+05/04/2022,Risco de Desabamento,SR 2,5
+05/04/2022,Risco de Desabamento,SR 3,1
+05/04/2022,Risco de Desabamento,SR 4,3
+05/04/2022,Risco de Desabamento,SR 5,1
+05/04/2022,Risco de Desabamento,SR 6,1
+05/04/2022,Risco de Desabamento,SR 7,0
+05/04/2022,Risco de Desabamento,SR 8,2
+05/04/2022,Risco de Desabamento,SR 9,0
+05/04/2022,Risco de Desabamento,SR 10,1
+05/04/2022,Risco de Desabamento,SR 11,2
+05/04/2022,Risco de Desabamento,SR 12,2
+05/04/2022,Risco de Deslizamento,SR 1,0
+05/04/2022,Risco de Deslizamento,SR 2,0
+05/04/2022,Risco de Deslizamento,SR 3,0
+05/04/2022,Risco de Deslizamento,SR 4,0
+05/04/2022,Risco de Deslizamento,SR 5,0
+05/04/2022,Risco de Deslizamento,SR 6,0
+05/04/2022,Risco de Deslizamento,SR 7,0
+05/04/2022,Risco de Deslizamento,SR 8,0
+05/04/2022,Risco de Deslizamento,SR 9,0
+05/04/2022,Risco de Deslizamento,SR 10,0
+05/04/2022,Risco de Deslizamento,SR 11,0
+05/04/2022,Risco de Deslizamento,SR 12,0
+05/04/2022,Risco de Inundação,SR 1,0
+05/04/2022,Risco de Inundação,SR 2,0
+05/04/2022,Risco de Inundação,SR 3,0
+05/04/2022,Risco de Inundação,SR 4,0
+05/04/2022,Risco de Inundação,SR 5,0
+05/04/2022,Risco de Inundação,SR 6,0
+05/04/2022,Risco de Inundação,SR 7,0
+05/04/2022,Risco de Inundação,SR 8,0
+05/04/2022,Risco de Inundação,SR 9,0
+05/04/2022,Risco de Inundação,SR 10,0
+05/04/2022,Risco de Inundação,SR 11,0
+05/04/2022,Risco de Inundação,SR 12,0
+05/04/2022,Inundação,SR 1,0
+05/04/2022,Inundação,SR 2,0
+05/04/2022,Inundação,SR 3,0
+05/04/2022,Inundação,SR 4,0
+05/04/2022,Inundação,SR 5,0
+05/04/2022,Inundação,SR 6,0
+05/04/2022,Inundação,SR 7,0
+05/04/2022,Inundação,SR 8,0
+05/04/2022,Inundação,SR 9,1
+05/04/2022,Inundação,SR 10,0
+05/04/2022,Inundação,SR 11,0
+05/04/2022,Inundação,SR 12,0
+05/04/2022,Solapamento,SR 1,0
+05/04/2022,Solapamento,SR 2,0
+05/04/2022,Solapamento,SR 3,0
+05/04/2022,Solapamento,SR 4,0
+05/04/2022,Solapamento,SR 5,0
+05/04/2022,Solapamento,SR 6,0
+05/04/2022,Solapamento,SR 7,0
+05/04/2022,Solapamento,SR 8,0
+05/04/2022,Solapamento,SR 9,0
+05/04/2022,Solapamento,SR 10,0
+05/04/2022,Solapamento,SR 11,0
+05/04/2022,Solapamento,SR 12,0
+05/04/2022,Outros,SR 1,0
+05/04/2022,Outros,SR 2,0
+05/04/2022,Outros,SR 3,0
+05/04/2022,Outros,SR 4,0
+05/04/2022,Outros,SR 5,0
+05/04/2022,Outros,SR 6,0
+05/04/2022,Outros,SR 7,0
+05/04/2022,Outros,SR 8,0
+05/04/2022,Outros,SR 9,0
+05/04/2022,Outros,SR 10,0
+05/04/2022,Outros,SR 11,0
+05/04/2022,Outros,SR 12,0
+06/04/2022,Alagamento,SR 1,1
+06/04/2022,Alagamento,SR 2,0
+06/04/2022,Alagamento,SR 3,0
+06/04/2022,Alagamento,SR 4,0
+06/04/2022,Alagamento,SR 5,0
+06/04/2022,Alagamento,SR 6,0
+06/04/2022,Alagamento,SR 7,0
+06/04/2022,Alagamento,SR 8,0
+06/04/2022,Alagamento,SR 9,0
+06/04/2022,Alagamento,SR 10,0
+06/04/2022,Alagamento,SR 11,0
+06/04/2022,Alagamento,SR 12,0
+06/04/2022,Incêndio,SR 1,0
+06/04/2022,Incêndio,SR 2,0
+06/04/2022,Incêndio,SR 3,0
+06/04/2022,Incêndio,SR 4,0
+06/04/2022,Incêndio,SR 5,0
+06/04/2022,Incêndio,SR 6,0
+06/04/2022,Incêndio,SR 7,0
+06/04/2022,Incêndio,SR 8,0
+06/04/2022,Incêndio,SR 9,0
+06/04/2022,Incêndio,SR 10,0
+06/04/2022,Incêndio,SR 11,0
+06/04/2022,Incêndio,SR 12,0
+06/04/2022,Desabamento,SR 1,1
+06/04/2022,Desabamento,SR 2,0
+06/04/2022,Desabamento,SR 3,0
+06/04/2022,Desabamento,SR 4,0
+06/04/2022,Desabamento,SR 5,0
+06/04/2022,Desabamento,SR 6,0
+06/04/2022,Desabamento,SR 7,0
+06/04/2022,Desabamento,SR 8,0
+06/04/2022,Desabamento,SR 9,0
+06/04/2022,Desabamento,SR 10,0
+06/04/2022,Desabamento,SR 11,0
+06/04/2022,Desabamento,SR 12,0
+06/04/2022,Deslizamento,SR 1,0
+06/04/2022,Deslizamento,SR 2,0
+06/04/2022,Deslizamento,SR 3,0
+06/04/2022,Deslizamento,SR 4,0
+06/04/2022,Deslizamento,SR 5,0
+06/04/2022,Deslizamento,SR 6,0
+06/04/2022,Deslizamento,SR 7,0
+06/04/2022,Deslizamento,SR 8,0
+06/04/2022,Deslizamento,SR 9,0
+06/04/2022,Deslizamento,SR 10,0
+06/04/2022,Deslizamento,SR 11,0
+06/04/2022,Deslizamento,SR 12,0
+06/04/2022,Risco de Alagamento,SR 1,0
+06/04/2022,Risco de Alagamento,SR 2,0
+06/04/2022,Risco de Alagamento,SR 3,0
+06/04/2022,Risco de Alagamento,SR 4,0
+06/04/2022,Risco de Alagamento,SR 5,0
+06/04/2022,Risco de Alagamento,SR 6,0
+06/04/2022,Risco de Alagamento,SR 7,0
+06/04/2022,Risco de Alagamento,SR 8,0
+06/04/2022,Risco de Alagamento,SR 9,0
+06/04/2022,Risco de Alagamento,SR 10,0
+06/04/2022,Risco de Alagamento,SR 11,0
+06/04/2022,Risco de Alagamento,SR 12,0
+06/04/2022,Risco de Desabamento,SR 1,1
+06/04/2022,Risco de Desabamento,SR 2,4
+06/04/2022,Risco de Desabamento,SR 3,0
+06/04/2022,Risco de Desabamento,SR 4,3
+06/04/2022,Risco de Desabamento,SR 5,0
+06/04/2022,Risco de Desabamento,SR 6,1
+06/04/2022,Risco de Desabamento,SR 7,0
+06/04/2022,Risco de Desabamento,SR 8,3
+06/04/2022,Risco de Desabamento,SR 9,1
+06/04/2022,Risco de Desabamento,SR 10,1
+06/04/2022,Risco de Desabamento,SR 11,1
+06/04/2022,Risco de Desabamento,SR 12,0
+06/04/2022,Risco de Deslizamento,SR 1,0
+06/04/2022,Risco de Deslizamento,SR 2,0
+06/04/2022,Risco de Deslizamento,SR 3,0
+06/04/2022,Risco de Deslizamento,SR 4,0
+06/04/2022,Risco de Deslizamento,SR 5,0
+06/04/2022,Risco de Deslizamento,SR 6,0
+06/04/2022,Risco de Deslizamento,SR 7,0
+06/04/2022,Risco de Deslizamento,SR 8,0
+06/04/2022,Risco de Deslizamento,SR 9,0
+06/04/2022,Risco de Deslizamento,SR 10,0
+06/04/2022,Risco de Deslizamento,SR 11,0
+06/04/2022,Risco de Deslizamento,SR 12,0
+06/04/2022,Risco de Inundação,SR 1,0
+06/04/2022,Risco de Inundação,SR 2,0
+06/04/2022,Risco de Inundação,SR 3,0
+06/04/2022,Risco de Inundação,SR 4,0
+06/04/2022,Risco de Inundação,SR 5,0
+06/04/2022,Risco de Inundação,SR 6,0
+06/04/2022,Risco de Inundação,SR 7,0
+06/04/2022,Risco de Inundação,SR 8,0
+06/04/2022,Risco de Inundação,SR 9,0
+06/04/2022,Risco de Inundação,SR 10,0
+06/04/2022,Risco de Inundação,SR 11,0
+06/04/2022,Risco de Inundação,SR 12,0
+06/04/2022,Inundação,SR 1,0
+06/04/2022,Inundação,SR 2,0
+06/04/2022,Inundação,SR 3,0
+06/04/2022,Inundação,SR 4,0
+06/04/2022,Inundação,SR 5,0
+06/04/2022,Inundação,SR 6,0
+06/04/2022,Inundação,SR 7,0
+06/04/2022,Inundação,SR 8,0
+06/04/2022,Inundação,SR 9,0
+06/04/2022,Inundação,SR 10,0
+06/04/2022,Inundação,SR 11,0
+06/04/2022,Inundação,SR 12,0
+06/04/2022,Solapamento,SR 1,0
+06/04/2022,Solapamento,SR 2,0
+06/04/2022,Solapamento,SR 3,0
+06/04/2022,Solapamento,SR 4,0
+06/04/2022,Solapamento,SR 5,0
+06/04/2022,Solapamento,SR 6,0
+06/04/2022,Solapamento,SR 7,0
+06/04/2022,Solapamento,SR 8,0
+06/04/2022,Solapamento,SR 9,0
+06/04/2022,Solapamento,SR 10,0
+06/04/2022,Solapamento,SR 11,0
+06/04/2022,Solapamento,SR 12,0
+06/04/2022,Outros,SR 1,0
+06/04/2022,Outros,SR 2,0
+06/04/2022,Outros,SR 3,0
+06/04/2022,Outros,SR 4,1
+06/04/2022,Outros,SR 5,0
+06/04/2022,Outros,SR 6,0
+06/04/2022,Outros,SR 7,0
+06/04/2022,Outros,SR 8,0
+06/04/2022,Outros,SR 9,0
+06/04/2022,Outros,SR 10,0
+06/04/2022,Outros,SR 11,0
+06/04/2022,Outros,SR 12,0
+07/04/2022,Alagamento,SR 1,0
+07/04/2022,Alagamento,SR 2,4
+07/04/2022,Alagamento,SR 3,1
+07/04/2022,Alagamento,SR 4,2
+07/04/2022,Alagamento,SR 5,0
+07/04/2022,Alagamento,SR 6,0
+07/04/2022,Alagamento,SR 7,1
+07/04/2022,Alagamento,SR 8,0
+07/04/2022,Alagamento,SR 9,0
+07/04/2022,Alagamento,SR 10,0
+07/04/2022,Alagamento,SR 11,0
+07/04/2022,Alagamento,SR 12,0
+07/04/2022,Incêndio,SR 1,0
+07/04/2022,Incêndio,SR 2,0
+07/04/2022,Incêndio,SR 3,0
+07/04/2022,Incêndio,SR 4,0
+07/04/2022,Incêndio,SR 5,0
+07/04/2022,Incêndio,SR 6,0
+07/04/2022,Incêndio,SR 7,0
+07/04/2022,Incêndio,SR 8,0
+07/04/2022,Incêndio,SR 9,0
+07/04/2022,Incêndio,SR 10,0
+07/04/2022,Incêndio,SR 11,0
+07/04/2022,Incêndio,SR 12,0
+07/04/2022,Desabamento,SR 1,0
+07/04/2022,Desabamento,SR 2,0
+07/04/2022,Desabamento,SR 3,0
+07/04/2022,Desabamento,SR 4,3
+07/04/2022,Desabamento,SR 5,0
+07/04/2022,Desabamento,SR 6,0
+07/04/2022,Desabamento,SR 7,0
+07/04/2022,Desabamento,SR 8,0
+07/04/2022,Desabamento,SR 9,0
+07/04/2022,Desabamento,SR 10,0
+07/04/2022,Desabamento,SR 11,0
+07/04/2022,Desabamento,SR 12,2
+07/04/2022,Deslizamento,SR 1,0
+07/04/2022,Deslizamento,SR 2,0
+07/04/2022,Deslizamento,SR 3,0
+07/04/2022,Deslizamento,SR 4,0
+07/04/2022,Deslizamento,SR 5,0
+07/04/2022,Deslizamento,SR 6,0
+07/04/2022,Deslizamento,SR 7,0
+07/04/2022,Deslizamento,SR 8,0
+07/04/2022,Deslizamento,SR 9,0
+07/04/2022,Deslizamento,SR 10,0
+07/04/2022,Deslizamento,SR 11,0
+07/04/2022,Deslizamento,SR 12,0
+07/04/2022,Risco de Alagamento,SR 1,0
+07/04/2022,Risco de Alagamento,SR 2,0
+07/04/2022,Risco de Alagamento,SR 3,0
+07/04/2022,Risco de Alagamento,SR 4,0
+07/04/2022,Risco de Alagamento,SR 5,0
+07/04/2022,Risco de Alagamento,SR 6,0
+07/04/2022,Risco de Alagamento,SR 7,0
+07/04/2022,Risco de Alagamento,SR 8,0
+07/04/2022,Risco de Alagamento,SR 9,0
+07/04/2022,Risco de Alagamento,SR 10,0
+07/04/2022,Risco de Alagamento,SR 11,0
+07/04/2022,Risco de Alagamento,SR 12,0
+07/04/2022,Risco de Desabamento,SR 1,2
+07/04/2022,Risco de Desabamento,SR 2,7
+07/04/2022,Risco de Desabamento,SR 3,3
+07/04/2022,Risco de Desabamento,SR 4,1
+07/04/2022,Risco de Desabamento,SR 5,0
+07/04/2022,Risco de Desabamento,SR 6,0
+07/04/2022,Risco de Desabamento,SR 7,1
+07/04/2022,Risco de Desabamento,SR 8,0
+07/04/2022,Risco de Desabamento,SR 9,1
+07/04/2022,Risco de Desabamento,SR 10,0
+07/04/2022,Risco de Desabamento,SR 11,3
+07/04/2022,Risco de Desabamento,SR 12,1
+07/04/2022,Risco de Deslizamento,SR 1,0
+07/04/2022,Risco de Deslizamento,SR 2,0
+07/04/2022,Risco de Deslizamento,SR 3,0
+07/04/2022,Risco de Deslizamento,SR 4,0
+07/04/2022,Risco de Deslizamento,SR 5,0
+07/04/2022,Risco de Deslizamento,SR 6,0
+07/04/2022,Risco de Deslizamento,SR 7,0
+07/04/2022,Risco de Deslizamento,SR 8,0
+07/04/2022,Risco de Deslizamento,SR 9,0
+07/04/2022,Risco de Deslizamento,SR 10,0
+07/04/2022,Risco de Deslizamento,SR 11,0
+07/04/2022,Risco de Deslizamento,SR 12,0
+07/04/2022,Risco de Inundação,SR 1,0
+07/04/2022,Risco de Inundação,SR 2,0
+07/04/2022,Risco de Inundação,SR 3,0
+07/04/2022,Risco de Inundação,SR 4,0
+07/04/2022,Risco de Inundação,SR 5,0
+07/04/2022,Risco de Inundação,SR 6,0
+07/04/2022,Risco de Inundação,SR 7,0
+07/04/2022,Risco de Inundação,SR 8,0
+07/04/2022,Risco de Inundação,SR 9,0
+07/04/2022,Risco de Inundação,SR 10,0
+07/04/2022,Risco de Inundação,SR 11,0
+07/04/2022,Risco de Inundação,SR 12,0
+07/04/2022,Inundação,SR 1,0
+07/04/2022,Inundação,SR 2,2
+07/04/2022,Inundação,SR 3,0
+07/04/2022,Inundação,SR 4,0
+07/04/2022,Inundação,SR 5,0
+07/04/2022,Inundação,SR 6,0
+07/04/2022,Inundação,SR 7,0
+07/04/2022,Inundação,SR 8,0
+07/04/2022,Inundação,SR 9,0
+07/04/2022,Inundação,SR 10,0
+07/04/2022,Inundação,SR 11,0
+07/04/2022,Inundação,SR 12,0
+07/04/2022,Solapamento,SR 1,0
+07/04/2022,Solapamento,SR 2,0
+07/04/2022,Solapamento,SR 3,0
+07/04/2022,Solapamento,SR 4,0
+07/04/2022,Solapamento,SR 5,0
+07/04/2022,Solapamento,SR 6,0
+07/04/2022,Solapamento,SR 7,0
+07/04/2022,Solapamento,SR 8,0
+07/04/2022,Solapamento,SR 9,0
+07/04/2022,Solapamento,SR 10,0
+07/04/2022,Solapamento,SR 11,0
+07/04/2022,Solapamento,SR 12,0
+07/04/2022,Outros,SR 1,0
+07/04/2022,Outros,SR 2,0
+07/04/2022,Outros,SR 3,0
+07/04/2022,Outros,SR 4,0
+07/04/2022,Outros,SR 5,0
+07/04/2022,Outros,SR 6,0
+07/04/2022,Outros,SR 7,0
+07/04/2022,Outros,SR 8,0
+07/04/2022,Outros,SR 9,0
+07/04/2022,Outros,SR 10,0
+07/04/2022,Outros,SR 11,0
+07/04/2022,Outros,SR 12,0
+08/04/2022,Alagamento,SR 1,0
+08/04/2022,Alagamento,SR 2,0
+08/04/2022,Alagamento,SR 3,0
+08/04/2022,Alagamento,SR 4,0
+08/04/2022,Alagamento,SR 5,0
+08/04/2022,Alagamento,SR 6,1
+08/04/2022,Alagamento,SR 7,0
+08/04/2022,Alagamento,SR 8,0
+08/04/2022,Alagamento,SR 9,0
+08/04/2022,Alagamento,SR 10,0
+08/04/2022,Alagamento,SR 11,0
+08/04/2022,Alagamento,SR 12,0
+08/04/2022,Incêndio,SR 1,0
+08/04/2022,Incêndio,SR 2,0
+08/04/2022,Incêndio,SR 3,0
+08/04/2022,Incêndio,SR 4,1
+08/04/2022,Incêndio,SR 5,0
+08/04/2022,Incêndio,SR 6,0
+08/04/2022,Incêndio,SR 7,0
+08/04/2022,Incêndio,SR 8,0
+08/04/2022,Incêndio,SR 9,0
+08/04/2022,Incêndio,SR 10,0
+08/04/2022,Incêndio,SR 11,0
+08/04/2022,Incêndio,SR 12,0
+08/04/2022,Desabamento,SR 1,0
+08/04/2022,Desabamento,SR 2,0
+08/04/2022,Desabamento,SR 3,0
+08/04/2022,Desabamento,SR 4,1
+08/04/2022,Desabamento,SR 5,1
+08/04/2022,Desabamento,SR 6,0
+08/04/2022,Desabamento,SR 7,1
+08/04/2022,Desabamento,SR 8,0
+08/04/2022,Desabamento,SR 9,0
+08/04/2022,Desabamento,SR 10,0
+08/04/2022,Desabamento,SR 11,1
+08/04/2022,Desabamento,SR 12,0
+08/04/2022,Deslizamento,SR 1,0
+08/04/2022,Deslizamento,SR 2,0
+08/04/2022,Deslizamento,SR 3,0
+08/04/2022,Deslizamento,SR 4,0
+08/04/2022,Deslizamento,SR 5,0
+08/04/2022,Deslizamento,SR 6,0
+08/04/2022,Deslizamento,SR 7,0
+08/04/2022,Deslizamento,SR 8,0
+08/04/2022,Deslizamento,SR 9,0
+08/04/2022,Deslizamento,SR 10,0
+08/04/2022,Deslizamento,SR 11,0
+08/04/2022,Deslizamento,SR 12,0
+08/04/2022,Risco de Alagamento,SR 1,0
+08/04/2022,Risco de Alagamento,SR 2,0
+08/04/2022,Risco de Alagamento,SR 3,0
+08/04/2022,Risco de Alagamento,SR 4,0
+08/04/2022,Risco de Alagamento,SR 5,0
+08/04/2022,Risco de Alagamento,SR 6,0
+08/04/2022,Risco de Alagamento,SR 7,0
+08/04/2022,Risco de Alagamento,SR 8,0
+08/04/2022,Risco de Alagamento,SR 9,0
+08/04/2022,Risco de Alagamento,SR 10,0
+08/04/2022,Risco de Alagamento,SR 11,0
+08/04/2022,Risco de Alagamento,SR 12,0
+08/04/2022,Risco de Desabamento,SR 1,0
+08/04/2022,Risco de Desabamento,SR 2,4
+08/04/2022,Risco de Desabamento,SR 3,1
+08/04/2022,Risco de Desabamento,SR 4,1
+08/04/2022,Risco de Desabamento,SR 5,0
+08/04/2022,Risco de Desabamento,SR 6,1
+08/04/2022,Risco de Desabamento,SR 7,1
+08/04/2022,Risco de Desabamento,SR 8,2
+08/04/2022,Risco de Desabamento,SR 9,0
+08/04/2022,Risco de Desabamento,SR 10,0
+08/04/2022,Risco de Desabamento,SR 11,0
+08/04/2022,Risco de Desabamento,SR 12,0
+08/04/2022,Risco de Deslizamento,SR 1,0
+08/04/2022,Risco de Deslizamento,SR 2,0
+08/04/2022,Risco de Deslizamento,SR 3,0
+08/04/2022,Risco de Deslizamento,SR 4,0
+08/04/2022,Risco de Deslizamento,SR 5,0
+08/04/2022,Risco de Deslizamento,SR 6,0
+08/04/2022,Risco de Deslizamento,SR 7,1
+08/04/2022,Risco de Deslizamento,SR 8,0
+08/04/2022,Risco de Deslizamento,SR 9,0
+08/04/2022,Risco de Deslizamento,SR 10,0
+08/04/2022,Risco de Deslizamento,SR 11,0
+08/04/2022,Risco de Deslizamento,SR 12,0
+08/04/2022,Risco de Inundação,SR 1,0
+08/04/2022,Risco de Inundação,SR 2,0
+08/04/2022,Risco de Inundação,SR 3,0
+08/04/2022,Risco de Inundação,SR 4,0
+08/04/2022,Risco de Inundação,SR 5,0
+08/04/2022,Risco de Inundação,SR 6,0
+08/04/2022,Risco de Inundação,SR 7,0
+08/04/2022,Risco de Inundação,SR 8,0
+08/04/2022,Risco de Inundação,SR 9,0
+08/04/2022,Risco de Inundação,SR 10,0
+08/04/2022,Risco de Inundação,SR 11,0
+08/04/2022,Risco de Inundação,SR 12,0
+08/04/2022,Inundação,SR 1,0
+08/04/2022,Inundação,SR 2,0
+08/04/2022,Inundação,SR 3,0
+08/04/2022,Inundação,SR 4,0
+08/04/2022,Inundação,SR 5,0
+08/04/2022,Inundação,SR 6,0
+08/04/2022,Inundação,SR 7,1
+08/04/2022,Inundação,SR 8,0
+08/04/2022,Inundação,SR 9,0
+08/04/2022,Inundação,SR 10,0
+08/04/2022,Inundação,SR 11,0
+08/04/2022,Inundação,SR 12,0
+08/04/2022,Solapamento,SR 1,0
+08/04/2022,Solapamento,SR 2,1
+08/04/2022,Solapamento,SR 3,0
+08/04/2022,Solapamento,SR 4,0
+08/04/2022,Solapamento,SR 5,0
+08/04/2022,Solapamento,SR 6,0
+08/04/2022,Solapamento,SR 7,0
+08/04/2022,Solapamento,SR 8,0
+08/04/2022,Solapamento,SR 9,0
+08/04/2022,Solapamento,SR 10,0
+08/04/2022,Solapamento,SR 11,0
+08/04/2022,Solapamento,SR 12,0
+08/04/2022,Outros,SR 1,0
+08/04/2022,Outros,SR 2,0
+08/04/2022,Outros,SR 3,0
+08/04/2022,Outros,SR 4,0
+08/04/2022,Outros,SR 5,0
+08/04/2022,Outros,SR 6,0
+08/04/2022,Outros,SR 7,0
+08/04/2022,Outros,SR 8,1
+08/04/2022,Outros,SR 9,0
+08/04/2022,Outros,SR 10,0
+08/04/2022,Outros,SR 11,0
+08/04/2022,Outros,SR 12,1
+09/04/2022,Alagamento,SR 1,0
+09/04/2022,Alagamento,SR 2,0
+09/04/2022,Alagamento,SR 3,0
+09/04/2022,Alagamento,SR 4,0
+09/04/2022,Alagamento,SR 5,0
+09/04/2022,Alagamento,SR 6,0
+09/04/2022,Alagamento,SR 7,0
+09/04/2022,Alagamento,SR 8,0
+09/04/2022,Alagamento,SR 9,0
+09/04/2022,Alagamento,SR 10,0
+09/04/2022,Alagamento,SR 11,0
+09/04/2022,Alagamento,SR 12,0
+09/04/2022,Incêndio,SR 1,0
+09/04/2022,Incêndio,SR 2,0
+09/04/2022,Incêndio,SR 3,0
+09/04/2022,Incêndio,SR 4,0
+09/04/2022,Incêndio,SR 5,0
+09/04/2022,Incêndio,SR 6,0
+09/04/2022,Incêndio,SR 7,0
+09/04/2022,Incêndio,SR 8,0
+09/04/2022,Incêndio,SR 9,0
+09/04/2022,Incêndio,SR 10,0
+09/04/2022,Incêndio,SR 11,0
+09/04/2022,Incêndio,SR 12,0
+09/04/2022,Desabamento,SR 1,0
+09/04/2022,Desabamento,SR 2,0
+09/04/2022,Desabamento,SR 3,1
+09/04/2022,Desabamento,SR 4,0
+09/04/2022,Desabamento,SR 5,0
+09/04/2022,Desabamento,SR 6,0
+09/04/2022,Desabamento,SR 7,0
+09/04/2022,Desabamento,SR 8,0
+09/04/2022,Desabamento,SR 9,0
+09/04/2022,Desabamento,SR 10,0
+09/04/2022,Desabamento,SR 11,0
+09/04/2022,Desabamento,SR 12,0
+09/04/2022,Deslizamento,SR 1,0
+09/04/2022,Deslizamento,SR 2,0
+09/04/2022,Deslizamento,SR 3,0
+09/04/2022,Deslizamento,SR 4,0
+09/04/2022,Deslizamento,SR 5,0
+09/04/2022,Deslizamento,SR 6,0
+09/04/2022,Deslizamento,SR 7,0
+09/04/2022,Deslizamento,SR 8,0
+09/04/2022,Deslizamento,SR 9,0
+09/04/2022,Deslizamento,SR 10,0
+09/04/2022,Deslizamento,SR 11,0
+09/04/2022,Deslizamento,SR 12,0
+09/04/2022,Risco de Alagamento,SR 1,0
+09/04/2022,Risco de Alagamento,SR 2,0
+09/04/2022,Risco de Alagamento,SR 3,0
+09/04/2022,Risco de Alagamento,SR 4,0
+09/04/2022,Risco de Alagamento,SR 5,0
+09/04/2022,Risco de Alagamento,SR 6,0
+09/04/2022,Risco de Alagamento,SR 7,0
+09/04/2022,Risco de Alagamento,SR 8,0
+09/04/2022,Risco de Alagamento,SR 9,0
+09/04/2022,Risco de Alagamento,SR 10,0
+09/04/2022,Risco de Alagamento,SR 11,0
+09/04/2022,Risco de Alagamento,SR 12,0
+09/04/2022,Risco de Desabamento,SR 1,1
+09/04/2022,Risco de Desabamento,SR 2,0
+09/04/2022,Risco de Desabamento,SR 3,0
+09/04/2022,Risco de Desabamento,SR 4,0
+09/04/2022,Risco de Desabamento,SR 5,1
+09/04/2022,Risco de Desabamento,SR 6,1
+09/04/2022,Risco de Desabamento,SR 7,1
+09/04/2022,Risco de Desabamento,SR 8,1
+09/04/2022,Risco de Desabamento,SR 9,0
+09/04/2022,Risco de Desabamento,SR 10,1
+09/04/2022,Risco de Desabamento,SR 11,0
+09/04/2022,Risco de Desabamento,SR 12,0
+09/04/2022,Risco de Deslizamento,SR 1,0
+09/04/2022,Risco de Deslizamento,SR 2,0
+09/04/2022,Risco de Deslizamento,SR 3,0
+09/04/2022,Risco de Deslizamento,SR 4,0
+09/04/2022,Risco de Deslizamento,SR 5,0
+09/04/2022,Risco de Deslizamento,SR 6,0
+09/04/2022,Risco de Deslizamento,SR 7,0
+09/04/2022,Risco de Deslizamento,SR 8,0
+09/04/2022,Risco de Deslizamento,SR 9,0
+09/04/2022,Risco de Deslizamento,SR 10,0
+09/04/2022,Risco de Deslizamento,SR 11,0
+09/04/2022,Risco de Deslizamento,SR 12,0
+09/04/2022,Risco de Inundação,SR 1,0
+09/04/2022,Risco de Inundação,SR 2,0
+09/04/2022,Risco de Inundação,SR 3,0
+09/04/2022,Risco de Inundação,SR 4,0
+09/04/2022,Risco de Inundação,SR 5,0
+09/04/2022,Risco de Inundação,SR 6,0
+09/04/2022,Risco de Inundação,SR 7,0
+09/04/2022,Risco de Inundação,SR 8,0
+09/04/2022,Risco de Inundação,SR 9,0
+09/04/2022,Risco de Inundação,SR 10,0
+09/04/2022,Risco de Inundação,SR 11,0
+09/04/2022,Risco de Inundação,SR 12,0
+09/04/2022,Inundação,SR 1,0
+09/04/2022,Inundação,SR 2,0
+09/04/2022,Inundação,SR 3,0
+09/04/2022,Inundação,SR 4,0
+09/04/2022,Inundação,SR 5,0
+09/04/2022,Inundação,SR 6,0
+09/04/2022,Inundação,SR 7,0
+09/04/2022,Inundação,SR 8,0
+09/04/2022,Inundação,SR 9,0
+09/04/2022,Inundação,SR 10,0
+09/04/2022,Inundação,SR 11,0
+09/04/2022,Inundação,SR 12,0
+09/04/2022,Solapamento,SR 1,0
+09/04/2022,Solapamento,SR 2,0
+09/04/2022,Solapamento,SR 3,0
+09/04/2022,Solapamento,SR 4,0
+09/04/2022,Solapamento,SR 5,0
+09/04/2022,Solapamento,SR 6,0
+09/04/2022,Solapamento,SR 7,0
+09/04/2022,Solapamento,SR 8,0
+09/04/2022,Solapamento,SR 9,0
+09/04/2022,Solapamento,SR 10,0
+09/04/2022,Solapamento,SR 11,0
+09/04/2022,Solapamento,SR 12,0
+09/04/2022,Outros,SR 1,0
+09/04/2022,Outros,SR 2,0
+09/04/2022,Outros,SR 3,0
+09/04/2022,Outros,SR 4,0
+09/04/2022,Outros,SR 5,0
+09/04/2022,Outros,SR 6,0
+09/04/2022,Outros,SR 7,0
+09/04/2022,Outros,SR 8,0
+09/04/2022,Outros,SR 9,0
+09/04/2022,Outros,SR 10,0
+09/04/2022,Outros,SR 11,0
+09/04/2022,Outros,SR 12,0
+10/04/2022,Alagamento,SR 1,0
+10/04/2022,Alagamento,SR 2,0
+10/04/2022,Alagamento,SR 3,0
+10/04/2022,Alagamento,SR 4,0
+10/04/2022,Alagamento,SR 5,0
+10/04/2022,Alagamento,SR 6,0
+10/04/2022,Alagamento,SR 7,0
+10/04/2022,Alagamento,SR 8,0
+10/04/2022,Alagamento,SR 9,0
+10/04/2022,Alagamento,SR 10,0
+10/04/2022,Alagamento,SR 11,0
+10/04/2022,Alagamento,SR 12,0
+10/04/2022,Incêndio,SR 1,0
+10/04/2022,Incêndio,SR 2,0
+10/04/2022,Incêndio,SR 3,0
+10/04/2022,Incêndio,SR 4,0
+10/04/2022,Incêndio,SR 5,0
+10/04/2022,Incêndio,SR 6,0
+10/04/2022,Incêndio,SR 7,0
+10/04/2022,Incêndio,SR 8,0
+10/04/2022,Incêndio,SR 9,0
+10/04/2022,Incêndio,SR 10,0
+10/04/2022,Incêndio,SR 11,0
+10/04/2022,Incêndio,SR 12,0
+10/04/2022,Desabamento,SR 1,0
+10/04/2022,Desabamento,SR 2,0
+10/04/2022,Desabamento,SR 3,0
+10/04/2022,Desabamento,SR 4,1
+10/04/2022,Desabamento,SR 5,0
+10/04/2022,Desabamento,SR 6,0
+10/04/2022,Desabamento,SR 7,0
+10/04/2022,Desabamento,SR 8,0
+10/04/2022,Desabamento,SR 9,0
+10/04/2022,Desabamento,SR 10,0
+10/04/2022,Desabamento,SR 11,0
+10/04/2022,Desabamento,SR 12,0
+10/04/2022,Deslizamento,SR 1,0
+10/04/2022,Deslizamento,SR 2,0
+10/04/2022,Deslizamento,SR 3,0
+10/04/2022,Deslizamento,SR 4,0
+10/04/2022,Deslizamento,SR 5,0
+10/04/2022,Deslizamento,SR 6,0
+10/04/2022,Deslizamento,SR 7,0
+10/04/2022,Deslizamento,SR 8,0
+10/04/2022,Deslizamento,SR 9,0
+10/04/2022,Deslizamento,SR 10,0
+10/04/2022,Deslizamento,SR 11,0
+10/04/2022,Deslizamento,SR 12,0
+10/04/2022,Risco de Alagamento,SR 1,0
+10/04/2022,Risco de Alagamento,SR 2,0
+10/04/2022,Risco de Alagamento,SR 3,0
+10/04/2022,Risco de Alagamento,SR 4,0
+10/04/2022,Risco de Alagamento,SR 5,0
+10/04/2022,Risco de Alagamento,SR 6,0
+10/04/2022,Risco de Alagamento,SR 7,0
+10/04/2022,Risco de Alagamento,SR 8,0
+10/04/2022,Risco de Alagamento,SR 9,0
+10/04/2022,Risco de Alagamento,SR 10,0
+10/04/2022,Risco de Alagamento,SR 11,0
+10/04/2022,Risco de Alagamento,SR 12,0
+10/04/2022,Risco de Desabamento,SR 1,0
+10/04/2022,Risco de Desabamento,SR 2,0
+10/04/2022,Risco de Desabamento,SR 3,0
+10/04/2022,Risco de Desabamento,SR 4,0
+10/04/2022,Risco de Desabamento,SR 5,0
+10/04/2022,Risco de Desabamento,SR 6,0
+10/04/2022,Risco de Desabamento,SR 7,0
+10/04/2022,Risco de Desabamento,SR 8,0
+10/04/2022,Risco de Desabamento,SR 9,0
+10/04/2022,Risco de Desabamento,SR 10,0
+10/04/2022,Risco de Desabamento,SR 11,0
+10/04/2022,Risco de Desabamento,SR 12,0
+10/04/2022,Risco de Deslizamento,SR 1,0
+10/04/2022,Risco de Deslizamento,SR 2,0
+10/04/2022,Risco de Deslizamento,SR 3,0
+10/04/2022,Risco de Deslizamento,SR 4,0
+10/04/2022,Risco de Deslizamento,SR 5,0
+10/04/2022,Risco de Deslizamento,SR 6,0
+10/04/2022,Risco de Deslizamento,SR 7,0
+10/04/2022,Risco de Deslizamento,SR 8,0
+10/04/2022,Risco de Deslizamento,SR 9,0
+10/04/2022,Risco de Deslizamento,SR 10,0
+10/04/2022,Risco de Deslizamento,SR 11,0
+10/04/2022,Risco de Deslizamento,SR 12,0
+10/04/2022,Risco de Inundação,SR 1,0
+10/04/2022,Risco de Inundação,SR 2,0
+10/04/2022,Risco de Inundação,SR 3,0
+10/04/2022,Risco de Inundação,SR 4,0
+10/04/2022,Risco de Inundação,SR 5,0
+10/04/2022,Risco de Inundação,SR 6,0
+10/04/2022,Risco de Inundação,SR 7,0
+10/04/2022,Risco de Inundação,SR 8,0
+10/04/2022,Risco de Inundação,SR 9,0
+10/04/2022,Risco de Inundação,SR 10,0
+10/04/2022,Risco de Inundação,SR 11,0
+10/04/2022,Risco de Inundação,SR 12,0
+10/04/2022,Inundação,SR 1,0
+10/04/2022,Inundação,SR 2,0
+10/04/2022,Inundação,SR 3,0
+10/04/2022,Inundação,SR 4,0
+10/04/2022,Inundação,SR 5,0
+10/04/2022,Inundação,SR 6,0
+10/04/2022,Inundação,SR 7,0
+10/04/2022,Inundação,SR 8,0
+10/04/2022,Inundação,SR 9,0
+10/04/2022,Inundação,SR 10,0
+10/04/2022,Inundação,SR 11,0
+10/04/2022,Inundação,SR 12,0
+10/04/2022,Solapamento,SR 1,0
+10/04/2022,Solapamento,SR 2,0
+10/04/2022,Solapamento,SR 3,0
+10/04/2022,Solapamento,SR 4,0
+10/04/2022,Solapamento,SR 5,0
+10/04/2022,Solapamento,SR 6,0
+10/04/2022,Solapamento,SR 7,0
+10/04/2022,Solapamento,SR 8,0
+10/04/2022,Solapamento,SR 9,0
+10/04/2022,Solapamento,SR 10,0
+10/04/2022,Solapamento,SR 11,1
+10/04/2022,Solapamento,SR 12,0
+10/04/2022,Outros,SR 1,0
+10/04/2022,Outros,SR 2,1
+10/04/2022,Outros,SR 3,0
+10/04/2022,Outros,SR 4,0
+10/04/2022,Outros,SR 5,0
+10/04/2022,Outros,SR 6,0
+10/04/2022,Outros,SR 7,0
+10/04/2022,Outros,SR 8,0
+10/04/2022,Outros,SR 9,0
+10/04/2022,Outros,SR 10,0
+10/04/2022,Outros,SR 11,0
+10/04/2022,Outros,SR 12,0
+11/04/2022,Alagamento,SR 1,0
+11/04/2022,Alagamento,SR 2,0
+11/04/2022,Alagamento,SR 3,0
+11/04/2022,Alagamento,SR 4,0
+11/04/2022,Alagamento,SR 5,0
+11/04/2022,Alagamento,SR 6,0
+11/04/2022,Alagamento,SR 7,1
+11/04/2022,Alagamento,SR 8,1
+11/04/2022,Alagamento,SR 9,0
+11/04/2022,Alagamento,SR 10,0
+11/04/2022,Alagamento,SR 11,1
+11/04/2022,Alagamento,SR 12,0
+11/04/2022,Incêndio,SR 1,0
+11/04/2022,Incêndio,SR 2,0
+11/04/2022,Incêndio,SR 3,0
+11/04/2022,Incêndio,SR 4,0
+11/04/2022,Incêndio,SR 5,0
+11/04/2022,Incêndio,SR 6,0
+11/04/2022,Incêndio,SR 7,0
+11/04/2022,Incêndio,SR 8,0
+11/04/2022,Incêndio,SR 9,0
+11/04/2022,Incêndio,SR 10,0
+11/04/2022,Incêndio,SR 11,0
+11/04/2022,Incêndio,SR 12,0
+11/04/2022,Desabamento,SR 1,0
+11/04/2022,Desabamento,SR 2,0
+11/04/2022,Desabamento,SR 3,0
+11/04/2022,Desabamento,SR 4,1
+11/04/2022,Desabamento,SR 5,0
+11/04/2022,Desabamento,SR 6,0
+11/04/2022,Desabamento,SR 7,0
+11/04/2022,Desabamento,SR 8,0
+11/04/2022,Desabamento,SR 9,1
+11/04/2022,Desabamento,SR 10,0
+11/04/2022,Desabamento,SR 11,0
+11/04/2022,Desabamento,SR 12,0
+11/04/2022,Deslizamento,SR 1,0
+11/04/2022,Deslizamento,SR 2,0
+11/04/2022,Deslizamento,SR 3,0
+11/04/2022,Deslizamento,SR 4,0
+11/04/2022,Deslizamento,SR 5,0
+11/04/2022,Deslizamento,SR 6,0
+11/04/2022,Deslizamento,SR 7,0
+11/04/2022,Deslizamento,SR 8,0
+11/04/2022,Deslizamento,SR 9,0
+11/04/2022,Deslizamento,SR 10,0
+11/04/2022,Deslizamento,SR 11,0
+11/04/2022,Deslizamento,SR 12,0
+11/04/2022,Risco de Alagamento,SR 1,0
+11/04/2022,Risco de Alagamento,SR 2,0
+11/04/2022,Risco de Alagamento,SR 3,0
+11/04/2022,Risco de Alagamento,SR 4,0
+11/04/2022,Risco de Alagamento,SR 5,0
+11/04/2022,Risco de Alagamento,SR 6,0
+11/04/2022,Risco de Alagamento,SR 7,0
+11/04/2022,Risco de Alagamento,SR 8,0
+11/04/2022,Risco de Alagamento,SR 9,0
+11/04/2022,Risco de Alagamento,SR 10,0
+11/04/2022,Risco de Alagamento,SR 11,0
+11/04/2022,Risco de Alagamento,SR 12,0
+11/04/2022,Risco de Desabamento,SR 1,2
+11/04/2022,Risco de Desabamento,SR 2,1
+11/04/2022,Risco de Desabamento,SR 3,0
+11/04/2022,Risco de Desabamento,SR 4,4
+11/04/2022,Risco de Desabamento,SR 5,1
+11/04/2022,Risco de Desabamento,SR 6,3
+11/04/2022,Risco de Desabamento,SR 7,2
+11/04/2022,Risco de Desabamento,SR 8,1
+11/04/2022,Risco de Desabamento,SR 9,0
+11/04/2022,Risco de Desabamento,SR 10,0
+11/04/2022,Risco de Desabamento,SR 11,1
+11/04/2022,Risco de Desabamento,SR 12,0
+11/04/2022,Risco de Deslizamento,SR 1,0
+11/04/2022,Risco de Deslizamento,SR 2,0
+11/04/2022,Risco de Deslizamento,SR 3,0
+11/04/2022,Risco de Deslizamento,SR 4,0
+11/04/2022,Risco de Deslizamento,SR 5,0
+11/04/2022,Risco de Deslizamento,SR 6,0
+11/04/2022,Risco de Deslizamento,SR 7,0
+11/04/2022,Risco de Deslizamento,SR 8,0
+11/04/2022,Risco de Deslizamento,SR 9,0
+11/04/2022,Risco de Deslizamento,SR 10,0
+11/04/2022,Risco de Deslizamento,SR 11,0
+11/04/2022,Risco de Deslizamento,SR 12,0
+11/04/2022,Risco de Inundação,SR 1,0
+11/04/2022,Risco de Inundação,SR 2,0
+11/04/2022,Risco de Inundação,SR 3,0
+11/04/2022,Risco de Inundação,SR 4,0
+11/04/2022,Risco de Inundação,SR 5,0
+11/04/2022,Risco de Inundação,SR 6,0
+11/04/2022,Risco de Inundação,SR 7,0
+11/04/2022,Risco de Inundação,SR 8,0
+11/04/2022,Risco de Inundação,SR 9,0
+11/04/2022,Risco de Inundação,SR 10,0
+11/04/2022,Risco de Inundação,SR 11,0
+11/04/2022,Risco de Inundação,SR 12,0
+11/04/2022,Inundação,SR 1,0
+11/04/2022,Inundação,SR 2,0
+11/04/2022,Inundação,SR 3,0
+11/04/2022,Inundação,SR 4,0
+11/04/2022,Inundação,SR 5,0
+11/04/2022,Inundação,SR 6,0
+11/04/2022,Inundação,SR 7,0
+11/04/2022,Inundação,SR 8,0
+11/04/2022,Inundação,SR 9,0
+11/04/2022,Inundação,SR 10,0
+11/04/2022,Inundação,SR 11,0
+11/04/2022,Inundação,SR 12,0
+11/04/2022,Solapamento,SR 1,0
+11/04/2022,Solapamento,SR 2,0
+11/04/2022,Solapamento,SR 3,0
+11/04/2022,Solapamento,SR 4,0
+11/04/2022,Solapamento,SR 5,0
+11/04/2022,Solapamento,SR 6,0
+11/04/2022,Solapamento,SR 7,0
+11/04/2022,Solapamento,SR 8,0
+11/04/2022,Solapamento,SR 9,0
+11/04/2022,Solapamento,SR 10,0
+11/04/2022,Solapamento,SR 11,0
+11/04/2022,Solapamento,SR 12,0
+11/04/2022,Outros,SR 1,0
+11/04/2022,Outros,SR 2,0
+11/04/2022,Outros,SR 3,0
+11/04/2022,Outros,SR 4,0
+11/04/2022,Outros,SR 5,0
+11/04/2022,Outros,SR 6,0
+11/04/2022,Outros,SR 7,0
+11/04/2022,Outros,SR 8,0
+11/04/2022,Outros,SR 9,0
+11/04/2022,Outros,SR 10,0
+11/04/2022,Outros,SR 11,0
+11/04/2022,Outros,SR 12,0
+12/04/2022,Alagamento,SR 1,0
+12/04/2022,Alagamento,SR 2,0
+12/04/2022,Alagamento,SR 3,0
+12/04/2022,Alagamento,SR 4,0
+12/04/2022,Alagamento,SR 5,0
+12/04/2022,Alagamento,SR 6,0
+12/04/2022,Alagamento,SR 7,0
+12/04/2022,Alagamento,SR 8,0
+12/04/2022,Alagamento,SR 9,0
+12/04/2022,Alagamento,SR 10,0
+12/04/2022,Alagamento,SR 11,0
+12/04/2022,Alagamento,SR 12,0
+12/04/2022,Incêndio,SR 1,0
+12/04/2022,Incêndio,SR 2,0
+12/04/2022,Incêndio,SR 3,0
+12/04/2022,Incêndio,SR 4,0
+12/04/2022,Incêndio,SR 5,0
+12/04/2022,Incêndio,SR 6,0
+12/04/2022,Incêndio,SR 7,0
+12/04/2022,Incêndio,SR 8,0
+12/04/2022,Incêndio,SR 9,0
+12/04/2022,Incêndio,SR 10,0
+12/04/2022,Incêndio,SR 11,0
+12/04/2022,Incêndio,SR 12,0
+12/04/2022,Desabamento,SR 1,0
+12/04/2022,Desabamento,SR 2,0
+12/04/2022,Desabamento,SR 3,0
+12/04/2022,Desabamento,SR 4,0
+12/04/2022,Desabamento,SR 5,0
+12/04/2022,Desabamento,SR 6,0
+12/04/2022,Desabamento,SR 7,0
+12/04/2022,Desabamento,SR 8,0
+12/04/2022,Desabamento,SR 9,0
+12/04/2022,Desabamento,SR 10,0
+12/04/2022,Desabamento,SR 11,0
+12/04/2022,Desabamento,SR 12,0
+12/04/2022,Deslizamento,SR 1,0
+12/04/2022,Deslizamento,SR 2,0
+12/04/2022,Deslizamento,SR 3,0
+12/04/2022,Deslizamento,SR 4,0
+12/04/2022,Deslizamento,SR 5,0
+12/04/2022,Deslizamento,SR 6,0
+12/04/2022,Deslizamento,SR 7,0
+12/04/2022,Deslizamento,SR 8,0
+12/04/2022,Deslizamento,SR 9,0
+12/04/2022,Deslizamento,SR 10,0
+12/04/2022,Deslizamento,SR 11,0
+12/04/2022,Deslizamento,SR 12,0
+12/04/2022,Risco de Alagamento,SR 1,0
+12/04/2022,Risco de Alagamento,SR 2,0
+12/04/2022,Risco de Alagamento,SR 3,0
+12/04/2022,Risco de Alagamento,SR 4,0
+12/04/2022,Risco de Alagamento,SR 5,0
+12/04/2022,Risco de Alagamento,SR 6,0
+12/04/2022,Risco de Alagamento,SR 7,0
+12/04/2022,Risco de Alagamento,SR 8,0
+12/04/2022,Risco de Alagamento,SR 9,0
+12/04/2022,Risco de Alagamento,SR 10,0
+12/04/2022,Risco de Alagamento,SR 11,0
+12/04/2022,Risco de Alagamento,SR 12,0
+12/04/2022,Risco de Desabamento,SR 1,0
+12/04/2022,Risco de Desabamento,SR 2,3
+12/04/2022,Risco de Desabamento,SR 3,1
+12/04/2022,Risco de Desabamento,SR 4,1
+12/04/2022,Risco de Desabamento,SR 5,1
+12/04/2022,Risco de Desabamento,SR 6,0
+12/04/2022,Risco de Desabamento,SR 7,0
+12/04/2022,Risco de Desabamento,SR 8,0
+12/04/2022,Risco de Desabamento,SR 9,0
+12/04/2022,Risco de Desabamento,SR 10,0
+12/04/2022,Risco de Desabamento,SR 11,3
+12/04/2022,Risco de Desabamento,SR 12,1
+12/04/2022,Risco de Deslizamento,SR 1,0
+12/04/2022,Risco de Deslizamento,SR 2,0
+12/04/2022,Risco de Deslizamento,SR 3,0
+12/04/2022,Risco de Deslizamento,SR 4,0
+12/04/2022,Risco de Deslizamento,SR 5,0
+12/04/2022,Risco de Deslizamento,SR 6,0
+12/04/2022,Risco de Deslizamento,SR 7,0
+12/04/2022,Risco de Deslizamento,SR 8,0
+12/04/2022,Risco de Deslizamento,SR 9,0
+12/04/2022,Risco de Deslizamento,SR 10,0
+12/04/2022,Risco de Deslizamento,SR 11,0
+12/04/2022,Risco de Deslizamento,SR 12,0
+12/04/2022,Risco de Inundação,SR 1,0
+12/04/2022,Risco de Inundação,SR 2,0
+12/04/2022,Risco de Inundação,SR 3,0
+12/04/2022,Risco de Inundação,SR 4,0
+12/04/2022,Risco de Inundação,SR 5,0
+12/04/2022,Risco de Inundação,SR 6,0
+12/04/2022,Risco de Inundação,SR 7,0
+12/04/2022,Risco de Inundação,SR 8,0
+12/04/2022,Risco de Inundação,SR 9,0
+12/04/2022,Risco de Inundação,SR 10,0
+12/04/2022,Risco de Inundação,SR 11,0
+12/04/2022,Risco de Inundação,SR 12,0
+12/04/2022,Inundação,SR 1,0
+12/04/2022,Inundação,SR 2,0
+12/04/2022,Inundação,SR 3,0
+12/04/2022,Inundação,SR 4,0
+12/04/2022,Inundação,SR 5,0
+12/04/2022,Inundação,SR 6,0
+12/04/2022,Inundação,SR 7,0
+12/04/2022,Inundação,SR 8,0
+12/04/2022,Inundação,SR 9,0
+12/04/2022,Inundação,SR 10,0
+12/04/2022,Inundação,SR 11,0
+12/04/2022,Inundação,SR 12,0
+12/04/2022,Solapamento,SR 1,0
+12/04/2022,Solapamento,SR 2,0
+12/04/2022,Solapamento,SR 3,0
+12/04/2022,Solapamento,SR 4,0
+12/04/2022,Solapamento,SR 5,0
+12/04/2022,Solapamento,SR 6,0
+12/04/2022,Solapamento,SR 7,0
+12/04/2022,Solapamento,SR 8,0
+12/04/2022,Solapamento,SR 9,0
+12/04/2022,Solapamento,SR 10,0
+12/04/2022,Solapamento,SR 11,0
+12/04/2022,Solapamento,SR 12,0
+12/04/2022,Outros,SR 1,0
+12/04/2022,Outros,SR 2,0
+12/04/2022,Outros,SR 3,0
+12/04/2022,Outros,SR 4,1
+12/04/2022,Outros,SR 5,0
+12/04/2022,Outros,SR 6,0
+12/04/2022,Outros,SR 7,0
+12/04/2022,Outros,SR 8,0
+12/04/2022,Outros,SR 9,0
+12/04/2022,Outros,SR 10,0
+12/04/2022,Outros,SR 11,0
+12/04/2022,Outros,SR 12,0
+13/04/2022,Alagamento,SR 1,0
+13/04/2022,Alagamento,SR 2,0
+13/04/2022,Alagamento,SR 3,0
+13/04/2022,Alagamento,SR 4,0
+13/04/2022,Alagamento,SR 5,0
+13/04/2022,Alagamento,SR 6,0
+13/04/2022,Alagamento,SR 7,0
+13/04/2022,Alagamento,SR 8,0
+13/04/2022,Alagamento,SR 9,0
+13/04/2022,Alagamento,SR 10,0
+13/04/2022,Alagamento,SR 11,0
+13/04/2022,Alagamento,SR 12,0
+13/04/2022,Incêndio,SR 1,0
+13/04/2022,Incêndio,SR 2,0
+13/04/2022,Incêndio,SR 3,0
+13/04/2022,Incêndio,SR 4,0
+13/04/2022,Incêndio,SR 5,0
+13/04/2022,Incêndio,SR 6,0
+13/04/2022,Incêndio,SR 7,0
+13/04/2022,Incêndio,SR 8,0
+13/04/2022,Incêndio,SR 9,0
+13/04/2022,Incêndio,SR 10,0
+13/04/2022,Incêndio,SR 11,0
+13/04/2022,Incêndio,SR 12,0
+13/04/2022,Desabamento,SR 1,0
+13/04/2022,Desabamento,SR 2,0
+13/04/2022,Desabamento,SR 3,0
+13/04/2022,Desabamento,SR 4,0
+13/04/2022,Desabamento,SR 5,0
+13/04/2022,Desabamento,SR 6,0
+13/04/2022,Desabamento,SR 7,0
+13/04/2022,Desabamento,SR 8,1
+13/04/2022,Desabamento,SR 9,0
+13/04/2022,Desabamento,SR 10,0
+13/04/2022,Desabamento,SR 11,0
+13/04/2022,Desabamento,SR 12,0
+13/04/2022,Deslizamento,SR 1,0
+13/04/2022,Deslizamento,SR 2,0
+13/04/2022,Deslizamento,SR 3,0
+13/04/2022,Deslizamento,SR 4,0
+13/04/2022,Deslizamento,SR 5,0
+13/04/2022,Deslizamento,SR 6,0
+13/04/2022,Deslizamento,SR 7,0
+13/04/2022,Deslizamento,SR 8,0
+13/04/2022,Deslizamento,SR 9,0
+13/04/2022,Deslizamento,SR 10,0
+13/04/2022,Deslizamento,SR 11,0
+13/04/2022,Deslizamento,SR 12,0
+13/04/2022,Risco de Alagamento,SR 1,0
+13/04/2022,Risco de Alagamento,SR 2,0
+13/04/2022,Risco de Alagamento,SR 3,0
+13/04/2022,Risco de Alagamento,SR 4,0
+13/04/2022,Risco de Alagamento,SR 5,0
+13/04/2022,Risco de Alagamento,SR 6,0
+13/04/2022,Risco de Alagamento,SR 7,0
+13/04/2022,Risco de Alagamento,SR 8,0
+13/04/2022,Risco de Alagamento,SR 9,0
+13/04/2022,Risco de Alagamento,SR 10,0
+13/04/2022,Risco de Alagamento,SR 11,0
+13/04/2022,Risco de Alagamento,SR 12,0
+13/04/2022,Risco de Desabamento,SR 1,1
+13/04/2022,Risco de Desabamento,SR 2,0
+13/04/2022,Risco de Desabamento,SR 3,0
+13/04/2022,Risco de Desabamento,SR 4,2
+13/04/2022,Risco de Desabamento,SR 5,0
+13/04/2022,Risco de Desabamento,SR 6,0
+13/04/2022,Risco de Desabamento,SR 7,2
+13/04/2022,Risco de Desabamento,SR 8,2
+13/04/2022,Risco de Desabamento,SR 9,0
+13/04/2022,Risco de Desabamento,SR 10,1
+13/04/2022,Risco de Desabamento,SR 11,0
+13/04/2022,Risco de Desabamento,SR 12,0
+13/04/2022,Risco de Deslizamento,SR 1,0
+13/04/2022,Risco de Deslizamento,SR 2,0
+13/04/2022,Risco de Deslizamento,SR 3,0
+13/04/2022,Risco de Deslizamento,SR 4,0
+13/04/2022,Risco de Deslizamento,SR 5,0
+13/04/2022,Risco de Deslizamento,SR 6,0
+13/04/2022,Risco de Deslizamento,SR 7,0
+13/04/2022,Risco de Deslizamento,SR 8,0
+13/04/2022,Risco de Deslizamento,SR 9,0
+13/04/2022,Risco de Deslizamento,SR 10,0
+13/04/2022,Risco de Deslizamento,SR 11,0
+13/04/2022,Risco de Deslizamento,SR 12,0
+13/04/2022,Risco de Inundação,SR 1,0
+13/04/2022,Risco de Inundação,SR 2,0
+13/04/2022,Risco de Inundação,SR 3,0
+13/04/2022,Risco de Inundação,SR 4,0
+13/04/2022,Risco de Inundação,SR 5,0
+13/04/2022,Risco de Inundação,SR 6,0
+13/04/2022,Risco de Inundação,SR 7,0
+13/04/2022,Risco de Inundação,SR 8,0
+13/04/2022,Risco de Inundação,SR 9,0
+13/04/2022,Risco de Inundação,SR 10,0
+13/04/2022,Risco de Inundação,SR 11,0
+13/04/2022,Risco de Inundação,SR 12,0
+13/04/2022,Inundação,SR 1,0
+13/04/2022,Inundação,SR 2,0
+13/04/2022,Inundação,SR 3,0
+13/04/2022,Inundação,SR 4,0
+13/04/2022,Inundação,SR 5,0
+13/04/2022,Inundação,SR 6,0
+13/04/2022,Inundação,SR 7,0
+13/04/2022,Inundação,SR 8,0
+13/04/2022,Inundação,SR 9,0
+13/04/2022,Inundação,SR 10,0
+13/04/2022,Inundação,SR 11,0
+13/04/2022,Inundação,SR 12,0
+13/04/2022,Solapamento,SR 1,0
+13/04/2022,Solapamento,SR 2,0
+13/04/2022,Solapamento,SR 3,0
+13/04/2022,Solapamento,SR 4,0
+13/04/2022,Solapamento,SR 5,0
+13/04/2022,Solapamento,SR 6,0
+13/04/2022,Solapamento,SR 7,0
+13/04/2022,Solapamento,SR 8,0
+13/04/2022,Solapamento,SR 9,0
+13/04/2022,Solapamento,SR 10,0
+13/04/2022,Solapamento,SR 11,0
+13/04/2022,Solapamento,SR 12,0
+13/04/2022,Outros,SR 1,0
+13/04/2022,Outros,SR 2,0
+13/04/2022,Outros,SR 3,0
+13/04/2022,Outros,SR 4,0
+13/04/2022,Outros,SR 5,0
+13/04/2022,Outros,SR 6,0
+13/04/2022,Outros,SR 7,0
+13/04/2022,Outros,SR 8,0
+13/04/2022,Outros,SR 9,0
+13/04/2022,Outros,SR 10,0
+13/04/2022,Outros,SR 11,0
+13/04/2022,Outros,SR 12,0
+14/04/2022,Alagamento,SR 1,0
+14/04/2022,Alagamento,SR 2,0
+14/04/2022,Alagamento,SR 3,0
+14/04/2022,Alagamento,SR 4,0
+14/04/2022,Alagamento,SR 5,0
+14/04/2022,Alagamento,SR 6,0
+14/04/2022,Alagamento,SR 7,0
+14/04/2022,Alagamento,SR 8,0
+14/04/2022,Alagamento,SR 9,0
+14/04/2022,Alagamento,SR 10,0
+14/04/2022,Alagamento,SR 11,0
+14/04/2022,Alagamento,SR 12,0
+14/04/2022,Incêndio,SR 1,0
+14/04/2022,Incêndio,SR 2,0
+14/04/2022,Incêndio,SR 3,0
+14/04/2022,Incêndio,SR 4,0
+14/04/2022,Incêndio,SR 5,0
+14/04/2022,Incêndio,SR 6,0
+14/04/2022,Incêndio,SR 7,0
+14/04/2022,Incêndio,SR 8,0
+14/04/2022,Incêndio,SR 9,0
+14/04/2022,Incêndio,SR 10,0
+14/04/2022,Incêndio,SR 11,0
+14/04/2022,Incêndio,SR 12,0
+14/04/2022,Desabamento,SR 1,0
+14/04/2022,Desabamento,SR 2,0
+14/04/2022,Desabamento,SR 3,0
+14/04/2022,Desabamento,SR 4,0
+14/04/2022,Desabamento,SR 5,0
+14/04/2022,Desabamento,SR 6,0
+14/04/2022,Desabamento,SR 7,0
+14/04/2022,Desabamento,SR 8,0
+14/04/2022,Desabamento,SR 9,0
+14/04/2022,Desabamento,SR 10,0
+14/04/2022,Desabamento,SR 11,0
+14/04/2022,Desabamento,SR 12,0
+14/04/2022,Deslizamento,SR 1,0
+14/04/2022,Deslizamento,SR 2,0
+14/04/2022,Deslizamento,SR 3,0
+14/04/2022,Deslizamento,SR 4,0
+14/04/2022,Deslizamento,SR 5,0
+14/04/2022,Deslizamento,SR 6,0
+14/04/2022,Deslizamento,SR 7,0
+14/04/2022,Deslizamento,SR 8,0
+14/04/2022,Deslizamento,SR 9,0
+14/04/2022,Deslizamento,SR 10,0
+14/04/2022,Deslizamento,SR 11,0
+14/04/2022,Deslizamento,SR 12,0
+14/04/2022,Risco de Alagamento,SR 1,0
+14/04/2022,Risco de Alagamento,SR 2,0
+14/04/2022,Risco de Alagamento,SR 3,0
+14/04/2022,Risco de Alagamento,SR 4,0
+14/04/2022,Risco de Alagamento,SR 5,0
+14/04/2022,Risco de Alagamento,SR 6,0
+14/04/2022,Risco de Alagamento,SR 7,0
+14/04/2022,Risco de Alagamento,SR 8,0
+14/04/2022,Risco de Alagamento,SR 9,0
+14/04/2022,Risco de Alagamento,SR 10,0
+14/04/2022,Risco de Alagamento,SR 11,0
+14/04/2022,Risco de Alagamento,SR 12,0
+14/04/2022,Risco de Desabamento,SR 1,0
+14/04/2022,Risco de Desabamento,SR 2,1
+14/04/2022,Risco de Desabamento,SR 3,0
+14/04/2022,Risco de Desabamento,SR 4,1
+14/04/2022,Risco de Desabamento,SR 5,0
+14/04/2022,Risco de Desabamento,SR 6,0
+14/04/2022,Risco de Desabamento,SR 7,0
+14/04/2022,Risco de Desabamento,SR 8,0
+14/04/2022,Risco de Desabamento,SR 9,0
+14/04/2022,Risco de Desabamento,SR 10,0
+14/04/2022,Risco de Desabamento,SR 11,0
+14/04/2022,Risco de Desabamento,SR 12,0
+14/04/2022,Risco de Deslizamento,SR 1,0
+14/04/2022,Risco de Deslizamento,SR 2,0
+14/04/2022,Risco de Deslizamento,SR 3,0
+14/04/2022,Risco de Deslizamento,SR 4,0
+14/04/2022,Risco de Deslizamento,SR 5,0
+14/04/2022,Risco de Deslizamento,SR 6,0
+14/04/2022,Risco de Deslizamento,SR 7,0
+14/04/2022,Risco de Deslizamento,SR 8,0
+14/04/2022,Risco de Deslizamento,SR 9,0
+14/04/2022,Risco de Deslizamento,SR 10,0
+14/04/2022,Risco de Deslizamento,SR 11,0
+14/04/2022,Risco de Deslizamento,SR 12,0
+14/04/2022,Risco de Inundação,SR 1,0
+14/04/2022,Risco de Inundação,SR 2,0
+14/04/2022,Risco de Inundação,SR 3,0
+14/04/2022,Risco de Inundação,SR 4,0
+14/04/2022,Risco de Inundação,SR 5,0
+14/04/2022,Risco de Inundação,SR 6,0
+14/04/2022,Risco de Inundação,SR 7,0
+14/04/2022,Risco de Inundação,SR 8,0
+14/04/2022,Risco de Inundação,SR 9,0
+14/04/2022,Risco de Inundação,SR 10,0
+14/04/2022,Risco de Inundação,SR 11,0
+14/04/2022,Risco de Inundação,SR 12,0
+14/04/2022,Inundação,SR 1,0
+14/04/2022,Inundação,SR 2,0
+14/04/2022,Inundação,SR 3,0
+14/04/2022,Inundação,SR 4,0
+14/04/2022,Inundação,SR 5,0
+14/04/2022,Inundação,SR 6,0
+14/04/2022,Inundação,SR 7,0
+14/04/2022,Inundação,SR 8,0
+14/04/2022,Inundação,SR 9,0
+14/04/2022,Inundação,SR 10,0
+14/04/2022,Inundação,SR 11,0
+14/04/2022,Inundação,SR 12,0
+14/04/2022,Solapamento,SR 1,0
+14/04/2022,Solapamento,SR 2,0
+14/04/2022,Solapamento,SR 3,0
+14/04/2022,Solapamento,SR 4,0
+14/04/2022,Solapamento,SR 5,0
+14/04/2022,Solapamento,SR 6,0
+14/04/2022,Solapamento,SR 7,0
+14/04/2022,Solapamento,SR 8,0
+14/04/2022,Solapamento,SR 9,0
+14/04/2022,Solapamento,SR 10,0
+14/04/2022,Solapamento,SR 11,0
+14/04/2022,Solapamento,SR 12,0
+14/04/2022,Outros,SR 1,0
+14/04/2022,Outros,SR 2,0
+14/04/2022,Outros,SR 3,0
+14/04/2022,Outros,SR 4,0
+14/04/2022,Outros,SR 5,0
+14/04/2022,Outros,SR 6,0
+14/04/2022,Outros,SR 7,0
+14/04/2022,Outros,SR 8,0
+14/04/2022,Outros,SR 9,0
+14/04/2022,Outros,SR 10,0
+14/04/2022,Outros,SR 11,0
+14/04/2022,Outros,SR 12,0
+15/04/2022,Alagamento,SR 1,0
+15/04/2022,Alagamento,SR 2,0
+15/04/2022,Alagamento,SR 3,0
+15/04/2022,Alagamento,SR 4,0
+15/04/2022,Alagamento,SR 5,0
+15/04/2022,Alagamento,SR 6,0
+15/04/2022,Alagamento,SR 7,0
+15/04/2022,Alagamento,SR 8,0
+15/04/2022,Alagamento,SR 9,0
+15/04/2022,Alagamento,SR 10,0
+15/04/2022,Alagamento,SR 11,0
+15/04/2022,Alagamento,SR 12,0
+15/04/2022,Incêndio,SR 1,0
+15/04/2022,Incêndio,SR 2,0
+15/04/2022,Incêndio,SR 3,0
+15/04/2022,Incêndio,SR 4,0
+15/04/2022,Incêndio,SR 5,0
+15/04/2022,Incêndio,SR 6,0
+15/04/2022,Incêndio,SR 7,0
+15/04/2022,Incêndio,SR 8,0
+15/04/2022,Incêndio,SR 9,0
+15/04/2022,Incêndio,SR 10,0
+15/04/2022,Incêndio,SR 11,0
+15/04/2022,Incêndio,SR 12,0
+15/04/2022,Desabamento,SR 1,0
+15/04/2022,Desabamento,SR 2,0
+15/04/2022,Desabamento,SR 3,0
+15/04/2022,Desabamento,SR 4,0
+15/04/2022,Desabamento,SR 5,0
+15/04/2022,Desabamento,SR 6,0
+15/04/2022,Desabamento,SR 7,0
+15/04/2022,Desabamento,SR 8,0
+15/04/2022,Desabamento,SR 9,0
+15/04/2022,Desabamento,SR 10,0
+15/04/2022,Desabamento,SR 11,0
+15/04/2022,Desabamento,SR 12,0
+15/04/2022,Deslizamento,SR 1,0
+15/04/2022,Deslizamento,SR 2,0
+15/04/2022,Deslizamento,SR 3,0
+15/04/2022,Deslizamento,SR 4,0
+15/04/2022,Deslizamento,SR 5,0
+15/04/2022,Deslizamento,SR 6,0
+15/04/2022,Deslizamento,SR 7,0
+15/04/2022,Deslizamento,SR 8,0
+15/04/2022,Deslizamento,SR 9,0
+15/04/2022,Deslizamento,SR 10,0
+15/04/2022,Deslizamento,SR 11,0
+15/04/2022,Deslizamento,SR 12,0
+15/04/2022,Risco de Alagamento,SR 1,0
+15/04/2022,Risco de Alagamento,SR 2,0
+15/04/2022,Risco de Alagamento,SR 3,0
+15/04/2022,Risco de Alagamento,SR 4,0
+15/04/2022,Risco de Alagamento,SR 5,0
+15/04/2022,Risco de Alagamento,SR 6,0
+15/04/2022,Risco de Alagamento,SR 7,0
+15/04/2022,Risco de Alagamento,SR 8,0
+15/04/2022,Risco de Alagamento,SR 9,0
+15/04/2022,Risco de Alagamento,SR 10,0
+15/04/2022,Risco de Alagamento,SR 11,0
+15/04/2022,Risco de Alagamento,SR 12,0
+15/04/2022,Risco de Desabamento,SR 1,0
+15/04/2022,Risco de Desabamento,SR 2,0
+15/04/2022,Risco de Desabamento,SR 3,0
+15/04/2022,Risco de Desabamento,SR 4,0
+15/04/2022,Risco de Desabamento,SR 5,0
+15/04/2022,Risco de Desabamento,SR 6,0
+15/04/2022,Risco de Desabamento,SR 7,0
+15/04/2022,Risco de Desabamento,SR 8,0
+15/04/2022,Risco de Desabamento,SR 9,0
+15/04/2022,Risco de Desabamento,SR 10,0
+15/04/2022,Risco de Desabamento,SR 11,0
+15/04/2022,Risco de Desabamento,SR 12,1
+15/04/2022,Risco de Deslizamento,SR 1,0
+15/04/2022,Risco de Deslizamento,SR 2,0
+15/04/2022,Risco de Deslizamento,SR 3,0
+15/04/2022,Risco de Deslizamento,SR 4,0
+15/04/2022,Risco de Deslizamento,SR 5,0
+15/04/2022,Risco de Deslizamento,SR 6,0
+15/04/2022,Risco de Deslizamento,SR 7,0
+15/04/2022,Risco de Deslizamento,SR 8,0
+15/04/2022,Risco de Deslizamento,SR 9,0
+15/04/2022,Risco de Deslizamento,SR 10,0
+15/04/2022,Risco de Deslizamento,SR 11,0
+15/04/2022,Risco de Deslizamento,SR 12,0
+15/04/2022,Risco de Inundação,SR 1,0
+15/04/2022,Risco de Inundação,SR 2,0
+15/04/2022,Risco de Inundação,SR 3,0
+15/04/2022,Risco de Inundação,SR 4,0
+15/04/2022,Risco de Inundação,SR 5,0
+15/04/2022,Risco de Inundação,SR 6,0
+15/04/2022,Risco de Inundação,SR 7,0
+15/04/2022,Risco de Inundação,SR 8,0
+15/04/2022,Risco de Inundação,SR 9,0
+15/04/2022,Risco de Inundação,SR 10,0
+15/04/2022,Risco de Inundação,SR 11,0
+15/04/2022,Risco de Inundação,SR 12,0
+15/04/2022,Inundação,SR 1,0
+15/04/2022,Inundação,SR 2,0
+15/04/2022,Inundação,SR 3,0
+15/04/2022,Inundação,SR 4,0
+15/04/2022,Inundação,SR 5,0
+15/04/2022,Inundação,SR 6,0
+15/04/2022,Inundação,SR 7,0
+15/04/2022,Inundação,SR 8,0
+15/04/2022,Inundação,SR 9,0
+15/04/2022,Inundação,SR 10,0
+15/04/2022,Inundação,SR 11,0
+15/04/2022,Inundação,SR 12,0
+15/04/2022,Solapamento,SR 1,0
+15/04/2022,Solapamento,SR 2,0
+15/04/2022,Solapamento,SR 3,0
+15/04/2022,Solapamento,SR 4,0
+15/04/2022,Solapamento,SR 5,0
+15/04/2022,Solapamento,SR 6,0
+15/04/2022,Solapamento,SR 7,0
+15/04/2022,Solapamento,SR 8,0
+15/04/2022,Solapamento,SR 9,0
+15/04/2022,Solapamento,SR 10,0
+15/04/2022,Solapamento,SR 11,0
+15/04/2022,Solapamento,SR 12,0
+15/04/2022,Outros,SR 1,0
+15/04/2022,Outros,SR 2,0
+15/04/2022,Outros,SR 3,0
+15/04/2022,Outros,SR 4,0
+15/04/2022,Outros,SR 5,0
+15/04/2022,Outros,SR 6,0
+15/04/2022,Outros,SR 7,0
+15/04/2022,Outros,SR 8,0
+15/04/2022,Outros,SR 9,0
+15/04/2022,Outros,SR 10,0
+15/04/2022,Outros,SR 11,0
+15/04/2022,Outros,SR 12,0
+16/04/2022,Alagamento,SR 1,0
+16/04/2022,Alagamento,SR 2,0
+16/04/2022,Alagamento,SR 3,0
+16/04/2022,Alagamento,SR 4,0
+16/04/2022,Alagamento,SR 5,0
+16/04/2022,Alagamento,SR 6,0
+16/04/2022,Alagamento,SR 7,0
+16/04/2022,Alagamento,SR 8,0
+16/04/2022,Alagamento,SR 9,0
+16/04/2022,Alagamento,SR 10,0
+16/04/2022,Alagamento,SR 11,0
+16/04/2022,Alagamento,SR 12,0
+16/04/2022,Incêndio,SR 1,0
+16/04/2022,Incêndio,SR 2,0
+16/04/2022,Incêndio,SR 3,0
+16/04/2022,Incêndio,SR 4,0
+16/04/2022,Incêndio,SR 5,0
+16/04/2022,Incêndio,SR 6,0
+16/04/2022,Incêndio,SR 7,0
+16/04/2022,Incêndio,SR 8,0
+16/04/2022,Incêndio,SR 9,0
+16/04/2022,Incêndio,SR 10,0
+16/04/2022,Incêndio,SR 11,0
+16/04/2022,Incêndio,SR 12,0
+16/04/2022,Desabamento,SR 1,0
+16/04/2022,Desabamento,SR 2,0
+16/04/2022,Desabamento,SR 3,0
+16/04/2022,Desabamento,SR 4,0
+16/04/2022,Desabamento,SR 5,0
+16/04/2022,Desabamento,SR 6,1
+16/04/2022,Desabamento,SR 7,0
+16/04/2022,Desabamento,SR 8,0
+16/04/2022,Desabamento,SR 9,0
+16/04/2022,Desabamento,SR 10,0
+16/04/2022,Desabamento,SR 11,0
+16/04/2022,Desabamento,SR 12,0
+16/04/2022,Deslizamento,SR 1,0
+16/04/2022,Deslizamento,SR 2,0
+16/04/2022,Deslizamento,SR 3,0
+16/04/2022,Deslizamento,SR 4,0
+16/04/2022,Deslizamento,SR 5,0
+16/04/2022,Deslizamento,SR 6,0
+16/04/2022,Deslizamento,SR 7,0
+16/04/2022,Deslizamento,SR 8,0
+16/04/2022,Deslizamento,SR 9,0
+16/04/2022,Deslizamento,SR 10,0
+16/04/2022,Deslizamento,SR 11,0
+16/04/2022,Deslizamento,SR 12,0
+16/04/2022,Risco de Alagamento,SR 1,0
+16/04/2022,Risco de Alagamento,SR 2,0
+16/04/2022,Risco de Alagamento,SR 3,0
+16/04/2022,Risco de Alagamento,SR 4,0
+16/04/2022,Risco de Alagamento,SR 5,0
+16/04/2022,Risco de Alagamento,SR 6,0
+16/04/2022,Risco de Alagamento,SR 7,0
+16/04/2022,Risco de Alagamento,SR 8,0
+16/04/2022,Risco de Alagamento,SR 9,0
+16/04/2022,Risco de Alagamento,SR 10,0
+16/04/2022,Risco de Alagamento,SR 11,0
+16/04/2022,Risco de Alagamento,SR 12,0
+16/04/2022,Risco de Desabamento,SR 1,0
+16/04/2022,Risco de Desabamento,SR 2,0
+16/04/2022,Risco de Desabamento,SR 3,0
+16/04/2022,Risco de Desabamento,SR 4,0
+16/04/2022,Risco de Desabamento,SR 5,0
+16/04/2022,Risco de Desabamento,SR 6,0
+16/04/2022,Risco de Desabamento,SR 7,0
+16/04/2022,Risco de Desabamento,SR 8,0
+16/04/2022,Risco de Desabamento,SR 9,0
+16/04/2022,Risco de Desabamento,SR 10,0
+16/04/2022,Risco de Desabamento,SR 11,0
+16/04/2022,Risco de Desabamento,SR 12,0
+16/04/2022,Risco de Deslizamento,SR 1,0
+16/04/2022,Risco de Deslizamento,SR 2,0
+16/04/2022,Risco de Deslizamento,SR 3,0
+16/04/2022,Risco de Deslizamento,SR 4,0
+16/04/2022,Risco de Deslizamento,SR 5,0
+16/04/2022,Risco de Deslizamento,SR 6,0
+16/04/2022,Risco de Deslizamento,SR 7,0
+16/04/2022,Risco de Deslizamento,SR 8,0
+16/04/2022,Risco de Deslizamento,SR 9,0
+16/04/2022,Risco de Deslizamento,SR 10,0
+16/04/2022,Risco de Deslizamento,SR 11,0
+16/04/2022,Risco de Deslizamento,SR 12,0
+16/04/2022,Risco de Inundação,SR 1,0
+16/04/2022,Risco de Inundação,SR 2,0
+16/04/2022,Risco de Inundação,SR 3,0
+16/04/2022,Risco de Inundação,SR 4,0
+16/04/2022,Risco de Inundação,SR 5,0
+16/04/2022,Risco de Inundação,SR 6,0
+16/04/2022,Risco de Inundação,SR 7,0
+16/04/2022,Risco de Inundação,SR 8,0
+16/04/2022,Risco de Inundação,SR 9,0
+16/04/2022,Risco de Inundação,SR 10,0
+16/04/2022,Risco de Inundação,SR 11,0
+16/04/2022,Risco de Inundação,SR 12,0
+16/04/2022,Inundação,SR 1,0
+16/04/2022,Inundação,SR 2,0
+16/04/2022,Inundação,SR 3,0
+16/04/2022,Inundação,SR 4,0
+16/04/2022,Inundação,SR 5,0
+16/04/2022,Inundação,SR 6,0
+16/04/2022,Inundação,SR 7,0
+16/04/2022,Inundação,SR 8,0
+16/04/2022,Inundação,SR 9,0
+16/04/2022,Inundação,SR 10,0
+16/04/2022,Inundação,SR 11,0
+16/04/2022,Inundação,SR 12,0
+16/04/2022,Solapamento,SR 1,0
+16/04/2022,Solapamento,SR 2,0
+16/04/2022,Solapamento,SR 3,0
+16/04/2022,Solapamento,SR 4,0
+16/04/2022,Solapamento,SR 5,0
+16/04/2022,Solapamento,SR 6,0
+16/04/2022,Solapamento,SR 7,0
+16/04/2022,Solapamento,SR 8,0
+16/04/2022,Solapamento,SR 9,0
+16/04/2022,Solapamento,SR 10,0
+16/04/2022,Solapamento,SR 11,0
+16/04/2022,Solapamento,SR 12,0
+16/04/2022,Outros,SR 1,0
+16/04/2022,Outros,SR 2,0
+16/04/2022,Outros,SR 3,0
+16/04/2022,Outros,SR 4,0
+16/04/2022,Outros,SR 5,0
+16/04/2022,Outros,SR 6,0
+16/04/2022,Outros,SR 7,0
+16/04/2022,Outros,SR 8,0
+16/04/2022,Outros,SR 9,0
+16/04/2022,Outros,SR 10,0
+16/04/2022,Outros,SR 11,0
+16/04/2022,Outros,SR 12,0
+17/04/2022,Alagamento,SR 1,0
+17/04/2022,Alagamento,SR 2,0
+17/04/2022,Alagamento,SR 3,0
+17/04/2022,Alagamento,SR 4,0
+17/04/2022,Alagamento,SR 5,0
+17/04/2022,Alagamento,SR 6,0
+17/04/2022,Alagamento,SR 7,0
+17/04/2022,Alagamento,SR 8,0
+17/04/2022,Alagamento,SR 9,0
+17/04/2022,Alagamento,SR 10,0
+17/04/2022,Alagamento,SR 11,0
+17/04/2022,Alagamento,SR 12,0
+17/04/2022,Incêndio,SR 1,0
+17/04/2022,Incêndio,SR 2,0
+17/04/2022,Incêndio,SR 3,0
+17/04/2022,Incêndio,SR 4,0
+17/04/2022,Incêndio,SR 5,0
+17/04/2022,Incêndio,SR 6,0
+17/04/2022,Incêndio,SR 7,0
+17/04/2022,Incêndio,SR 8,0
+17/04/2022,Incêndio,SR 9,0
+17/04/2022,Incêndio,SR 10,0
+17/04/2022,Incêndio,SR 11,0
+17/04/2022,Incêndio,SR 12,0
+17/04/2022,Desabamento,SR 1,0
+17/04/2022,Desabamento,SR 2,0
+17/04/2022,Desabamento,SR 3,0
+17/04/2022,Desabamento,SR 4,0
+17/04/2022,Desabamento,SR 5,0
+17/04/2022,Desabamento,SR 6,0
+17/04/2022,Desabamento,SR 7,0
+17/04/2022,Desabamento,SR 8,0
+17/04/2022,Desabamento,SR 9,0
+17/04/2022,Desabamento,SR 10,0
+17/04/2022,Desabamento,SR 11,0
+17/04/2022,Desabamento,SR 12,0
+17/04/2022,Deslizamento,SR 1,0
+17/04/2022,Deslizamento,SR 2,0
+17/04/2022,Deslizamento,SR 3,0
+17/04/2022,Deslizamento,SR 4,0
+17/04/2022,Deslizamento,SR 5,0
+17/04/2022,Deslizamento,SR 6,0
+17/04/2022,Deslizamento,SR 7,0
+17/04/2022,Deslizamento,SR 8,0
+17/04/2022,Deslizamento,SR 9,0
+17/04/2022,Deslizamento,SR 10,0
+17/04/2022,Deslizamento,SR 11,0
+17/04/2022,Deslizamento,SR 12,0
+17/04/2022,Risco de Alagamento,SR 1,0
+17/04/2022,Risco de Alagamento,SR 2,0
+17/04/2022,Risco de Alagamento,SR 3,0
+17/04/2022,Risco de Alagamento,SR 4,0
+17/04/2022,Risco de Alagamento,SR 5,0
+17/04/2022,Risco de Alagamento,SR 6,0
+17/04/2022,Risco de Alagamento,SR 7,0
+17/04/2022,Risco de Alagamento,SR 8,0
+17/04/2022,Risco de Alagamento,SR 9,0
+17/04/2022,Risco de Alagamento,SR 10,0
+17/04/2022,Risco de Alagamento,SR 11,0
+17/04/2022,Risco de Alagamento,SR 12,0
+17/04/2022,Risco de Desabamento,SR 1,0
+17/04/2022,Risco de Desabamento,SR 2,0
+17/04/2022,Risco de Desabamento,SR 3,0
+17/04/2022,Risco de Desabamento,SR 4,1
+17/04/2022,Risco de Desabamento,SR 5,0
+17/04/2022,Risco de Desabamento,SR 6,0
+17/04/2022,Risco de Desabamento,SR 7,0
+17/04/2022,Risco de Desabamento,SR 8,0
+17/04/2022,Risco de Desabamento,SR 9,0
+17/04/2022,Risco de Desabamento,SR 10,0
+17/04/2022,Risco de Desabamento,SR 11,0
+17/04/2022,Risco de Desabamento,SR 12,0
+17/04/2022,Risco de Deslizamento,SR 1,0
+17/04/2022,Risco de Deslizamento,SR 2,0
+17/04/2022,Risco de Deslizamento,SR 3,0
+17/04/2022,Risco de Deslizamento,SR 4,0
+17/04/2022,Risco de Deslizamento,SR 5,0
+17/04/2022,Risco de Deslizamento,SR 6,0
+17/04/2022,Risco de Deslizamento,SR 7,0
+17/04/2022,Risco de Deslizamento,SR 8,0
+17/04/2022,Risco de Deslizamento,SR 9,0
+17/04/2022,Risco de Deslizamento,SR 10,0
+17/04/2022,Risco de Deslizamento,SR 11,0
+17/04/2022,Risco de Deslizamento,SR 12,0
+17/04/2022,Risco de Inundação,SR 1,0
+17/04/2022,Risco de Inundação,SR 2,0
+17/04/2022,Risco de Inundação,SR 3,0
+17/04/2022,Risco de Inundação,SR 4,0
+17/04/2022,Risco de Inundação,SR 5,0
+17/04/2022,Risco de Inundação,SR 6,0
+17/04/2022,Risco de Inundação,SR 7,0
+17/04/2022,Risco de Inundação,SR 8,0
+17/04/2022,Risco de Inundação,SR 9,0
+17/04/2022,Risco de Inundação,SR 10,0
+17/04/2022,Risco de Inundação,SR 11,0
+17/04/2022,Risco de Inundação,SR 12,0
+17/04/2022,Inundação,SR 1,0
+17/04/2022,Inundação,SR 2,0
+17/04/2022,Inundação,SR 3,0
+17/04/2022,Inundação,SR 4,0
+17/04/2022,Inundação,SR 5,0
+17/04/2022,Inundação,SR 6,0
+17/04/2022,Inundação,SR 7,0
+17/04/2022,Inundação,SR 8,0
+17/04/2022,Inundação,SR 9,0
+17/04/2022,Inundação,SR 10,0
+17/04/2022,Inundação,SR 11,0
+17/04/2022,Inundação,SR 12,0
+17/04/2022,Solapamento,SR 1,0
+17/04/2022,Solapamento,SR 2,0
+17/04/2022,Solapamento,SR 3,0
+17/04/2022,Solapamento,SR 4,0
+17/04/2022,Solapamento,SR 5,0
+17/04/2022,Solapamento,SR 6,0
+17/04/2022,Solapamento,SR 7,0
+17/04/2022,Solapamento,SR 8,0
+17/04/2022,Solapamento,SR 9,0
+17/04/2022,Solapamento,SR 10,0
+17/04/2022,Solapamento,SR 11,0
+17/04/2022,Solapamento,SR 12,0
+17/04/2022,Outros,SR 1,0
+17/04/2022,Outros,SR 2,0
+17/04/2022,Outros,SR 3,0
+17/04/2022,Outros,SR 4,0
+17/04/2022,Outros,SR 5,0
+17/04/2022,Outros,SR 6,0
+17/04/2022,Outros,SR 7,0
+17/04/2022,Outros,SR 8,0
+17/04/2022,Outros,SR 9,0
+17/04/2022,Outros,SR 10,0
+17/04/2022,Outros,SR 11,0
+17/04/2022,Outros,SR 12,0
+18/04/2022,Alagamento,SR 1,0
+18/04/2022,Alagamento,SR 2,0
+18/04/2022,Alagamento,SR 3,0
+18/04/2022,Alagamento,SR 4,0
+18/04/2022,Alagamento,SR 5,0
+18/04/2022,Alagamento,SR 6,0
+18/04/2022,Alagamento,SR 7,0
+18/04/2022,Alagamento,SR 8,0
+18/04/2022,Alagamento,SR 9,0
+18/04/2022,Alagamento,SR 10,0
+18/04/2022,Alagamento,SR 11,0
+18/04/2022,Alagamento,SR 12,0
+18/04/2022,Incêndio,SR 1,0
+18/04/2022,Incêndio,SR 2,0
+18/04/2022,Incêndio,SR 3,0
+18/04/2022,Incêndio,SR 4,0
+18/04/2022,Incêndio,SR 5,0
+18/04/2022,Incêndio,SR 6,0
+18/04/2022,Incêndio,SR 7,0
+18/04/2022,Incêndio,SR 8,0
+18/04/2022,Incêndio,SR 9,0
+18/04/2022,Incêndio,SR 10,0
+18/04/2022,Incêndio,SR 11,0
+18/04/2022,Incêndio,SR 12,0
+18/04/2022,Desabamento,SR 1,0
+18/04/2022,Desabamento,SR 2,0
+18/04/2022,Desabamento,SR 3,0
+18/04/2022,Desabamento,SR 4,0
+18/04/2022,Desabamento,SR 5,0
+18/04/2022,Desabamento,SR 6,0
+18/04/2022,Desabamento,SR 7,0
+18/04/2022,Desabamento,SR 8,0
+18/04/2022,Desabamento,SR 9,0
+18/04/2022,Desabamento,SR 10,0
+18/04/2022,Desabamento,SR 11,0
+18/04/2022,Desabamento,SR 12,0
+18/04/2022,Deslizamento,SR 1,0
+18/04/2022,Deslizamento,SR 2,0
+18/04/2022,Deslizamento,SR 3,0
+18/04/2022,Deslizamento,SR 4,0
+18/04/2022,Deslizamento,SR 5,0
+18/04/2022,Deslizamento,SR 6,0
+18/04/2022,Deslizamento,SR 7,0
+18/04/2022,Deslizamento,SR 8,0
+18/04/2022,Deslizamento,SR 9,0
+18/04/2022,Deslizamento,SR 10,0
+18/04/2022,Deslizamento,SR 11,0
+18/04/2022,Deslizamento,SR 12,0
+18/04/2022,Risco de Alagamento,SR 1,0
+18/04/2022,Risco de Alagamento,SR 2,0
+18/04/2022,Risco de Alagamento,SR 3,0
+18/04/2022,Risco de Alagamento,SR 4,0
+18/04/2022,Risco de Alagamento,SR 5,0
+18/04/2022,Risco de Alagamento,SR 6,0
+18/04/2022,Risco de Alagamento,SR 7,0
+18/04/2022,Risco de Alagamento,SR 8,0
+18/04/2022,Risco de Alagamento,SR 9,0
+18/04/2022,Risco de Alagamento,SR 10,0
+18/04/2022,Risco de Alagamento,SR 11,0
+18/04/2022,Risco de Alagamento,SR 12,0
+18/04/2022,Risco de Desabamento,SR 1,0
+18/04/2022,Risco de Desabamento,SR 2,0
+18/04/2022,Risco de Desabamento,SR 3,0
+18/04/2022,Risco de Desabamento,SR 4,1
+18/04/2022,Risco de Desabamento,SR 5,0
+18/04/2022,Risco de Desabamento,SR 6,1
+18/04/2022,Risco de Desabamento,SR 7,0
+18/04/2022,Risco de Desabamento,SR 8,0
+18/04/2022,Risco de Desabamento,SR 9,0
+18/04/2022,Risco de Desabamento,SR 10,1
+18/04/2022,Risco de Desabamento,SR 11,0
+18/04/2022,Risco de Desabamento,SR 12,0
+18/04/2022,Risco de Deslizamento,SR 1,0
+18/04/2022,Risco de Deslizamento,SR 2,0
+18/04/2022,Risco de Deslizamento,SR 3,0
+18/04/2022,Risco de Deslizamento,SR 4,0
+18/04/2022,Risco de Deslizamento,SR 5,0
+18/04/2022,Risco de Deslizamento,SR 6,0
+18/04/2022,Risco de Deslizamento,SR 7,0
+18/04/2022,Risco de Deslizamento,SR 8,0
+18/04/2022,Risco de Deslizamento,SR 9,0
+18/04/2022,Risco de Deslizamento,SR 10,0
+18/04/2022,Risco de Deslizamento,SR 11,0
+18/04/2022,Risco de Deslizamento,SR 12,0
+18/04/2022,Risco de Inundação,SR 1,0
+18/04/2022,Risco de Inundação,SR 2,0
+18/04/2022,Risco de Inundação,SR 3,0
+18/04/2022,Risco de Inundação,SR 4,0
+18/04/2022,Risco de Inundação,SR 5,0
+18/04/2022,Risco de Inundação,SR 6,0
+18/04/2022,Risco de Inundação,SR 7,0
+18/04/2022,Risco de Inundação,SR 8,0
+18/04/2022,Risco de Inundação,SR 9,0
+18/04/2022,Risco de Inundação,SR 10,0
+18/04/2022,Risco de Inundação,SR 11,0
+18/04/2022,Risco de Inundação,SR 12,0
+18/04/2022,Inundação,SR 1,0
+18/04/2022,Inundação,SR 2,0
+18/04/2022,Inundação,SR 3,0
+18/04/2022,Inundação,SR 4,0
+18/04/2022,Inundação,SR 5,0
+18/04/2022,Inundação,SR 6,0
+18/04/2022,Inundação,SR 7,0
+18/04/2022,Inundação,SR 8,0
+18/04/2022,Inundação,SR 9,0
+18/04/2022,Inundação,SR 10,0
+18/04/2022,Inundação,SR 11,0
+18/04/2022,Inundação,SR 12,0
+18/04/2022,Solapamento,SR 1,0
+18/04/2022,Solapamento,SR 2,0
+18/04/2022,Solapamento,SR 3,1
+18/04/2022,Solapamento,SR 4,0
+18/04/2022,Solapamento,SR 5,0
+18/04/2022,Solapamento,SR 6,1
+18/04/2022,Solapamento,SR 7,0
+18/04/2022,Solapamento,SR 8,0
+18/04/2022,Solapamento,SR 9,0
+18/04/2022,Solapamento,SR 10,0
+18/04/2022,Solapamento,SR 11,1
+18/04/2022,Solapamento,SR 12,0
+18/04/2022,Outros,SR 1,0
+18/04/2022,Outros,SR 2,0
+18/04/2022,Outros,SR 3,0
+18/04/2022,Outros,SR 4,0
+18/04/2022,Outros,SR 5,0
+18/04/2022,Outros,SR 6,0
+18/04/2022,Outros,SR 7,0
+18/04/2022,Outros,SR 8,0
+18/04/2022,Outros,SR 9,0
+18/04/2022,Outros,SR 10,0
+18/04/2022,Outros,SR 11,0
+18/04/2022,Outros,SR 12,0
+19/04/2022,Alagamento,SR 1,0
+19/04/2022,Alagamento,SR 2,0
+19/04/2022,Alagamento,SR 3,0
+19/04/2022,Alagamento,SR 4,0
+19/04/2022,Alagamento,SR 5,0
+19/04/2022,Alagamento,SR 6,0
+19/04/2022,Alagamento,SR 7,0
+19/04/2022,Alagamento,SR 8,0
+19/04/2022,Alagamento,SR 9,0
+19/04/2022,Alagamento,SR 10,0
+19/04/2022,Alagamento,SR 11,0
+19/04/2022,Alagamento,SR 12,0
+19/04/2022,Incêndio,SR 1,0
+19/04/2022,Incêndio,SR 2,0
+19/04/2022,Incêndio,SR 3,0
+19/04/2022,Incêndio,SR 4,0
+19/04/2022,Incêndio,SR 5,0
+19/04/2022,Incêndio,SR 6,1
+19/04/2022,Incêndio,SR 7,0
+19/04/2022,Incêndio,SR 8,1
+19/04/2022,Incêndio,SR 9,0
+19/04/2022,Incêndio,SR 10,0
+19/04/2022,Incêndio,SR 11,0
+19/04/2022,Incêndio,SR 12,0
+19/04/2022,Desabamento,SR 1,0
+19/04/2022,Desabamento,SR 2,0
+19/04/2022,Desabamento,SR 3,0
+19/04/2022,Desabamento,SR 4,0
+19/04/2022,Desabamento,SR 5,0
+19/04/2022,Desabamento,SR 6,0
+19/04/2022,Desabamento,SR 7,0
+19/04/2022,Desabamento,SR 8,0
+19/04/2022,Desabamento,SR 9,0
+19/04/2022,Desabamento,SR 10,0
+19/04/2022,Desabamento,SR 11,0
+19/04/2022,Desabamento,SR 12,0
+19/04/2022,Deslizamento,SR 1,0
+19/04/2022,Deslizamento,SR 2,0
+19/04/2022,Deslizamento,SR 3,0
+19/04/2022,Deslizamento,SR 4,0
+19/04/2022,Deslizamento,SR 5,0
+19/04/2022,Deslizamento,SR 6,0
+19/04/2022,Deslizamento,SR 7,0
+19/04/2022,Deslizamento,SR 8,0
+19/04/2022,Deslizamento,SR 9,0
+19/04/2022,Deslizamento,SR 10,0
+19/04/2022,Deslizamento,SR 11,0
+19/04/2022,Deslizamento,SR 12,0
+19/04/2022,Risco de Alagamento,SR 1,0
+19/04/2022,Risco de Alagamento,SR 2,0
+19/04/2022,Risco de Alagamento,SR 3,0
+19/04/2022,Risco de Alagamento,SR 4,0
+19/04/2022,Risco de Alagamento,SR 5,0
+19/04/2022,Risco de Alagamento,SR 6,0
+19/04/2022,Risco de Alagamento,SR 7,0
+19/04/2022,Risco de Alagamento,SR 8,0
+19/04/2022,Risco de Alagamento,SR 9,0
+19/04/2022,Risco de Alagamento,SR 10,0
+19/04/2022,Risco de Alagamento,SR 11,0
+19/04/2022,Risco de Alagamento,SR 12,0
+19/04/2022,Risco de Desabamento,SR 1,0
+19/04/2022,Risco de Desabamento,SR 2,0
+19/04/2022,Risco de Desabamento,SR 3,1
+19/04/2022,Risco de Desabamento,SR 4,0
+19/04/2022,Risco de Desabamento,SR 5,1
+19/04/2022,Risco de Desabamento,SR 6,0
+19/04/2022,Risco de Desabamento,SR 7,0
+19/04/2022,Risco de Desabamento,SR 8,0
+19/04/2022,Risco de Desabamento,SR 9,0
+19/04/2022,Risco de Desabamento,SR 10,0
+19/04/2022,Risco de Desabamento,SR 11,0
+19/04/2022,Risco de Desabamento,SR 12,0
+19/04/2022,Risco de Deslizamento,SR 1,0
+19/04/2022,Risco de Deslizamento,SR 2,0
+19/04/2022,Risco de Deslizamento,SR 3,0
+19/04/2022,Risco de Deslizamento,SR 4,0
+19/04/2022,Risco de Deslizamento,SR 5,0
+19/04/2022,Risco de Deslizamento,SR 6,0
+19/04/2022,Risco de Deslizamento,SR 7,0
+19/04/2022,Risco de Deslizamento,SR 8,0
+19/04/2022,Risco de Deslizamento,SR 9,0
+19/04/2022,Risco de Deslizamento,SR 10,0
+19/04/2022,Risco de Deslizamento,SR 11,0
+19/04/2022,Risco de Deslizamento,SR 12,0
+19/04/2022,Risco de Inundação,SR 1,0
+19/04/2022,Risco de Inundação,SR 2,0
+19/04/2022,Risco de Inundação,SR 3,0
+19/04/2022,Risco de Inundação,SR 4,0
+19/04/2022,Risco de Inundação,SR 5,0
+19/04/2022,Risco de Inundação,SR 6,0
+19/04/2022,Risco de Inundação,SR 7,0
+19/04/2022,Risco de Inundação,SR 8,0
+19/04/2022,Risco de Inundação,SR 9,0
+19/04/2022,Risco de Inundação,SR 10,0
+19/04/2022,Risco de Inundação,SR 11,0
+19/04/2022,Risco de Inundação,SR 12,0
+19/04/2022,Inundação,SR 1,0
+19/04/2022,Inundação,SR 2,0
+19/04/2022,Inundação,SR 3,0
+19/04/2022,Inundação,SR 4,0
+19/04/2022,Inundação,SR 5,0
+19/04/2022,Inundação,SR 6,0
+19/04/2022,Inundação,SR 7,0
+19/04/2022,Inundação,SR 8,0
+19/04/2022,Inundação,SR 9,0
+19/04/2022,Inundação,SR 10,0
+19/04/2022,Inundação,SR 11,0
+19/04/2022,Inundação,SR 12,0
+19/04/2022,Solapamento,SR 1,0
+19/04/2022,Solapamento,SR 2,0
+19/04/2022,Solapamento,SR 3,0
+19/04/2022,Solapamento,SR 4,0
+19/04/2022,Solapamento,SR 5,0
+19/04/2022,Solapamento,SR 6,0
+19/04/2022,Solapamento,SR 7,0
+19/04/2022,Solapamento,SR 8,0
+19/04/2022,Solapamento,SR 9,0
+19/04/2022,Solapamento,SR 10,0
+19/04/2022,Solapamento,SR 11,0
+19/04/2022,Solapamento,SR 12,0
+19/04/2022,Outros,SR 1,0
+19/04/2022,Outros,SR 2,0
+19/04/2022,Outros,SR 3,0
+19/04/2022,Outros,SR 4,0
+19/04/2022,Outros,SR 5,0
+19/04/2022,Outros,SR 6,0
+19/04/2022,Outros,SR 7,0
+19/04/2022,Outros,SR 8,0
+19/04/2022,Outros,SR 9,0
+19/04/2022,Outros,SR 10,0
+19/04/2022,Outros,SR 11,0
+19/04/2022,Outros,SR 12,0
+20/04/2022,Alagamento,SR 1,0
+20/04/2022,Alagamento,SR 2,0
+20/04/2022,Alagamento,SR 3,0
+20/04/2022,Alagamento,SR 4,0
+20/04/2022,Alagamento,SR 5,0
+20/04/2022,Alagamento,SR 6,0
+20/04/2022,Alagamento,SR 7,0
+20/04/2022,Alagamento,SR 8,0
+20/04/2022,Alagamento,SR 9,0
+20/04/2022,Alagamento,SR 10,0
+20/04/2022,Alagamento,SR 11,0
+20/04/2022,Alagamento,SR 12,0
+20/04/2022,Incêndio,SR 1,0
+20/04/2022,Incêndio,SR 2,0
+20/04/2022,Incêndio,SR 3,0
+20/04/2022,Incêndio,SR 4,0
+20/04/2022,Incêndio,SR 5,0
+20/04/2022,Incêndio,SR 6,0
+20/04/2022,Incêndio,SR 7,0
+20/04/2022,Incêndio,SR 8,0
+20/04/2022,Incêndio,SR 9,0
+20/04/2022,Incêndio,SR 10,0
+20/04/2022,Incêndio,SR 11,0
+20/04/2022,Incêndio,SR 12,0
+20/04/2022,Desabamento,SR 1,0
+20/04/2022,Desabamento,SR 2,0
+20/04/2022,Desabamento,SR 3,0
+20/04/2022,Desabamento,SR 4,0
+20/04/2022,Desabamento,SR 5,0
+20/04/2022,Desabamento,SR 6,0
+20/04/2022,Desabamento,SR 7,0
+20/04/2022,Desabamento,SR 8,0
+20/04/2022,Desabamento,SR 9,0
+20/04/2022,Desabamento,SR 10,0
+20/04/2022,Desabamento,SR 11,0
+20/04/2022,Desabamento,SR 12,0
+20/04/2022,Deslizamento,SR 1,0
+20/04/2022,Deslizamento,SR 2,0
+20/04/2022,Deslizamento,SR 3,0
+20/04/2022,Deslizamento,SR 4,0
+20/04/2022,Deslizamento,SR 5,0
+20/04/2022,Deslizamento,SR 6,0
+20/04/2022,Deslizamento,SR 7,0
+20/04/2022,Deslizamento,SR 8,0
+20/04/2022,Deslizamento,SR 9,0
+20/04/2022,Deslizamento,SR 10,0
+20/04/2022,Deslizamento,SR 11,0
+20/04/2022,Deslizamento,SR 12,0
+20/04/2022,Risco de Alagamento,SR 1,0
+20/04/2022,Risco de Alagamento,SR 2,0
+20/04/2022,Risco de Alagamento,SR 3,0
+20/04/2022,Risco de Alagamento,SR 4,0
+20/04/2022,Risco de Alagamento,SR 5,0
+20/04/2022,Risco de Alagamento,SR 6,0
+20/04/2022,Risco de Alagamento,SR 7,0
+20/04/2022,Risco de Alagamento,SR 8,0
+20/04/2022,Risco de Alagamento,SR 9,0
+20/04/2022,Risco de Alagamento,SR 10,0
+20/04/2022,Risco de Alagamento,SR 11,0
+20/04/2022,Risco de Alagamento,SR 12,0
+20/04/2022,Risco de Desabamento,SR 1,1
+20/04/2022,Risco de Desabamento,SR 2,0
+20/04/2022,Risco de Desabamento,SR 3,1
+20/04/2022,Risco de Desabamento,SR 4,0
+20/04/2022,Risco de Desabamento,SR 5,0
+20/04/2022,Risco de Desabamento,SR 6,0
+20/04/2022,Risco de Desabamento,SR 7,0
+20/04/2022,Risco de Desabamento,SR 8,1
+20/04/2022,Risco de Desabamento,SR 9,0
+20/04/2022,Risco de Desabamento,SR 10,0
+20/04/2022,Risco de Desabamento,SR 11,1
+20/04/2022,Risco de Desabamento,SR 12,2
+20/04/2022,Risco de Deslizamento,SR 1,0
+20/04/2022,Risco de Deslizamento,SR 2,0
+20/04/2022,Risco de Deslizamento,SR 3,0
+20/04/2022,Risco de Deslizamento,SR 4,0
+20/04/2022,Risco de Deslizamento,SR 5,0
+20/04/2022,Risco de Deslizamento,SR 6,0
+20/04/2022,Risco de Deslizamento,SR 7,0
+20/04/2022,Risco de Deslizamento,SR 8,0
+20/04/2022,Risco de Deslizamento,SR 9,0
+20/04/2022,Risco de Deslizamento,SR 10,0
+20/04/2022,Risco de Deslizamento,SR 11,0
+20/04/2022,Risco de Deslizamento,SR 12,0
+20/04/2022,Risco de Inundação,SR 1,0
+20/04/2022,Risco de Inundação,SR 2,0
+20/04/2022,Risco de Inundação,SR 3,0
+20/04/2022,Risco de Inundação,SR 4,0
+20/04/2022,Risco de Inundação,SR 5,0
+20/04/2022,Risco de Inundação,SR 6,0
+20/04/2022,Risco de Inundação,SR 7,0
+20/04/2022,Risco de Inundação,SR 8,0
+20/04/2022,Risco de Inundação,SR 9,0
+20/04/2022,Risco de Inundação,SR 10,0
+20/04/2022,Risco de Inundação,SR 11,0
+20/04/2022,Risco de Inundação,SR 12,0
+20/04/2022,Inundação,SR 1,0
+20/04/2022,Inundação,SR 2,0
+20/04/2022,Inundação,SR 3,0
+20/04/2022,Inundação,SR 4,0
+20/04/2022,Inundação,SR 5,0
+20/04/2022,Inundação,SR 6,0
+20/04/2022,Inundação,SR 7,0
+20/04/2022,Inundação,SR 8,0
+20/04/2022,Inundação,SR 9,0
+20/04/2022,Inundação,SR 10,0
+20/04/2022,Inundação,SR 11,0
+20/04/2022,Inundação,SR 12,0
+20/04/2022,Solapamento,SR 1,0
+20/04/2022,Solapamento,SR 2,0
+20/04/2022,Solapamento,SR 3,0
+20/04/2022,Solapamento,SR 4,0
+20/04/2022,Solapamento,SR 5,0
+20/04/2022,Solapamento,SR 6,0
+20/04/2022,Solapamento,SR 7,0
+20/04/2022,Solapamento,SR 8,0
+20/04/2022,Solapamento,SR 9,0
+20/04/2022,Solapamento,SR 10,0
+20/04/2022,Solapamento,SR 11,0
+20/04/2022,Solapamento,SR 12,0
+20/04/2022,Outros,SR 1,0
+20/04/2022,Outros,SR 2,0
+20/04/2022,Outros,SR 3,0
+20/04/2022,Outros,SR 4,0
+20/04/2022,Outros,SR 5,0
+20/04/2022,Outros,SR 6,0
+20/04/2022,Outros,SR 7,0
+20/04/2022,Outros,SR 8,0
+20/04/2022,Outros,SR 9,0
+20/04/2022,Outros,SR 10,0
+20/04/2022,Outros,SR 11,0
+20/04/2022,Outros,SR 12,0
+21/04/2022,Alagamento,SR 1,0
+21/04/2022,Alagamento,SR 2,0
+21/04/2022,Alagamento,SR 3,0
+21/04/2022,Alagamento,SR 4,0
+21/04/2022,Alagamento,SR 5,0
+21/04/2022,Alagamento,SR 6,0
+21/04/2022,Alagamento,SR 7,0
+21/04/2022,Alagamento,SR 8,0
+21/04/2022,Alagamento,SR 9,0
+21/04/2022,Alagamento,SR 10,0
+21/04/2022,Alagamento,SR 11,0
+21/04/2022,Alagamento,SR 12,0
+21/04/2022,Incêndio,SR 1,0
+21/04/2022,Incêndio,SR 2,0
+21/04/2022,Incêndio,SR 3,0
+21/04/2022,Incêndio,SR 4,0
+21/04/2022,Incêndio,SR 5,0
+21/04/2022,Incêndio,SR 6,0
+21/04/2022,Incêndio,SR 7,0
+21/04/2022,Incêndio,SR 8,0
+21/04/2022,Incêndio,SR 9,0
+21/04/2022,Incêndio,SR 10,0
+21/04/2022,Incêndio,SR 11,0
+21/04/2022,Incêndio,SR 12,0
+21/04/2022,Desabamento,SR 1,0
+21/04/2022,Desabamento,SR 2,0
+21/04/2022,Desabamento,SR 3,0
+21/04/2022,Desabamento,SR 4,0
+21/04/2022,Desabamento,SR 5,0
+21/04/2022,Desabamento,SR 6,0
+21/04/2022,Desabamento,SR 7,0
+21/04/2022,Desabamento,SR 8,0
+21/04/2022,Desabamento,SR 9,0
+21/04/2022,Desabamento,SR 10,0
+21/04/2022,Desabamento,SR 11,0
+21/04/2022,Desabamento,SR 12,1
+21/04/2022,Deslizamento,SR 1,0
+21/04/2022,Deslizamento,SR 2,0
+21/04/2022,Deslizamento,SR 3,0
+21/04/2022,Deslizamento,SR 4,0
+21/04/2022,Deslizamento,SR 5,0
+21/04/2022,Deslizamento,SR 6,0
+21/04/2022,Deslizamento,SR 7,0
+21/04/2022,Deslizamento,SR 8,0
+21/04/2022,Deslizamento,SR 9,0
+21/04/2022,Deslizamento,SR 10,0
+21/04/2022,Deslizamento,SR 11,0
+21/04/2022,Deslizamento,SR 12,0
+21/04/2022,Risco de Alagamento,SR 1,0
+21/04/2022,Risco de Alagamento,SR 2,0
+21/04/2022,Risco de Alagamento,SR 3,0
+21/04/2022,Risco de Alagamento,SR 4,0
+21/04/2022,Risco de Alagamento,SR 5,0
+21/04/2022,Risco de Alagamento,SR 6,0
+21/04/2022,Risco de Alagamento,SR 7,0
+21/04/2022,Risco de Alagamento,SR 8,0
+21/04/2022,Risco de Alagamento,SR 9,0
+21/04/2022,Risco de Alagamento,SR 10,0
+21/04/2022,Risco de Alagamento,SR 11,0
+21/04/2022,Risco de Alagamento,SR 12,0
+21/04/2022,Risco de Desabamento,SR 1,0
+21/04/2022,Risco de Desabamento,SR 2,0
+21/04/2022,Risco de Desabamento,SR 3,0
+21/04/2022,Risco de Desabamento,SR 4,1
+21/04/2022,Risco de Desabamento,SR 5,0
+21/04/2022,Risco de Desabamento,SR 6,0
+21/04/2022,Risco de Desabamento,SR 7,0
+21/04/2022,Risco de Desabamento,SR 8,0
+21/04/2022,Risco de Desabamento,SR 9,0
+21/04/2022,Risco de Desabamento,SR 10,0
+21/04/2022,Risco de Desabamento,SR 11,0
+21/04/2022,Risco de Desabamento,SR 12,0
+21/04/2022,Risco de Deslizamento,SR 1,0
+21/04/2022,Risco de Deslizamento,SR 2,0
+21/04/2022,Risco de Deslizamento,SR 3,0
+21/04/2022,Risco de Deslizamento,SR 4,0
+21/04/2022,Risco de Deslizamento,SR 5,0
+21/04/2022,Risco de Deslizamento,SR 6,0
+21/04/2022,Risco de Deslizamento,SR 7,0
+21/04/2022,Risco de Deslizamento,SR 8,0
+21/04/2022,Risco de Deslizamento,SR 9,0
+21/04/2022,Risco de Deslizamento,SR 10,0
+21/04/2022,Risco de Deslizamento,SR 11,0
+21/04/2022,Risco de Deslizamento,SR 12,0
+21/04/2022,Risco de Inundação,SR 1,0
+21/04/2022,Risco de Inundação,SR 2,0
+21/04/2022,Risco de Inundação,SR 3,0
+21/04/2022,Risco de Inundação,SR 4,0
+21/04/2022,Risco de Inundação,SR 5,0
+21/04/2022,Risco de Inundação,SR 6,0
+21/04/2022,Risco de Inundação,SR 7,0
+21/04/2022,Risco de Inundação,SR 8,0
+21/04/2022,Risco de Inundação,SR 9,0
+21/04/2022,Risco de Inundação,SR 10,0
+21/04/2022,Risco de Inundação,SR 11,0
+21/04/2022,Risco de Inundação,SR 12,0
+21/04/2022,Inundação,SR 1,0
+21/04/2022,Inundação,SR 2,0
+21/04/2022,Inundação,SR 3,0
+21/04/2022,Inundação,SR 4,0
+21/04/2022,Inundação,SR 5,0
+21/04/2022,Inundação,SR 6,0
+21/04/2022,Inundação,SR 7,0
+21/04/2022,Inundação,SR 8,0
+21/04/2022,Inundação,SR 9,0
+21/04/2022,Inundação,SR 10,0
+21/04/2022,Inundação,SR 11,0
+21/04/2022,Inundação,SR 12,0
+21/04/2022,Solapamento,SR 1,0
+21/04/2022,Solapamento,SR 2,0
+21/04/2022,Solapamento,SR 3,0
+21/04/2022,Solapamento,SR 4,0
+21/04/2022,Solapamento,SR 5,0
+21/04/2022,Solapamento,SR 6,0
+21/04/2022,Solapamento,SR 7,0
+21/04/2022,Solapamento,SR 8,0
+21/04/2022,Solapamento,SR 9,0
+21/04/2022,Solapamento,SR 10,0
+21/04/2022,Solapamento,SR 11,0
+21/04/2022,Solapamento,SR 12,0
+21/04/2022,Outros,SR 1,0
+21/04/2022,Outros,SR 2,1
+21/04/2022,Outros,SR 3,0
+21/04/2022,Outros,SR 4,1
+21/04/2022,Outros,SR 5,0
+21/04/2022,Outros,SR 6,0
+21/04/2022,Outros,SR 7,0
+21/04/2022,Outros,SR 8,0
+21/04/2022,Outros,SR 9,0
+21/04/2022,Outros,SR 10,0
+21/04/2022,Outros,SR 11,0
+21/04/2022,Outros,SR 12,0
+22/04/2022,Alagamento,SR 1,0
+22/04/2022,Alagamento,SR 2,0
+22/04/2022,Alagamento,SR 3,0
+22/04/2022,Alagamento,SR 4,0
+22/04/2022,Alagamento,SR 5,0
+22/04/2022,Alagamento,SR 6,0
+22/04/2022,Alagamento,SR 7,0
+22/04/2022,Alagamento,SR 8,0
+22/04/2022,Alagamento,SR 9,0
+22/04/2022,Alagamento,SR 10,0
+22/04/2022,Alagamento,SR 11,0
+22/04/2022,Alagamento,SR 12,0
+22/04/2022,Incêndio,SR 1,0
+22/04/2022,Incêndio,SR 2,0
+22/04/2022,Incêndio,SR 3,0
+22/04/2022,Incêndio,SR 4,0
+22/04/2022,Incêndio,SR 5,0
+22/04/2022,Incêndio,SR 6,0
+22/04/2022,Incêndio,SR 7,0
+22/04/2022,Incêndio,SR 8,0
+22/04/2022,Incêndio,SR 9,0
+22/04/2022,Incêndio,SR 10,0
+22/04/2022,Incêndio,SR 11,0
+22/04/2022,Incêndio,SR 12,0
+22/04/2022,Desabamento,SR 1,0
+22/04/2022,Desabamento,SR 2,0
+22/04/2022,Desabamento,SR 3,0
+22/04/2022,Desabamento,SR 4,0
+22/04/2022,Desabamento,SR 5,0
+22/04/2022,Desabamento,SR 6,0
+22/04/2022,Desabamento,SR 7,0
+22/04/2022,Desabamento,SR 8,0
+22/04/2022,Desabamento,SR 9,0
+22/04/2022,Desabamento,SR 10,0
+22/04/2022,Desabamento,SR 11,0
+22/04/2022,Desabamento,SR 12,0
+22/04/2022,Deslizamento,SR 1,0
+22/04/2022,Deslizamento,SR 2,0
+22/04/2022,Deslizamento,SR 3,0
+22/04/2022,Deslizamento,SR 4,0
+22/04/2022,Deslizamento,SR 5,0
+22/04/2022,Deslizamento,SR 6,0
+22/04/2022,Deslizamento,SR 7,0
+22/04/2022,Deslizamento,SR 8,0
+22/04/2022,Deslizamento,SR 9,0
+22/04/2022,Deslizamento,SR 10,0
+22/04/2022,Deslizamento,SR 11,0
+22/04/2022,Deslizamento,SR 12,0
+22/04/2022,Risco de Alagamento,SR 1,0
+22/04/2022,Risco de Alagamento,SR 2,0
+22/04/2022,Risco de Alagamento,SR 3,0
+22/04/2022,Risco de Alagamento,SR 4,0
+22/04/2022,Risco de Alagamento,SR 5,0
+22/04/2022,Risco de Alagamento,SR 6,0
+22/04/2022,Risco de Alagamento,SR 7,0
+22/04/2022,Risco de Alagamento,SR 8,0
+22/04/2022,Risco de Alagamento,SR 9,0
+22/04/2022,Risco de Alagamento,SR 10,0
+22/04/2022,Risco de Alagamento,SR 11,0
+22/04/2022,Risco de Alagamento,SR 12,0
+22/04/2022,Risco de Desabamento,SR 1,2
+22/04/2022,Risco de Desabamento,SR 2,2
+22/04/2022,Risco de Desabamento,SR 3,1
+22/04/2022,Risco de Desabamento,SR 4,0
+22/04/2022,Risco de Desabamento,SR 5,1
+22/04/2022,Risco de Desabamento,SR 6,0
+22/04/2022,Risco de Desabamento,SR 7,0
+22/04/2022,Risco de Desabamento,SR 8,0
+22/04/2022,Risco de Desabamento,SR 9,0
+22/04/2022,Risco de Desabamento,SR 10,0
+22/04/2022,Risco de Desabamento,SR 11,0
+22/04/2022,Risco de Desabamento,SR 12,0
+22/04/2022,Risco de Deslizamento,SR 1,0
+22/04/2022,Risco de Deslizamento,SR 2,0
+22/04/2022,Risco de Deslizamento,SR 3,0
+22/04/2022,Risco de Deslizamento,SR 4,0
+22/04/2022,Risco de Deslizamento,SR 5,0
+22/04/2022,Risco de Deslizamento,SR 6,0
+22/04/2022,Risco de Deslizamento,SR 7,0
+22/04/2022,Risco de Deslizamento,SR 8,0
+22/04/2022,Risco de Deslizamento,SR 9,0
+22/04/2022,Risco de Deslizamento,SR 10,0
+22/04/2022,Risco de Deslizamento,SR 11,0
+22/04/2022,Risco de Deslizamento,SR 12,0
+22/04/2022,Risco de Inundação,SR 1,0
+22/04/2022,Risco de Inundação,SR 2,0
+22/04/2022,Risco de Inundação,SR 3,0
+22/04/2022,Risco de Inundação,SR 4,0
+22/04/2022,Risco de Inundação,SR 5,0
+22/04/2022,Risco de Inundação,SR 6,0
+22/04/2022,Risco de Inundação,SR 7,0
+22/04/2022,Risco de Inundação,SR 8,0
+22/04/2022,Risco de Inundação,SR 9,0
+22/04/2022,Risco de Inundação,SR 10,0
+22/04/2022,Risco de Inundação,SR 11,0
+22/04/2022,Risco de Inundação,SR 12,0
+22/04/2022,Inundação,SR 1,0
+22/04/2022,Inundação,SR 2,0
+22/04/2022,Inundação,SR 3,0
+22/04/2022,Inundação,SR 4,0
+22/04/2022,Inundação,SR 5,0
+22/04/2022,Inundação,SR 6,0
+22/04/2022,Inundação,SR 7,0
+22/04/2022,Inundação,SR 8,0
+22/04/2022,Inundação,SR 9,0
+22/04/2022,Inundação,SR 10,0
+22/04/2022,Inundação,SR 11,0
+22/04/2022,Inundação,SR 12,0
+22/04/2022,Solapamento,SR 1,0
+22/04/2022,Solapamento,SR 2,0
+22/04/2022,Solapamento,SR 3,0
+22/04/2022,Solapamento,SR 4,0
+22/04/2022,Solapamento,SR 5,0
+22/04/2022,Solapamento,SR 6,0
+22/04/2022,Solapamento,SR 7,0
+22/04/2022,Solapamento,SR 8,0
+22/04/2022,Solapamento,SR 9,0
+22/04/2022,Solapamento,SR 10,0
+22/04/2022,Solapamento,SR 11,0
+22/04/2022,Solapamento,SR 12,0
+22/04/2022,Outros,SR 1,0
+22/04/2022,Outros,SR 2,0
+22/04/2022,Outros,SR 3,0
+22/04/2022,Outros,SR 4,0
+22/04/2022,Outros,SR 5,0
+22/04/2022,Outros,SR 6,0
+22/04/2022,Outros,SR 7,0
+22/04/2022,Outros,SR 8,0
+22/04/2022,Outros,SR 9,0
+22/04/2022,Outros,SR 10,0
+22/04/2022,Outros,SR 11,0
+22/04/2022,Outros,SR 12,0
+23/04/2022,Alagamento,SR 1,0
+23/04/2022,Alagamento,SR 2,0
+23/04/2022,Alagamento,SR 3,1
+23/04/2022,Alagamento,SR 4,0
+23/04/2022,Alagamento,SR 5,0
+23/04/2022,Alagamento,SR 6,0
+23/04/2022,Alagamento,SR 7,2
+23/04/2022,Alagamento,SR 8,0
+23/04/2022,Alagamento,SR 9,0
+23/04/2022,Alagamento,SR 10,0
+23/04/2022,Alagamento,SR 11,0
+23/04/2022,Alagamento,SR 12,0
+23/04/2022,Incêndio,SR 1,0
+23/04/2022,Incêndio,SR 2,0
+23/04/2022,Incêndio,SR 3,0
+23/04/2022,Incêndio,SR 4,0
+23/04/2022,Incêndio,SR 5,0
+23/04/2022,Incêndio,SR 6,0
+23/04/2022,Incêndio,SR 7,0
+23/04/2022,Incêndio,SR 8,0
+23/04/2022,Incêndio,SR 9,0
+23/04/2022,Incêndio,SR 10,0
+23/04/2022,Incêndio,SR 11,0
+23/04/2022,Incêndio,SR 12,0
+23/04/2022,Desabamento,SR 1,1
+23/04/2022,Desabamento,SR 2,0
+23/04/2022,Desabamento,SR 3,0
+23/04/2022,Desabamento,SR 4,0
+23/04/2022,Desabamento,SR 5,0
+23/04/2022,Desabamento,SR 6,0
+23/04/2022,Desabamento,SR 7,0
+23/04/2022,Desabamento,SR 8,0
+23/04/2022,Desabamento,SR 9,0
+23/04/2022,Desabamento,SR 10,0
+23/04/2022,Desabamento,SR 11,0
+23/04/2022,Desabamento,SR 12,0
+23/04/2022,Deslizamento,SR 1,0
+23/04/2022,Deslizamento,SR 2,0
+23/04/2022,Deslizamento,SR 3,0
+23/04/2022,Deslizamento,SR 4,0
+23/04/2022,Deslizamento,SR 5,0
+23/04/2022,Deslizamento,SR 6,0
+23/04/2022,Deslizamento,SR 7,0
+23/04/2022,Deslizamento,SR 8,0
+23/04/2022,Deslizamento,SR 9,0
+23/04/2022,Deslizamento,SR 10,0
+23/04/2022,Deslizamento,SR 11,0
+23/04/2022,Deslizamento,SR 12,0
+23/04/2022,Risco de Alagamento,SR 1,0
+23/04/2022,Risco de Alagamento,SR 2,0
+23/04/2022,Risco de Alagamento,SR 3,0
+23/04/2022,Risco de Alagamento,SR 4,0
+23/04/2022,Risco de Alagamento,SR 5,0
+23/04/2022,Risco de Alagamento,SR 6,0
+23/04/2022,Risco de Alagamento,SR 7,0
+23/04/2022,Risco de Alagamento,SR 8,0
+23/04/2022,Risco de Alagamento,SR 9,0
+23/04/2022,Risco de Alagamento,SR 10,0
+23/04/2022,Risco de Alagamento,SR 11,0
+23/04/2022,Risco de Alagamento,SR 12,0
+23/04/2022,Risco de Desabamento,SR 1,0
+23/04/2022,Risco de Desabamento,SR 2,0
+23/04/2022,Risco de Desabamento,SR 3,2
+23/04/2022,Risco de Desabamento,SR 4,1
+23/04/2022,Risco de Desabamento,SR 5,0
+23/04/2022,Risco de Desabamento,SR 6,0
+23/04/2022,Risco de Desabamento,SR 7,2
+23/04/2022,Risco de Desabamento,SR 8,0
+23/04/2022,Risco de Desabamento,SR 9,0
+23/04/2022,Risco de Desabamento,SR 10,0
+23/04/2022,Risco de Desabamento,SR 11,0
+23/04/2022,Risco de Desabamento,SR 12,0
+23/04/2022,Risco de Deslizamento,SR 1,0
+23/04/2022,Risco de Deslizamento,SR 2,0
+23/04/2022,Risco de Deslizamento,SR 3,0
+23/04/2022,Risco de Deslizamento,SR 4,0
+23/04/2022,Risco de Deslizamento,SR 5,0
+23/04/2022,Risco de Deslizamento,SR 6,0
+23/04/2022,Risco de Deslizamento,SR 7,0
+23/04/2022,Risco de Deslizamento,SR 8,0
+23/04/2022,Risco de Deslizamento,SR 9,0
+23/04/2022,Risco de Deslizamento,SR 10,0
+23/04/2022,Risco de Deslizamento,SR 11,0
+23/04/2022,Risco de Deslizamento,SR 12,0
+23/04/2022,Risco de Inundação,SR 1,0
+23/04/2022,Risco de Inundação,SR 2,0
+23/04/2022,Risco de Inundação,SR 3,0
+23/04/2022,Risco de Inundação,SR 4,0
+23/04/2022,Risco de Inundação,SR 5,0
+23/04/2022,Risco de Inundação,SR 6,0
+23/04/2022,Risco de Inundação,SR 7,0
+23/04/2022,Risco de Inundação,SR 8,0
+23/04/2022,Risco de Inundação,SR 9,0
+23/04/2022,Risco de Inundação,SR 10,0
+23/04/2022,Risco de Inundação,SR 11,0
+23/04/2022,Risco de Inundação,SR 12,0
+23/04/2022,Inundação,SR 1,0
+23/04/2022,Inundação,SR 2,0
+23/04/2022,Inundação,SR 3,0
+23/04/2022,Inundação,SR 4,0
+23/04/2022,Inundação,SR 5,0
+23/04/2022,Inundação,SR 6,0
+23/04/2022,Inundação,SR 7,0
+23/04/2022,Inundação,SR 8,0
+23/04/2022,Inundação,SR 9,0
+23/04/2022,Inundação,SR 10,0
+23/04/2022,Inundação,SR 11,0
+23/04/2022,Inundação,SR 12,0
+23/04/2022,Solapamento,SR 1,0
+23/04/2022,Solapamento,SR 2,0
+23/04/2022,Solapamento,SR 3,0
+23/04/2022,Solapamento,SR 4,0
+23/04/2022,Solapamento,SR 5,0
+23/04/2022,Solapamento,SR 6,0
+23/04/2022,Solapamento,SR 7,0
+23/04/2022,Solapamento,SR 8,0
+23/04/2022,Solapamento,SR 9,0
+23/04/2022,Solapamento,SR 10,0
+23/04/2022,Solapamento,SR 11,0
+23/04/2022,Solapamento,SR 12,0
+23/04/2022,Outros,SR 1,0
+23/04/2022,Outros,SR 2,0
+23/04/2022,Outros,SR 3,0
+23/04/2022,Outros,SR 4,0
+23/04/2022,Outros,SR 5,0
+23/04/2022,Outros,SR 6,0
+23/04/2022,Outros,SR 7,0
+23/04/2022,Outros,SR 8,0
+23/04/2022,Outros,SR 9,0
+23/04/2022,Outros,SR 10,0
+23/04/2022,Outros,SR 11,0
+23/04/2022,Outros,SR 12,0
+24/04/2022,Alagamento,SR 1,0
+24/04/2022,Alagamento,SR 2,0
+24/04/2022,Alagamento,SR 3,0
+24/04/2022,Alagamento,SR 4,0
+24/04/2022,Alagamento,SR 5,0
+24/04/2022,Alagamento,SR 6,0
+24/04/2022,Alagamento,SR 7,0
+24/04/2022,Alagamento,SR 8,0
+24/04/2022,Alagamento,SR 9,0
+24/04/2022,Alagamento,SR 10,0
+24/04/2022,Alagamento,SR 11,0
+24/04/2022,Alagamento,SR 12,0
+24/04/2022,Incêndio,SR 1,0
+24/04/2022,Incêndio,SR 2,0
+24/04/2022,Incêndio,SR 3,0
+24/04/2022,Incêndio,SR 4,0
+24/04/2022,Incêndio,SR 5,0
+24/04/2022,Incêndio,SR 6,1
+24/04/2022,Incêndio,SR 7,0
+24/04/2022,Incêndio,SR 8,0
+24/04/2022,Incêndio,SR 9,0
+24/04/2022,Incêndio,SR 10,0
+24/04/2022,Incêndio,SR 11,0
+24/04/2022,Incêndio,SR 12,0
+24/04/2022,Desabamento,SR 1,0
+24/04/2022,Desabamento,SR 2,0
+24/04/2022,Desabamento,SR 3,0
+24/04/2022,Desabamento,SR 4,0
+24/04/2022,Desabamento,SR 5,0
+24/04/2022,Desabamento,SR 6,0
+24/04/2022,Desabamento,SR 7,0
+24/04/2022,Desabamento,SR 8,0
+24/04/2022,Desabamento,SR 9,0
+24/04/2022,Desabamento,SR 10,0
+24/04/2022,Desabamento,SR 11,0
+24/04/2022,Desabamento,SR 12,0
+24/04/2022,Deslizamento,SR 1,0
+24/04/2022,Deslizamento,SR 2,0
+24/04/2022,Deslizamento,SR 3,0
+24/04/2022,Deslizamento,SR 4,0
+24/04/2022,Deslizamento,SR 5,0
+24/04/2022,Deslizamento,SR 6,0
+24/04/2022,Deslizamento,SR 7,0
+24/04/2022,Deslizamento,SR 8,0
+24/04/2022,Deslizamento,SR 9,0
+24/04/2022,Deslizamento,SR 10,0
+24/04/2022,Deslizamento,SR 11,0
+24/04/2022,Deslizamento,SR 12,0
+24/04/2022,Risco de Alagamento,SR 1,0
+24/04/2022,Risco de Alagamento,SR 2,0
+24/04/2022,Risco de Alagamento,SR 3,0
+24/04/2022,Risco de Alagamento,SR 4,0
+24/04/2022,Risco de Alagamento,SR 5,0
+24/04/2022,Risco de Alagamento,SR 6,0
+24/04/2022,Risco de Alagamento,SR 7,0
+24/04/2022,Risco de Alagamento,SR 8,0
+24/04/2022,Risco de Alagamento,SR 9,0
+24/04/2022,Risco de Alagamento,SR 10,0
+24/04/2022,Risco de Alagamento,SR 11,0
+24/04/2022,Risco de Alagamento,SR 12,0
+24/04/2022,Risco de Desabamento,SR 1,0
+24/04/2022,Risco de Desabamento,SR 2,0
+24/04/2022,Risco de Desabamento,SR 3,0
+24/04/2022,Risco de Desabamento,SR 4,0
+24/04/2022,Risco de Desabamento,SR 5,0
+24/04/2022,Risco de Desabamento,SR 6,0
+24/04/2022,Risco de Desabamento,SR 7,1
+24/04/2022,Risco de Desabamento,SR 8,1
+24/04/2022,Risco de Desabamento,SR 9,0
+24/04/2022,Risco de Desabamento,SR 10,0
+24/04/2022,Risco de Desabamento,SR 11,0
+24/04/2022,Risco de Desabamento,SR 12,0
+24/04/2022,Risco de Deslizamento,SR 1,0
+24/04/2022,Risco de Deslizamento,SR 2,0
+24/04/2022,Risco de Deslizamento,SR 3,0
+24/04/2022,Risco de Deslizamento,SR 4,0
+24/04/2022,Risco de Deslizamento,SR 5,0
+24/04/2022,Risco de Deslizamento,SR 6,0
+24/04/2022,Risco de Deslizamento,SR 7,0
+24/04/2022,Risco de Deslizamento,SR 8,0
+24/04/2022,Risco de Deslizamento,SR 9,0
+24/04/2022,Risco de Deslizamento,SR 10,0
+24/04/2022,Risco de Deslizamento,SR 11,0
+24/04/2022,Risco de Deslizamento,SR 12,0
+24/04/2022,Risco de Inundação,SR 1,0
+24/04/2022,Risco de Inundação,SR 2,0
+24/04/2022,Risco de Inundação,SR 3,0
+24/04/2022,Risco de Inundação,SR 4,0
+24/04/2022,Risco de Inundação,SR 5,0
+24/04/2022,Risco de Inundação,SR 6,0
+24/04/2022,Risco de Inundação,SR 7,0
+24/04/2022,Risco de Inundação,SR 8,0
+24/04/2022,Risco de Inundação,SR 9,0
+24/04/2022,Risco de Inundação,SR 10,0
+24/04/2022,Risco de Inundação,SR 11,0
+24/04/2022,Risco de Inundação,SR 12,0
+24/04/2022,Inundação,SR 1,0
+24/04/2022,Inundação,SR 2,0
+24/04/2022,Inundação,SR 3,0
+24/04/2022,Inundação,SR 4,0
+24/04/2022,Inundação,SR 5,0
+24/04/2022,Inundação,SR 6,0
+24/04/2022,Inundação,SR 7,0
+24/04/2022,Inundação,SR 8,0
+24/04/2022,Inundação,SR 9,0
+24/04/2022,Inundação,SR 10,0
+24/04/2022,Inundação,SR 11,0
+24/04/2022,Inundação,SR 12,0
+24/04/2022,Solapamento,SR 1,0
+24/04/2022,Solapamento,SR 2,0
+24/04/2022,Solapamento,SR 3,0
+24/04/2022,Solapamento,SR 4,0
+24/04/2022,Solapamento,SR 5,0
+24/04/2022,Solapamento,SR 6,0
+24/04/2022,Solapamento,SR 7,0
+24/04/2022,Solapamento,SR 8,0
+24/04/2022,Solapamento,SR 9,0
+24/04/2022,Solapamento,SR 10,0
+24/04/2022,Solapamento,SR 11,0
+24/04/2022,Solapamento,SR 12,0
+24/04/2022,Outros,SR 1,0
+24/04/2022,Outros,SR 2,0
+24/04/2022,Outros,SR 3,0
+24/04/2022,Outros,SR 4,0
+24/04/2022,Outros,SR 5,0
+24/04/2022,Outros,SR 6,0
+24/04/2022,Outros,SR 7,0
+24/04/2022,Outros,SR 8,0
+24/04/2022,Outros,SR 9,0
+24/04/2022,Outros,SR 10,0
+24/04/2022,Outros,SR 11,1
+24/04/2022,Outros,SR 12,0
+25/04/2022,Alagamento,SR 1,0
+25/04/2022,Alagamento,SR 2,0
+25/04/2022,Alagamento,SR 3,0
+25/04/2022,Alagamento,SR 4,0
+25/04/2022,Alagamento,SR 5,0
+25/04/2022,Alagamento,SR 6,0
+25/04/2022,Alagamento,SR 7,0
+25/04/2022,Alagamento,SR 8,0
+25/04/2022,Alagamento,SR 9,0
+25/04/2022,Alagamento,SR 10,0
+25/04/2022,Alagamento,SR 11,0
+25/04/2022,Alagamento,SR 12,0
+25/04/2022,Incêndio,SR 1,0
+25/04/2022,Incêndio,SR 2,0
+25/04/2022,Incêndio,SR 3,1
+25/04/2022,Incêndio,SR 4,0
+25/04/2022,Incêndio,SR 5,0
+25/04/2022,Incêndio,SR 6,0
+25/04/2022,Incêndio,SR 7,0
+25/04/2022,Incêndio,SR 8,0
+25/04/2022,Incêndio,SR 9,0
+25/04/2022,Incêndio,SR 10,0
+25/04/2022,Incêndio,SR 11,0
+25/04/2022,Incêndio,SR 12,0
+25/04/2022,Desabamento,SR 1,1
+25/04/2022,Desabamento,SR 2,0
+25/04/2022,Desabamento,SR 3,0
+25/04/2022,Desabamento,SR 4,1
+25/04/2022,Desabamento,SR 5,0
+25/04/2022,Desabamento,SR 6,0
+25/04/2022,Desabamento,SR 7,0
+25/04/2022,Desabamento,SR 8,0
+25/04/2022,Desabamento,SR 9,0
+25/04/2022,Desabamento,SR 10,0
+25/04/2022,Desabamento,SR 11,0
+25/04/2022,Desabamento,SR 12,0
+25/04/2022,Deslizamento,SR 1,0
+25/04/2022,Deslizamento,SR 2,0
+25/04/2022,Deslizamento,SR 3,0
+25/04/2022,Deslizamento,SR 4,0
+25/04/2022,Deslizamento,SR 5,0
+25/04/2022,Deslizamento,SR 6,0
+25/04/2022,Deslizamento,SR 7,0
+25/04/2022,Deslizamento,SR 8,0
+25/04/2022,Deslizamento,SR 9,0
+25/04/2022,Deslizamento,SR 10,0
+25/04/2022,Deslizamento,SR 11,0
+25/04/2022,Deslizamento,SR 12,0
+25/04/2022,Risco de Alagamento,SR 1,0
+25/04/2022,Risco de Alagamento,SR 2,0
+25/04/2022,Risco de Alagamento,SR 3,0
+25/04/2022,Risco de Alagamento,SR 4,0
+25/04/2022,Risco de Alagamento,SR 5,0
+25/04/2022,Risco de Alagamento,SR 6,0
+25/04/2022,Risco de Alagamento,SR 7,0
+25/04/2022,Risco de Alagamento,SR 8,0
+25/04/2022,Risco de Alagamento,SR 9,0
+25/04/2022,Risco de Alagamento,SR 10,0
+25/04/2022,Risco de Alagamento,SR 11,0
+25/04/2022,Risco de Alagamento,SR 12,0
+25/04/2022,Risco de Desabamento,SR 1,3
+25/04/2022,Risco de Desabamento,SR 2,1
+25/04/2022,Risco de Desabamento,SR 3,1
+25/04/2022,Risco de Desabamento,SR 4,2
+25/04/2022,Risco de Desabamento,SR 5,0
+25/04/2022,Risco de Desabamento,SR 6,0
+25/04/2022,Risco de Desabamento,SR 7,0
+25/04/2022,Risco de Desabamento,SR 8,2
+25/04/2022,Risco de Desabamento,SR 9,0
+25/04/2022,Risco de Desabamento,SR 10,1
+25/04/2022,Risco de Desabamento,SR 11,1
+25/04/2022,Risco de Desabamento,SR 12,0
+25/04/2022,Risco de Deslizamento,SR 1,0
+25/04/2022,Risco de Deslizamento,SR 2,0
+25/04/2022,Risco de Deslizamento,SR 3,0
+25/04/2022,Risco de Deslizamento,SR 4,0
+25/04/2022,Risco de Deslizamento,SR 5,0
+25/04/2022,Risco de Deslizamento,SR 6,0
+25/04/2022,Risco de Deslizamento,SR 7,0
+25/04/2022,Risco de Deslizamento,SR 8,0
+25/04/2022,Risco de Deslizamento,SR 9,0
+25/04/2022,Risco de Deslizamento,SR 10,0
+25/04/2022,Risco de Deslizamento,SR 11,0
+25/04/2022,Risco de Deslizamento,SR 12,0
+25/04/2022,Risco de Inundação,SR 1,0
+25/04/2022,Risco de Inundação,SR 2,0
+25/04/2022,Risco de Inundação,SR 3,0
+25/04/2022,Risco de Inundação,SR 4,0
+25/04/2022,Risco de Inundação,SR 5,0
+25/04/2022,Risco de Inundação,SR 6,0
+25/04/2022,Risco de Inundação,SR 7,0
+25/04/2022,Risco de Inundação,SR 8,0
+25/04/2022,Risco de Inundação,SR 9,0
+25/04/2022,Risco de Inundação,SR 10,0
+25/04/2022,Risco de Inundação,SR 11,0
+25/04/2022,Risco de Inundação,SR 12,0
+25/04/2022,Inundação,SR 1,0
+25/04/2022,Inundação,SR 2,0
+25/04/2022,Inundação,SR 3,0
+25/04/2022,Inundação,SR 4,0
+25/04/2022,Inundação,SR 5,0
+25/04/2022,Inundação,SR 6,0
+25/04/2022,Inundação,SR 7,0
+25/04/2022,Inundação,SR 8,0
+25/04/2022,Inundação,SR 9,0
+25/04/2022,Inundação,SR 10,0
+25/04/2022,Inundação,SR 11,0
+25/04/2022,Inundação,SR 12,0
+25/04/2022,Solapamento,SR 1,0
+25/04/2022,Solapamento,SR 2,0
+25/04/2022,Solapamento,SR 3,0
+25/04/2022,Solapamento,SR 4,0
+25/04/2022,Solapamento,SR 5,0
+25/04/2022,Solapamento,SR 6,0
+25/04/2022,Solapamento,SR 7,0
+25/04/2022,Solapamento,SR 8,0
+25/04/2022,Solapamento,SR 9,0
+25/04/2022,Solapamento,SR 10,0
+25/04/2022,Solapamento,SR 11,0
+25/04/2022,Solapamento,SR 12,0
+25/04/2022,Outros,SR 1,0
+25/04/2022,Outros,SR 2,1
+25/04/2022,Outros,SR 3,0
+25/04/2022,Outros,SR 4,0
+25/04/2022,Outros,SR 5,0
+25/04/2022,Outros,SR 6,0
+25/04/2022,Outros,SR 7,0
+25/04/2022,Outros,SR 8,0
+25/04/2022,Outros,SR 9,0
+25/04/2022,Outros,SR 10,0
+25/04/2022,Outros,SR 11,0
+25/04/2022,Outros,SR 12,0
+26/04/2022,Alagamento,SR 1,0
+26/04/2022,Alagamento,SR 2,0
+26/04/2022,Alagamento,SR 3,0
+26/04/2022,Alagamento,SR 4,0
+26/04/2022,Alagamento,SR 5,0
+26/04/2022,Alagamento,SR 6,0
+26/04/2022,Alagamento,SR 7,0
+26/04/2022,Alagamento,SR 8,0
+26/04/2022,Alagamento,SR 9,0
+26/04/2022,Alagamento,SR 10,0
+26/04/2022,Alagamento,SR 11,0
+26/04/2022,Alagamento,SR 12,0
+26/04/2022,Incêndio,SR 1,0
+26/04/2022,Incêndio,SR 2,0
+26/04/2022,Incêndio,SR 3,0
+26/04/2022,Incêndio,SR 4,0
+26/04/2022,Incêndio,SR 5,0
+26/04/2022,Incêndio,SR 6,0
+26/04/2022,Incêndio,SR 7,0
+26/04/2022,Incêndio,SR 8,0
+26/04/2022,Incêndio,SR 9,0
+26/04/2022,Incêndio,SR 10,0
+26/04/2022,Incêndio,SR 11,0
+26/04/2022,Incêndio,SR 12,0
+26/04/2022,Desabamento,SR 1,0
+26/04/2022,Desabamento,SR 2,0
+26/04/2022,Desabamento,SR 3,0
+26/04/2022,Desabamento,SR 4,0
+26/04/2022,Desabamento,SR 5,0
+26/04/2022,Desabamento,SR 6,0
+26/04/2022,Desabamento,SR 7,0
+26/04/2022,Desabamento,SR 8,0
+26/04/2022,Desabamento,SR 9,0
+26/04/2022,Desabamento,SR 10,0
+26/04/2022,Desabamento,SR 11,0
+26/04/2022,Desabamento,SR 12,0
+26/04/2022,Deslizamento,SR 1,0
+26/04/2022,Deslizamento,SR 2,0
+26/04/2022,Deslizamento,SR 3,0
+26/04/2022,Deslizamento,SR 4,0
+26/04/2022,Deslizamento,SR 5,0
+26/04/2022,Deslizamento,SR 6,0
+26/04/2022,Deslizamento,SR 7,0
+26/04/2022,Deslizamento,SR 8,0
+26/04/2022,Deslizamento,SR 9,0
+26/04/2022,Deslizamento,SR 10,0
+26/04/2022,Deslizamento,SR 11,0
+26/04/2022,Deslizamento,SR 12,0
+26/04/2022,Risco de Alagamento,SR 1,0
+26/04/2022,Risco de Alagamento,SR 2,0
+26/04/2022,Risco de Alagamento,SR 3,0
+26/04/2022,Risco de Alagamento,SR 4,0
+26/04/2022,Risco de Alagamento,SR 5,0
+26/04/2022,Risco de Alagamento,SR 6,0
+26/04/2022,Risco de Alagamento,SR 7,0
+26/04/2022,Risco de Alagamento,SR 8,0
+26/04/2022,Risco de Alagamento,SR 9,0
+26/04/2022,Risco de Alagamento,SR 10,0
+26/04/2022,Risco de Alagamento,SR 11,0
+26/04/2022,Risco de Alagamento,SR 12,0
+26/04/2022,Risco de Desabamento,SR 1,0
+26/04/2022,Risco de Desabamento,SR 2,2
+26/04/2022,Risco de Desabamento,SR 3,1
+26/04/2022,Risco de Desabamento,SR 4,0
+26/04/2022,Risco de Desabamento,SR 5,0
+26/04/2022,Risco de Desabamento,SR 6,0
+26/04/2022,Risco de Desabamento,SR 7,1
+26/04/2022,Risco de Desabamento,SR 8,0
+26/04/2022,Risco de Desabamento,SR 9,0
+26/04/2022,Risco de Desabamento,SR 10,0
+26/04/2022,Risco de Desabamento,SR 11,1
+26/04/2022,Risco de Desabamento,SR 12,5
+26/04/2022,Risco de Deslizamento,SR 1,0
+26/04/2022,Risco de Deslizamento,SR 2,0
+26/04/2022,Risco de Deslizamento,SR 3,0
+26/04/2022,Risco de Deslizamento,SR 4,0
+26/04/2022,Risco de Deslizamento,SR 5,0
+26/04/2022,Risco de Deslizamento,SR 6,0
+26/04/2022,Risco de Deslizamento,SR 7,0
+26/04/2022,Risco de Deslizamento,SR 8,0
+26/04/2022,Risco de Deslizamento,SR 9,0
+26/04/2022,Risco de Deslizamento,SR 10,0
+26/04/2022,Risco de Deslizamento,SR 11,0
+26/04/2022,Risco de Deslizamento,SR 12,0
+26/04/2022,Risco de Inundação,SR 1,0
+26/04/2022,Risco de Inundação,SR 2,0
+26/04/2022,Risco de Inundação,SR 3,0
+26/04/2022,Risco de Inundação,SR 4,0
+26/04/2022,Risco de Inundação,SR 5,0
+26/04/2022,Risco de Inundação,SR 6,0
+26/04/2022,Risco de Inundação,SR 7,0
+26/04/2022,Risco de Inundação,SR 8,0
+26/04/2022,Risco de Inundação,SR 9,0
+26/04/2022,Risco de Inundação,SR 10,0
+26/04/2022,Risco de Inundação,SR 11,0
+26/04/2022,Risco de Inundação,SR 12,0
+26/04/2022,Inundação,SR 1,0
+26/04/2022,Inundação,SR 2,0
+26/04/2022,Inundação,SR 3,0
+26/04/2022,Inundação,SR 4,0
+26/04/2022,Inundação,SR 5,0
+26/04/2022,Inundação,SR 6,0
+26/04/2022,Inundação,SR 7,0
+26/04/2022,Inundação,SR 8,0
+26/04/2022,Inundação,SR 9,0
+26/04/2022,Inundação,SR 10,0
+26/04/2022,Inundação,SR 11,0
+26/04/2022,Inundação,SR 12,0
+26/04/2022,Solapamento,SR 1,0
+26/04/2022,Solapamento,SR 2,0
+26/04/2022,Solapamento,SR 3,0
+26/04/2022,Solapamento,SR 4,0
+26/04/2022,Solapamento,SR 5,0
+26/04/2022,Solapamento,SR 6,0
+26/04/2022,Solapamento,SR 7,0
+26/04/2022,Solapamento,SR 8,0
+26/04/2022,Solapamento,SR 9,0
+26/04/2022,Solapamento,SR 10,1
+26/04/2022,Solapamento,SR 11,0
+26/04/2022,Solapamento,SR 12,0
+26/04/2022,Outros,SR 1,0
+26/04/2022,Outros,SR 2,0
+26/04/2022,Outros,SR 3,0
+26/04/2022,Outros,SR 4,0
+26/04/2022,Outros,SR 5,0
+26/04/2022,Outros,SR 6,0
+26/04/2022,Outros,SR 7,0
+26/04/2022,Outros,SR 8,0
+26/04/2022,Outros,SR 9,0
+26/04/2022,Outros,SR 10,0
+26/04/2022,Outros,SR 11,0
+26/04/2022,Outros,SR 12,0
+27/04/2022,Alagamento,SR 1,0
+27/04/2022,Alagamento,SR 2,0
+27/04/2022,Alagamento,SR 3,0
+27/04/2022,Alagamento,SR 4,0
+27/04/2022,Alagamento,SR 5,0
+27/04/2022,Alagamento,SR 6,0
+27/04/2022,Alagamento,SR 7,0
+27/04/2022,Alagamento,SR 8,0
+27/04/2022,Alagamento,SR 9,0
+27/04/2022,Alagamento,SR 10,0
+27/04/2022,Alagamento,SR 11,0
+27/04/2022,Alagamento,SR 12,0
+27/04/2022,Incêndio,SR 1,0
+27/04/2022,Incêndio,SR 2,0
+27/04/2022,Incêndio,SR 3,0
+27/04/2022,Incêndio,SR 4,0
+27/04/2022,Incêndio,SR 5,0
+27/04/2022,Incêndio,SR 6,0
+27/04/2022,Incêndio,SR 7,0
+27/04/2022,Incêndio,SR 8,0
+27/04/2022,Incêndio,SR 9,0
+27/04/2022,Incêndio,SR 10,0
+27/04/2022,Incêndio,SR 11,0
+27/04/2022,Incêndio,SR 12,0
+27/04/2022,Desabamento,SR 1,1
+27/04/2022,Desabamento,SR 2,0
+27/04/2022,Desabamento,SR 3,0
+27/04/2022,Desabamento,SR 4,1
+27/04/2022,Desabamento,SR 5,0
+27/04/2022,Desabamento,SR 6,0
+27/04/2022,Desabamento,SR 7,0
+27/04/2022,Desabamento,SR 8,0
+27/04/2022,Desabamento,SR 9,1
+27/04/2022,Desabamento,SR 10,0
+27/04/2022,Desabamento,SR 11,0
+27/04/2022,Desabamento,SR 12,0
+27/04/2022,Deslizamento,SR 1,0
+27/04/2022,Deslizamento,SR 2,0
+27/04/2022,Deslizamento,SR 3,0
+27/04/2022,Deslizamento,SR 4,0
+27/04/2022,Deslizamento,SR 5,0
+27/04/2022,Deslizamento,SR 6,0
+27/04/2022,Deslizamento,SR 7,0
+27/04/2022,Deslizamento,SR 8,0
+27/04/2022,Deslizamento,SR 9,0
+27/04/2022,Deslizamento,SR 10,0
+27/04/2022,Deslizamento,SR 11,0
+27/04/2022,Deslizamento,SR 12,0
+27/04/2022,Risco de Alagamento,SR 1,0
+27/04/2022,Risco de Alagamento,SR 2,0
+27/04/2022,Risco de Alagamento,SR 3,0
+27/04/2022,Risco de Alagamento,SR 4,0
+27/04/2022,Risco de Alagamento,SR 5,0
+27/04/2022,Risco de Alagamento,SR 6,0
+27/04/2022,Risco de Alagamento,SR 7,0
+27/04/2022,Risco de Alagamento,SR 8,0
+27/04/2022,Risco de Alagamento,SR 9,0
+27/04/2022,Risco de Alagamento,SR 10,0
+27/04/2022,Risco de Alagamento,SR 11,0
+27/04/2022,Risco de Alagamento,SR 12,0
+27/04/2022,Risco de Desabamento,SR 1,2
+27/04/2022,Risco de Desabamento,SR 2,1
+27/04/2022,Risco de Desabamento,SR 3,0
+27/04/2022,Risco de Desabamento,SR 4,0
+27/04/2022,Risco de Desabamento,SR 5,0
+27/04/2022,Risco de Desabamento,SR 6,2
+27/04/2022,Risco de Desabamento,SR 7,0
+27/04/2022,Risco de Desabamento,SR 8,1
+27/04/2022,Risco de Desabamento,SR 9,1
+27/04/2022,Risco de Desabamento,SR 10,0
+27/04/2022,Risco de Desabamento,SR 11,0
+27/04/2022,Risco de Desabamento,SR 12,0
+27/04/2022,Risco de Deslizamento,SR 1,0
+27/04/2022,Risco de Deslizamento,SR 2,0
+27/04/2022,Risco de Deslizamento,SR 3,0
+27/04/2022,Risco de Deslizamento,SR 4,0
+27/04/2022,Risco de Deslizamento,SR 5,0
+27/04/2022,Risco de Deslizamento,SR 6,0
+27/04/2022,Risco de Deslizamento,SR 7,0
+27/04/2022,Risco de Deslizamento,SR 8,0
+27/04/2022,Risco de Deslizamento,SR 9,0
+27/04/2022,Risco de Deslizamento,SR 10,0
+27/04/2022,Risco de Deslizamento,SR 11,0
+27/04/2022,Risco de Deslizamento,SR 12,0
+27/04/2022,Risco de Inundação,SR 1,0
+27/04/2022,Risco de Inundação,SR 2,0
+27/04/2022,Risco de Inundação,SR 3,0
+27/04/2022,Risco de Inundação,SR 4,0
+27/04/2022,Risco de Inundação,SR 5,0
+27/04/2022,Risco de Inundação,SR 6,0
+27/04/2022,Risco de Inundação,SR 7,0
+27/04/2022,Risco de Inundação,SR 8,0
+27/04/2022,Risco de Inundação,SR 9,0
+27/04/2022,Risco de Inundação,SR 10,0
+27/04/2022,Risco de Inundação,SR 11,0
+27/04/2022,Risco de Inundação,SR 12,0
+27/04/2022,Inundação,SR 1,0
+27/04/2022,Inundação,SR 2,0
+27/04/2022,Inundação,SR 3,0
+27/04/2022,Inundação,SR 4,0
+27/04/2022,Inundação,SR 5,0
+27/04/2022,Inundação,SR 6,0
+27/04/2022,Inundação,SR 7,0
+27/04/2022,Inundação,SR 8,0
+27/04/2022,Inundação,SR 9,0
+27/04/2022,Inundação,SR 10,0
+27/04/2022,Inundação,SR 11,0
+27/04/2022,Inundação,SR 12,0
+27/04/2022,Solapamento,SR 1,0
+27/04/2022,Solapamento,SR 2,0
+27/04/2022,Solapamento,SR 3,0
+27/04/2022,Solapamento,SR 4,0
+27/04/2022,Solapamento,SR 5,0
+27/04/2022,Solapamento,SR 6,0
+27/04/2022,Solapamento,SR 7,0
+27/04/2022,Solapamento,SR 8,0
+27/04/2022,Solapamento,SR 9,0
+27/04/2022,Solapamento,SR 10,0
+27/04/2022,Solapamento,SR 11,0
+27/04/2022,Solapamento,SR 12,0
+27/04/2022,Outros,SR 1,0
+27/04/2022,Outros,SR 2,0
+27/04/2022,Outros,SR 3,0
+27/04/2022,Outros,SR 4,0
+27/04/2022,Outros,SR 5,0
+27/04/2022,Outros,SR 6,0
+27/04/2022,Outros,SR 7,0
+27/04/2022,Outros,SR 8,0
+27/04/2022,Outros,SR 9,0
+27/04/2022,Outros,SR 10,0
+27/04/2022,Outros,SR 11,0
+27/04/2022,Outros,SR 12,0
+28/04/2022,Alagamento,SR 1,0
+28/04/2022,Alagamento,SR 2,0
+28/04/2022,Alagamento,SR 3,0
+28/04/2022,Alagamento,SR 4,0
+28/04/2022,Alagamento,SR 5,0
+28/04/2022,Alagamento,SR 6,0
+28/04/2022,Alagamento,SR 7,0
+28/04/2022,Alagamento,SR 8,0
+28/04/2022,Alagamento,SR 9,0
+28/04/2022,Alagamento,SR 10,0
+28/04/2022,Alagamento,SR 11,0
+28/04/2022,Alagamento,SR 12,0
+28/04/2022,Incêndio,SR 1,0
+28/04/2022,Incêndio,SR 2,0
+28/04/2022,Incêndio,SR 3,0
+28/04/2022,Incêndio,SR 4,0
+28/04/2022,Incêndio,SR 5,0
+28/04/2022,Incêndio,SR 6,0
+28/04/2022,Incêndio,SR 7,0
+28/04/2022,Incêndio,SR 8,0
+28/04/2022,Incêndio,SR 9,0
+28/04/2022,Incêndio,SR 10,0
+28/04/2022,Incêndio,SR 11,0
+28/04/2022,Incêndio,SR 12,0
+28/04/2022,Desabamento,SR 1,0
+28/04/2022,Desabamento,SR 2,0
+28/04/2022,Desabamento,SR 3,0
+28/04/2022,Desabamento,SR 4,0
+28/04/2022,Desabamento,SR 5,0
+28/04/2022,Desabamento,SR 6,0
+28/04/2022,Desabamento,SR 7,0
+28/04/2022,Desabamento,SR 8,0
+28/04/2022,Desabamento,SR 9,0
+28/04/2022,Desabamento,SR 10,0
+28/04/2022,Desabamento,SR 11,0
+28/04/2022,Desabamento,SR 12,0
+28/04/2022,Deslizamento,SR 1,0
+28/04/2022,Deslizamento,SR 2,0
+28/04/2022,Deslizamento,SR 3,0
+28/04/2022,Deslizamento,SR 4,0
+28/04/2022,Deslizamento,SR 5,0
+28/04/2022,Deslizamento,SR 6,0
+28/04/2022,Deslizamento,SR 7,0
+28/04/2022,Deslizamento,SR 8,0
+28/04/2022,Deslizamento,SR 9,0
+28/04/2022,Deslizamento,SR 10,0
+28/04/2022,Deslizamento,SR 11,0
+28/04/2022,Deslizamento,SR 12,0
+28/04/2022,Risco de Alagamento,SR 1,0
+28/04/2022,Risco de Alagamento,SR 2,0
+28/04/2022,Risco de Alagamento,SR 3,0
+28/04/2022,Risco de Alagamento,SR 4,0
+28/04/2022,Risco de Alagamento,SR 5,0
+28/04/2022,Risco de Alagamento,SR 6,0
+28/04/2022,Risco de Alagamento,SR 7,0
+28/04/2022,Risco de Alagamento,SR 8,0
+28/04/2022,Risco de Alagamento,SR 9,0
+28/04/2022,Risco de Alagamento,SR 10,0
+28/04/2022,Risco de Alagamento,SR 11,0
+28/04/2022,Risco de Alagamento,SR 12,0
+28/04/2022,Risco de Desabamento,SR 1,1
+28/04/2022,Risco de Desabamento,SR 2,1
+28/04/2022,Risco de Desabamento,SR 3,1
+28/04/2022,Risco de Desabamento,SR 4,0
+28/04/2022,Risco de Desabamento,SR 5,0
+28/04/2022,Risco de Desabamento,SR 6,1
+28/04/2022,Risco de Desabamento,SR 7,2
+28/04/2022,Risco de Desabamento,SR 8,2
+28/04/2022,Risco de Desabamento,SR 9,0
+28/04/2022,Risco de Desabamento,SR 10,2
+28/04/2022,Risco de Desabamento,SR 11,1
+28/04/2022,Risco de Desabamento,SR 12,1
+28/04/2022,Risco de Deslizamento,SR 1,0
+28/04/2022,Risco de Deslizamento,SR 2,0
+28/04/2022,Risco de Deslizamento,SR 3,0
+28/04/2022,Risco de Deslizamento,SR 4,0
+28/04/2022,Risco de Deslizamento,SR 5,0
+28/04/2022,Risco de Deslizamento,SR 6,0
+28/04/2022,Risco de Deslizamento,SR 7,0
+28/04/2022,Risco de Deslizamento,SR 8,0
+28/04/2022,Risco de Deslizamento,SR 9,0
+28/04/2022,Risco de Deslizamento,SR 10,0
+28/04/2022,Risco de Deslizamento,SR 11,0
+28/04/2022,Risco de Deslizamento,SR 12,0
+28/04/2022,Risco de Inundação,SR 1,0
+28/04/2022,Risco de Inundação,SR 2,0
+28/04/2022,Risco de Inundação,SR 3,0
+28/04/2022,Risco de Inundação,SR 4,0
+28/04/2022,Risco de Inundação,SR 5,0
+28/04/2022,Risco de Inundação,SR 6,0
+28/04/2022,Risco de Inundação,SR 7,0
+28/04/2022,Risco de Inundação,SR 8,0
+28/04/2022,Risco de Inundação,SR 9,0
+28/04/2022,Risco de Inundação,SR 10,0
+28/04/2022,Risco de Inundação,SR 11,0
+28/04/2022,Risco de Inundação,SR 12,0
+28/04/2022,Inundação,SR 1,0
+28/04/2022,Inundação,SR 2,0
+28/04/2022,Inundação,SR 3,0
+28/04/2022,Inundação,SR 4,0
+28/04/2022,Inundação,SR 5,0
+28/04/2022,Inundação,SR 6,0
+28/04/2022,Inundação,SR 7,0
+28/04/2022,Inundação,SR 8,0
+28/04/2022,Inundação,SR 9,0
+28/04/2022,Inundação,SR 10,0
+28/04/2022,Inundação,SR 11,0
+28/04/2022,Inundação,SR 12,0
+28/04/2022,Solapamento,SR 1,0
+28/04/2022,Solapamento,SR 2,0
+28/04/2022,Solapamento,SR 3,0
+28/04/2022,Solapamento,SR 4,0
+28/04/2022,Solapamento,SR 5,0
+28/04/2022,Solapamento,SR 6,0
+28/04/2022,Solapamento,SR 7,0
+28/04/2022,Solapamento,SR 8,0
+28/04/2022,Solapamento,SR 9,0
+28/04/2022,Solapamento,SR 10,0
+28/04/2022,Solapamento,SR 11,0
+28/04/2022,Solapamento,SR 12,0
+28/04/2022,Outros,SR 1,0
+28/04/2022,Outros,SR 2,0
+28/04/2022,Outros,SR 3,0
+28/04/2022,Outros,SR 4,0
+28/04/2022,Outros,SR 5,0
+28/04/2022,Outros,SR 6,0
+28/04/2022,Outros,SR 7,0
+28/04/2022,Outros,SR 8,0
+28/04/2022,Outros,SR 9,0
+28/04/2022,Outros,SR 10,0
+28/04/2022,Outros,SR 11,0
+28/04/2022,Outros,SR 12,0
+29/04/2022,Alagamento,SR 1,0
+29/04/2022,Alagamento,SR 2,0
+29/04/2022,Alagamento,SR 3,0
+29/04/2022,Alagamento,SR 4,0
+29/04/2022,Alagamento,SR 5,0
+29/04/2022,Alagamento,SR 6,0
+29/04/2022,Alagamento,SR 7,0
+29/04/2022,Alagamento,SR 8,0
+29/04/2022,Alagamento,SR 9,0
+29/04/2022,Alagamento,SR 10,0
+29/04/2022,Alagamento,SR 11,0
+29/04/2022,Alagamento,SR 12,0
+29/04/2022,Incêndio,SR 1,0
+29/04/2022,Incêndio,SR 2,0
+29/04/2022,Incêndio,SR 3,0
+29/04/2022,Incêndio,SR 4,0
+29/04/2022,Incêndio,SR 5,0
+29/04/2022,Incêndio,SR 6,0
+29/04/2022,Incêndio,SR 7,0
+29/04/2022,Incêndio,SR 8,0
+29/04/2022,Incêndio,SR 9,0
+29/04/2022,Incêndio,SR 10,0
+29/04/2022,Incêndio,SR 11,0
+29/04/2022,Incêndio,SR 12,0
+29/04/2022,Desabamento,SR 1,0
+29/04/2022,Desabamento,SR 2,0
+29/04/2022,Desabamento,SR 3,0
+29/04/2022,Desabamento,SR 4,0
+29/04/2022,Desabamento,SR 5,0
+29/04/2022,Desabamento,SR 6,0
+29/04/2022,Desabamento,SR 7,0
+29/04/2022,Desabamento,SR 8,0
+29/04/2022,Desabamento,SR 9,0
+29/04/2022,Desabamento,SR 10,0
+29/04/2022,Desabamento,SR 11,0
+29/04/2022,Desabamento,SR 12,0
+29/04/2022,Deslizamento,SR 1,0
+29/04/2022,Deslizamento,SR 2,0
+29/04/2022,Deslizamento,SR 3,0
+29/04/2022,Deslizamento,SR 4,0
+29/04/2022,Deslizamento,SR 5,0
+29/04/2022,Deslizamento,SR 6,0
+29/04/2022,Deslizamento,SR 7,0
+29/04/2022,Deslizamento,SR 8,0
+29/04/2022,Deslizamento,SR 9,0
+29/04/2022,Deslizamento,SR 10,0
+29/04/2022,Deslizamento,SR 11,0
+29/04/2022,Deslizamento,SR 12,0
+29/04/2022,Risco de Alagamento,SR 1,0
+29/04/2022,Risco de Alagamento,SR 2,0
+29/04/2022,Risco de Alagamento,SR 3,0
+29/04/2022,Risco de Alagamento,SR 4,0
+29/04/2022,Risco de Alagamento,SR 5,0
+29/04/2022,Risco de Alagamento,SR 6,0
+29/04/2022,Risco de Alagamento,SR 7,0
+29/04/2022,Risco de Alagamento,SR 8,0
+29/04/2022,Risco de Alagamento,SR 9,0
+29/04/2022,Risco de Alagamento,SR 10,0
+29/04/2022,Risco de Alagamento,SR 11,0
+29/04/2022,Risco de Alagamento,SR 12,0
+29/04/2022,Risco de Desabamento,SR 1,1
+29/04/2022,Risco de Desabamento,SR 2,1
+29/04/2022,Risco de Desabamento,SR 3,0
+29/04/2022,Risco de Desabamento,SR 4,0
+29/04/2022,Risco de Desabamento,SR 5,0
+29/04/2022,Risco de Desabamento,SR 6,0
+29/04/2022,Risco de Desabamento,SR 7,0
+29/04/2022,Risco de Desabamento,SR 8,0
+29/04/2022,Risco de Desabamento,SR 9,0
+29/04/2022,Risco de Desabamento,SR 10,0
+29/04/2022,Risco de Desabamento,SR 11,2
+29/04/2022,Risco de Desabamento,SR 12,1
+29/04/2022,Risco de Deslizamento,SR 1,0
+29/04/2022,Risco de Deslizamento,SR 2,0
+29/04/2022,Risco de Deslizamento,SR 3,0
+29/04/2022,Risco de Deslizamento,SR 4,0
+29/04/2022,Risco de Deslizamento,SR 5,0
+29/04/2022,Risco de Deslizamento,SR 6,0
+29/04/2022,Risco de Deslizamento,SR 7,0
+29/04/2022,Risco de Deslizamento,SR 8,0
+29/04/2022,Risco de Deslizamento,SR 9,0
+29/04/2022,Risco de Deslizamento,SR 10,0
+29/04/2022,Risco de Deslizamento,SR 11,0
+29/04/2022,Risco de Deslizamento,SR 12,0
+29/04/2022,Risco de Inundação,SR 1,0
+29/04/2022,Risco de Inundação,SR 2,0
+29/04/2022,Risco de Inundação,SR 3,0
+29/04/2022,Risco de Inundação,SR 4,0
+29/04/2022,Risco de Inundação,SR 5,0
+29/04/2022,Risco de Inundação,SR 6,0
+29/04/2022,Risco de Inundação,SR 7,0
+29/04/2022,Risco de Inundação,SR 8,0
+29/04/2022,Risco de Inundação,SR 9,0
+29/04/2022,Risco de Inundação,SR 10,0
+29/04/2022,Risco de Inundação,SR 11,0
+29/04/2022,Risco de Inundação,SR 12,0
+29/04/2022,Inundação,SR 1,0
+29/04/2022,Inundação,SR 2,0
+29/04/2022,Inundação,SR 3,0
+29/04/2022,Inundação,SR 4,0
+29/04/2022,Inundação,SR 5,0
+29/04/2022,Inundação,SR 6,0
+29/04/2022,Inundação,SR 7,1
+29/04/2022,Inundação,SR 8,0
+29/04/2022,Inundação,SR 9,0
+29/04/2022,Inundação,SR 10,0
+29/04/2022,Inundação,SR 11,0
+29/04/2022,Inundação,SR 12,0
+29/04/2022,Solapamento,SR 1,0
+29/04/2022,Solapamento,SR 2,0
+29/04/2022,Solapamento,SR 3,0
+29/04/2022,Solapamento,SR 4,0
+29/04/2022,Solapamento,SR 5,0
+29/04/2022,Solapamento,SR 6,0
+29/04/2022,Solapamento,SR 7,0
+29/04/2022,Solapamento,SR 8,0
+29/04/2022,Solapamento,SR 9,0
+29/04/2022,Solapamento,SR 10,0
+29/04/2022,Solapamento,SR 11,0
+29/04/2022,Solapamento,SR 12,0
+29/04/2022,Outros,SR 1,0
+29/04/2022,Outros,SR 2,0
+29/04/2022,Outros,SR 3,0
+29/04/2022,Outros,SR 4,0
+29/04/2022,Outros,SR 5,0
+29/04/2022,Outros,SR 6,0
+29/04/2022,Outros,SR 7,0
+29/04/2022,Outros,SR 8,0
+29/04/2022,Outros,SR 9,0
+29/04/2022,Outros,SR 10,0
+29/04/2022,Outros,SR 11,0
+29/04/2022,Outros,SR 12,0
+30/04/2022,Alagamento,SR 1,0
+30/04/2022,Alagamento,SR 2,0
+30/04/2022,Alagamento,SR 3,0
+30/04/2022,Alagamento,SR 4,1
+30/04/2022,Alagamento,SR 5,0
+30/04/2022,Alagamento,SR 6,1
+30/04/2022,Alagamento,SR 7,0
+30/04/2022,Alagamento,SR 8,5
+30/04/2022,Alagamento,SR 9,1
+30/04/2022,Alagamento,SR 10,0
+30/04/2022,Alagamento,SR 11,1
+30/04/2022,Alagamento,SR 12,0
+30/04/2022,Incêndio,SR 1,0
+30/04/2022,Incêndio,SR 2,0
+30/04/2022,Incêndio,SR 3,0
+30/04/2022,Incêndio,SR 4,0
+30/04/2022,Incêndio,SR 5,0
+30/04/2022,Incêndio,SR 6,0
+30/04/2022,Incêndio,SR 7,0
+30/04/2022,Incêndio,SR 8,0
+30/04/2022,Incêndio,SR 9,0
+30/04/2022,Incêndio,SR 10,0
+30/04/2022,Incêndio,SR 11,0
+30/04/2022,Incêndio,SR 12,0
+30/04/2022,Desabamento,SR 1,0
+30/04/2022,Desabamento,SR 2,0
+30/04/2022,Desabamento,SR 3,0
+30/04/2022,Desabamento,SR 4,1
+30/04/2022,Desabamento,SR 5,0
+30/04/2022,Desabamento,SR 6,0
+30/04/2022,Desabamento,SR 7,0
+30/04/2022,Desabamento,SR 8,0
+30/04/2022,Desabamento,SR 9,0
+30/04/2022,Desabamento,SR 10,0
+30/04/2022,Desabamento,SR 11,0
+30/04/2022,Desabamento,SR 12,0
+30/04/2022,Deslizamento,SR 1,0
+30/04/2022,Deslizamento,SR 2,0
+30/04/2022,Deslizamento,SR 3,0
+30/04/2022,Deslizamento,SR 4,0
+30/04/2022,Deslizamento,SR 5,0
+30/04/2022,Deslizamento,SR 6,0
+30/04/2022,Deslizamento,SR 7,0
+30/04/2022,Deslizamento,SR 8,0
+30/04/2022,Deslizamento,SR 9,0
+30/04/2022,Deslizamento,SR 10,0
+30/04/2022,Deslizamento,SR 11,0
+30/04/2022,Deslizamento,SR 12,0
+30/04/2022,Risco de Alagamento,SR 1,0
+30/04/2022,Risco de Alagamento,SR 2,0
+30/04/2022,Risco de Alagamento,SR 3,0
+30/04/2022,Risco de Alagamento,SR 4,0
+30/04/2022,Risco de Alagamento,SR 5,0
+30/04/2022,Risco de Alagamento,SR 6,0
+30/04/2022,Risco de Alagamento,SR 7,0
+30/04/2022,Risco de Alagamento,SR 8,0
+30/04/2022,Risco de Alagamento,SR 9,0
+30/04/2022,Risco de Alagamento,SR 10,0
+30/04/2022,Risco de Alagamento,SR 11,0
+30/04/2022,Risco de Alagamento,SR 12,0
+30/04/2022,Risco de Desabamento,SR 1,0
+30/04/2022,Risco de Desabamento,SR 2,0
+30/04/2022,Risco de Desabamento,SR 3,0
+30/04/2022,Risco de Desabamento,SR 4,0
+30/04/2022,Risco de Desabamento,SR 5,0
+30/04/2022,Risco de Desabamento,SR 6,0
+30/04/2022,Risco de Desabamento,SR 7,0
+30/04/2022,Risco de Desabamento,SR 8,1
+30/04/2022,Risco de Desabamento,SR 9,1
+30/04/2022,Risco de Desabamento,SR 10,1
+30/04/2022,Risco de Desabamento,SR 11,0
+30/04/2022,Risco de Desabamento,SR 12,0
+30/04/2022,Risco de Deslizamento,SR 1,0
+30/04/2022,Risco de Deslizamento,SR 2,0
+30/04/2022,Risco de Deslizamento,SR 3,0
+30/04/2022,Risco de Deslizamento,SR 4,0
+30/04/2022,Risco de Deslizamento,SR 5,0
+30/04/2022,Risco de Deslizamento,SR 6,0
+30/04/2022,Risco de Deslizamento,SR 7,0
+30/04/2022,Risco de Deslizamento,SR 8,0
+30/04/2022,Risco de Deslizamento,SR 9,0
+30/04/2022,Risco de Deslizamento,SR 10,0
+30/04/2022,Risco de Deslizamento,SR 11,0
+30/04/2022,Risco de Deslizamento,SR 12,0
+30/04/2022,Risco de Inundação,SR 1,0
+30/04/2022,Risco de Inundação,SR 2,0
+30/04/2022,Risco de Inundação,SR 3,0
+30/04/2022,Risco de Inundação,SR 4,0
+30/04/2022,Risco de Inundação,SR 5,0
+30/04/2022,Risco de Inundação,SR 6,0
+30/04/2022,Risco de Inundação,SR 7,0
+30/04/2022,Risco de Inundação,SR 8,0
+30/04/2022,Risco de Inundação,SR 9,0
+30/04/2022,Risco de Inundação,SR 10,0
+30/04/2022,Risco de Inundação,SR 11,0
+30/04/2022,Risco de Inundação,SR 12,0
+30/04/2022,Inundação,SR 1,1
+30/04/2022,Inundação,SR 2,0
+30/04/2022,Inundação,SR 3,7
+30/04/2022,Inundação,SR 4,0
+30/04/2022,Inundação,SR 5,2
+30/04/2022,Inundação,SR 6,2
+30/04/2022,Inundação,SR 7,0
+30/04/2022,Inundação,SR 8,5
+30/04/2022,Inundação,SR 9,0
+30/04/2022,Inundação,SR 10,3
+30/04/2022,Inundação,SR 11,17
+30/04/2022,Inundação,SR 12,0
+30/04/2022,Solapamento,SR 1,0
+30/04/2022,Solapamento,SR 2,0
+30/04/2022,Solapamento,SR 3,0
+30/04/2022,Solapamento,SR 4,0
+30/04/2022,Solapamento,SR 5,0
+30/04/2022,Solapamento,SR 6,0
+30/04/2022,Solapamento,SR 7,0
+30/04/2022,Solapamento,SR 8,0
+30/04/2022,Solapamento,SR 9,0
+30/04/2022,Solapamento,SR 10,0
+30/04/2022,Solapamento,SR 11,0
+30/04/2022,Solapamento,SR 12,0
+30/04/2022,Outros,SR 1,0
+30/04/2022,Outros,SR 2,0
+30/04/2022,Outros,SR 3,0
+30/04/2022,Outros,SR 4,1
+30/04/2022,Outros,SR 5,0
+30/04/2022,Outros,SR 6,0
+30/04/2022,Outros,SR 7,1
+30/04/2022,Outros,SR 8,0
+30/04/2022,Outros,SR 9,0
+30/04/2022,Outros,SR 10,0
+30/04/2022,Outros,SR 11,1
+30/04/2022,Outros,SR 12,0

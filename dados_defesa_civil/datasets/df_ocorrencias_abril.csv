@@ -1,0 +1,13 @@
+Tipologia de Ocorrência,SR 1,SR 2,SR 3,SR 4,SR 5,SR 6,SR 7,SR 8,SR 9,SR 10,SR 11,SR 12,QDE.
+Alagamento,3,6,4,5,0,4,7,4,1,0,2,0,36
+Incêndio,0,0,1,1,0,2,0,1,0,0,0,1,6
+Desabamento,5,1,7,14,1,1,2,2,2,0,2,5,42
+Deslizamento,0,0,0,0,0,0,0,0,0,0,0,0,0
+Risco de Alagamento,0,0,0,0,0,0,0,1,0,0,0,0,1
+Risco de Desabamento,26,44,19,26,7,16,14,22,6,11,20,16,227
+Risco de Deslizamento,0,0,0,0,0,0,1,0,0,0,0,0,1
+Risco de Inundação,0,0,0,0,0,0,0,0,1,0,0,0,1
+Inundação,1,5,8,1,2,3,2,6,10,3,19,0,60
+Solapamento,0,1,1,0,0,1,0,0,0,3,2,0,8
+Outros,0,4,0,4,0,0,1,1,0,0,1,0,11
+TOTAL,35,61,40,51,10,27,27,37,20,17,46,22,393
