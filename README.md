@@ -4,7 +4,7 @@ Há 25 anos, no dia 24 de abril de 1997, Fortaleza enfrentou a maior chuva do s�
 
 Passados os quatro primeiros meses de 2022, Fortaleza já era, até 3 de maio, o município cearense com maior volume de chuvas desde o início do ano. Entre março e abril, foram 58 dias de chuva na Capital, e a Coordenadoria Municipal de Proteção e Defesa Civil (COPDC) de Fortaleza atendeu 709 ocorrências, a maioria relacionada a riscos de desabamento.
 
-Entre esses dois eventos — e antes de 1997 —, outras grandes chuvas ocorreram e deixaram vestígios de suas forças. Diferentes em intensidade e duração, esses momentos têm em comum o fato de causarem impactos no dia a dia, no bem-estar e na qualidade de vida dos fortalezenses.
+Entre esses dois eventos — e antes de 1997 —, outras grandes chuvas ocorreram e deixaram vestígios de suas forças. Diferentes em intensidade e duração, esses momentos têm em comum o fato de causarem impactos no dia a dia, no bem-estar e na qualidade de vida dos fortalezenses. Portanto, é fundamental que a imprensa acompanhe e fiscalize esses eventos e cobre do poder público as devidas providências para a área.
 
 Este repositório refere-se à análise e apuração realizadas para a reportagem reportagem [Grandes chuvas em Fortaleza: impactos e aprendizados futuros](https://mais.opovo.com.br/reportagens-especiais/2022/05/18/grandes-chuvas-em-fortaleza-impactos-e-aprendizados-futuros.html), publicada no [O POVO Mais](https://mais.opovo.com.br/) no dia 18 de maio de 2022.
 
