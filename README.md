@@ -18,10 +18,10 @@ As bases utilizadas para as análises estão disponíveis em arquivo `.csv`, com
 
 ### Fontes de dados:
 
-- Por assessoria de imprensa:
+1. Por assessoria de imprensa:
 - [Funceme](http://www.funceme.br/)
 - [Coordenadoria Municipal de Proteção e Defesa Civil (COPDC) de Fortaleza](https://fortaleza.ce.gov.br/institucional/o-orgao)
-- Consulta a documento público:
+2. Consulta a documento público:
 - [“Fortaleza hoje”, do Projeto Fortaleza 2040](https://fortaleza2040.fortaleza.ce.gov.br/site/assets/revistas/i-mostra-virtual/index.html#page/58)
 
 ### Metodologia
